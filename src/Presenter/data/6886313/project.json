@@ -1,0 +1,170 @@
+{
+    "copyright": {
+        "description": "Attribution-NonCommercial-NoDerivs", 
+        "license": "cc by-nc-nd", 
+        "license_id": 1
+    }, 
+    "covers": {
+        "115": "https://m1.behance.net/rendition/projects/6886313/115/17ab36405577464f328e54340c850839.jpg", 
+        "202": "https://m1.behance.net/rendition/projects/6886313/orig/17ab36405577464f328e54340c850839.jpg", 
+        "230": "https://m1.behance.net/rendition/projects/6886313/230/17ab36405577464f328e54340c850839.jpg", 
+        "404": "https://m1.behance.net/rendition/projects/6886313/404/17ab36405577464f328e54340c850839.jpg"
+    }, 
+    "created_on": 1359404987, 
+    "description": "Packaging design for food to Go company", 
+    "fields": [
+        "Branding", 
+        "Graphic Design", 
+        "Packaging"
+    ], 
+    "for_sale": 0, 
+    "id": 6886313, 
+    "mature_access": "allowed", 
+    "mature_content": 0, 
+    "modified_on": 1359405772, 
+    "modules": [
+        {
+            "id": 53035305, 
+            "text": "<div><br />\n<span style=\"font-size:14px;\"><span class=\"italic\"><span style=\"font-family:helvetica,arial,sans-serif;\">Hot Cafe is Food to Go restaurant chain. Logo was the only thing company wants to left. So the cool thing about this project, was the opportunity to create the full brand idea &nbsp;from the begining. Goal was to make fresh and bright food packaging and whole brand concept.<br />\nWork was made on Bambuk Design studio.</span></span></span></div>\n", 
+            "text_plain": "\nHot Cafe is Food to Go restaurant chain. Logo was the only thing company wants to left. So the cool thing about this project, was the opportunity to create the full brand idea &nbsp;from the begining. Goal was to make fresh and bright food packaging and whole brand concept.\nWork was made on Bambuk Design studio.\n", 
+            "type": "text"
+        }, 
+        {
+            "height": 5916, 
+            "id": 53035307, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/53035307/hd/bb2ced09445868959ac9efcef75f25e6.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/53035307/orig/bb2ced09445868959ac9efcef75f25e6.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/53035307/disp/bb2ced09445868959ac9efcef75f25e6.jpg", 
+            "type": "image", 
+            "width": 600
+        }
+    ], 
+    "name": "Packaging design for Hot Cafe", 
+    "owners": [
+        {
+            "city": "Lviv", 
+            "company": "", 
+            "country": "Ukraine", 
+            "created_on": 1340368694, 
+            "display_name": "Ilona Belous", 
+            "fields": [
+                "Graphic Design", 
+                "Branding", 
+                "Packaging"
+            ], 
+            "first_name": "Ilona", 
+            "id": 1273345, 
+            "images": {
+                "115": "https://mir-cdn.behance.net/v1/rendition/user/115/1273345.53b3e77261409.jpg", 
+                "138": "https://mir-cdn.behance.net/v1/rendition/user/138/1273345.53b3e77261409.jpg", 
+                "50": "https://mir-cdn.behance.net/v1/rendition/user/50/1273345.53b3e77261409.jpg"
+            }, 
+            "last_name": "Belous", 
+            "location": "Lviv, Ukraine", 
+            "occupation": "", 
+            "state": "", 
+            "url": "http://www.behance.net/ilonabelous", 
+            "username": "ilonabelous"
+        }
+    ], 
+    "privacy": "public", 
+    "published_on": 1359405772, 
+    "short_url": "http://bit.ly/TNx6U4", 
+    "stats": {
+        "appreciations": 982, 
+        "comments": 67, 
+        "views": 12975
+    }, 
+    "styles": {
+        "background": {
+            "color": "FFFFFF"
+        }, 
+        "dividers": {
+            "display": "none"
+        }, 
+        "spacing": {
+            "modules": {
+                "bottom_margin": 16
+            }, 
+            "project": {
+                "top_margin": 28
+            }
+        }, 
+        "text": {
+            "caption": {
+                "color": "#3B3B3B", 
+                "display": "block", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "11px", 
+                "font_style": "italic", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "link": {
+                "color": "#1769FF", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "paragraph": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "subtitle": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "14px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "title": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "16px", 
+                "font_style": "normal", 
+                "font_weight": "bold", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }
+        }
+    }, 
+    "tags": [
+        "packaging design", 
+        "Food to Go", 
+        "Food Packaging", 
+        "food illustration", 
+        "food drawing", 
+        "fast food packagin", 
+        "fast food design", 
+        "Fast food", 
+        "bright", 
+        "fresh food", 
+        "food icon", 
+        "meal packaging", 
+        "coffe holder ", 
+        "coffe cup"
+    ], 
+    "url": "http://www.behance.net/gallery/6886313/Packaging-design-for-Hot-Cafe"
+}

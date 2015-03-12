@@ -1,0 +1,45 @@
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003"
+         ToolsVersion="12.0" DefaultTargets="Build" >
+
+  <PropertyGroup>
+    <Here>$(MSBuildThisFileDirectory)</Here>
+  </PropertyGroup>
+
+  <!-- Import all ProjectFiles here -->
+  <ItemGroup>
+    <ProjectFiles Include="src\KinectGlue\KinectGlue.csproj"/>
+    <ProjectFiles Include="src\StatsServer\StatsServer.csproj"/>
+
+    <TestProjectFiles Include="src\Tests\Tests.csproj"/>
+
+  </ItemGroup>
+
+  <Target Name="_Clean">
+    <Delete Files="bin\**\*.*" />
+  </Target>
+
+  <Target Name="_CheckPrerequisites">
+  </Target>
+
+  <Target Name="Build" DependsOnTargets="_Clean; _CheckPrerequisites;" >
+
+    <MSBuild Projects="@(ProjectFiles);" Targets="Clean;Build" Properties="TrackFileAccess=False;"/>
+
+ </Target>
+
+ <Target Name="JustPack">
+    
+    <Exec Command="
+robocopy bin\ ..\kinect-behance-distr\bin\ /MIR ^
+  /NS /NJH /NJS /NP /NDL ^
+  /XF *.vshost.exe *.vshost.exe.* *.svclog
+
+exit 0
+      ">
+    </Exec>
+ </Target>
+
+ <Target Name="Pack" DependsOnTargets="Build; JustPack" >
+ </Target>
+
+</Project>

@@ -1,0 +1,289 @@
+{
+    "copyright": {
+        "description": "Attribution-NonCommercial", 
+        "license": "cc by-nc", 
+        "license_id": 3
+    }, 
+    "covers": {
+        "115": "https://mir-cdn.behance.net/v1/rendition/projects/115/94608.5437716fbc914.jpg", 
+        "202": "https://mir-cdn.behance.net/v1/rendition/projects/202/94608.5437716fbc914.jpg", 
+        "230": "https://mir-cdn.behance.net/v1/rendition/projects/230/94608.5437716fbc914.jpg", 
+        "404": "https://mir-cdn.behance.net/v1/rendition/projects/404/94608.5437716fbc914.jpg"
+    }, 
+    "created_on": 1211669129, 
+    "description": "Mics. Cover Art\nEsquire, Bolshoy gorod, F5, Afisha, etc", 
+    "fields": [
+        "Art Direction", 
+        "Illustration"
+    ], 
+    "for_sale": 0, 
+    "id": 94608, 
+    "mature_access": "allowed", 
+    "mature_content": 0, 
+    "modified_on": 1412083555, 
+    "modules": [
+        {
+            "id": 233347, 
+            "text": "<div><br><br><br><span style=\"color: rgb(255, 255, 255);\">Esquire magazine / Rules of Life in Russia</span><br></div>", 
+            "text_plain": "Esquire magazine / Rules of Life in Russia", 
+            "type": "text"
+        }, 
+        {
+            "height": 827, 
+            "id": 24895545, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/24895545/hd/ef15fe9a00cb32739eff1a4d025c3807.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/24895545/orig/ef15fe9a00cb32739eff1a4d025c3807.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/24895545/disp/ef15fe9a00cb32739eff1a4d025c3807.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "id": 24893559, 
+            "text": "<div><span style=\"color: rgb(255, 255, 255);\"><span style=\" font-family: arial,helvetica,sans-serif;\"><br><br><br>F5 / VOINA (War) Art-Group</span><br></span></div>", 
+            "text_plain": "F5 / VOINA (War) Art-Group", 
+            "type": "text"
+        }, 
+        {
+            "height": 900, 
+            "id": 24893557, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/24893557/hd/34f112e8817874a6a608f107f0e56316.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/24893557/orig/34f112e8817874a6a608f107f0e56316.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/24893557/disp/34f112e8817874a6a608f107f0e56316.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "id": 233335, 
+            "text": "<div><br><br><br><span style=\"color: rgb(255, 255, 255);\">Bolshoi Gorod magazine / Favourite monuments (Gagarin)</span><br></div>", 
+            "text_plain": "Bolshoi Gorod magazine / Favourite monuments (Gagarin)", 
+            "type": "text"
+        }, 
+        {
+            "height": 752, 
+            "id": 24917393, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/24917393/hd/59771cd4125fc98d3635e12bf55adc75.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/24917393/orig/59771cd4125fc98d3635e12bf55adc75.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/24917393/disp/59771cd4125fc98d3635e12bf55adc75.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 529, 
+            "id": 233339, 
+            "sizes": [], 
+            "src": "https://m1.behance.net/rendition/modules/233339/disp/703201211669559.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "id": 233341, 
+            "text": "<div><br><br><br><span style=\"color: rgb(255, 255, 255);\">Bolshoi Gorod magazine / Salekhard. The richest city of the country</span></div>", 
+            "text_plain": "Bolshoi Gorod magazine / Salekhard. The richest city of the country", 
+            "type": "text"
+        }, 
+        {
+            "height": 747, 
+            "id": 233343, 
+            "sizes": [], 
+            "src": "https://m1.behance.net/rendition/modules/233343/disp/703201211669807.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 530, 
+            "id": 233345, 
+            "sizes": [], 
+            "src": "https://m1.behance.net/rendition/modules/233345/disp/703201211669848.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "id": 24893565, 
+            "text": "<div><br><br><br><span style=\"color: rgb(255, 255, 255);\">Afisha / What happens?<br></span></div>", 
+            "text_plain": "Afisha / What happens?", 
+            "type": "text"
+        }, 
+        {
+            "height": 824, 
+            "id": 24893567, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/24893567/hd/3285b9440b1b6bc2083105a7e173ddf3.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/24893567/orig/3285b9440b1b6bc2083105a7e173ddf3.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/24893567/disp/3285b9440b1b6bc2083105a7e173ddf3.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "id": 24893561, 
+            "text": "<div><br><br><br><span style=\"color: rgb(255, 255, 255);\">F5 / Internet as a weapon of the Proletariat</span></div>", 
+            "text_plain": "F5 / Internet as a weapon of the Proletariat", 
+            "type": "text"
+        }, 
+        {
+            "height": 900, 
+            "id": 24893563, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/24893563/hd/a0020ee5aaaa5700ef8106070c0bf366.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/24893563/orig/a0020ee5aaaa5700ef8106070c0bf366.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/24893563/disp/a0020ee5aaaa5700ef8106070c0bf366.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "id": 1971682, 
+            "text": "<div><span style=\"color: rgb(255, 255, 255);\"><br><br><br>Igromania magazine / Singularity game</span><br></div>", 
+            "text_plain": "Igromania magazine / Singularity game", 
+            "type": "text"
+        }, 
+        {
+            "height": 826, 
+            "id": 24895543, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/24895543/hd/0b48eb02dd7c2717cf682b02861ff499.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/24895543/orig/0b48eb02dd7c2717cf682b02861ff499.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/24895543/disp/0b48eb02dd7c2717cf682b02861ff499.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "id": 41308077, 
+            "text": "<div><br><br><br><span style=\"color: rgb(255, 255, 255);\">ProSport / Russian Premier League</span><br></div>", 
+            "text_plain": "ProSport / Russian Premier League", 
+            "type": "text"
+        }, 
+        {
+            "height": 714, 
+            "id": 41308075, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/41308075/hd/a2723aae3f7010c69ef0ed731d57fb80.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/41308075/orig/a2723aae3f7010c69ef0ed731d57fb80.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/41308075/disp/a2723aae3f7010c69ef0ed731d57fb80.jpg", 
+            "type": "image", 
+            "width": 600
+        }
+    ], 
+    "name": "Magazine covers", 
+    "owners": [
+        {
+            "city": "Lviv", 
+            "company": "", 
+            "country": "Ukraine", 
+            "created_on": 1206321594, 
+            "display_name": "Sergey Snurnik", 
+            "fields": [
+                "Illustration", 
+                "Digital Art", 
+                "Art Direction"
+            ], 
+            "first_name": "Sergey", 
+            "id": 70320, 
+            "images": {
+                "115": "https://mir-cdn.behance.net/v1/rendition/user/115/70320.53ab08d0b85ef.jpg", 
+                "138": "https://mir-cdn.behance.net/v1/rendition/user/138/70320.53ab08d0b85ef.jpg", 
+                "50": "https://mir-cdn.behance.net/v1/rendition/user/50/70320.53ab08d0b85ef.jpg"
+            }, 
+            "last_name": "Snurnik", 
+            "location": "Lviv, Ukraine", 
+            "occupation": "", 
+            "state": "", 
+            "url": "http://www.behance.net/SergeySnurnik", 
+            "username": "SergeySnurnik"
+        }
+    ], 
+    "privacy": "public", 
+    "published_on": 1211671297, 
+    "short_url": "http://bit.ly/bWJeUQ", 
+    "stats": {
+        "appreciations": 90, 
+        "comments": 24, 
+        "views": 1460
+    }, 
+    "styles": {
+        "background": {
+            "color": "1A1A1A"
+        }, 
+        "dividers": {
+            "display": "none"
+        }, 
+        "spacing": {
+            "modules": {
+                "bottom_margin": 20
+            }, 
+            "project": {
+                "top_margin": 25
+            }
+        }, 
+        "text": {
+            "caption": {
+                "color": "#3B3B3B", 
+                "display": "block", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "link": {
+                "color": "#005CFF", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "paragraph": {
+                "color": "#FFFAFA", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "subtitle": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "title": {
+                "color": "#FFFFFF", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }
+        }
+    }, 
+    "tags": [
+        "Esquire", 
+        "Bolshoy Gorod"
+    ], 
+    "url": "http://www.behance.net/gallery/94608/Magazine-covers"
+}

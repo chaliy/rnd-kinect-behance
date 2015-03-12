@@ -1,0 +1,137 @@
+
+<div id="body" style="left:{{ distanceX * 100|number:1}}px; position: relative">
+
+    <div class="container">
+
+        <div class="prev-pseudo-cover">
+            <img ng-src="data/{{projectCenter.id}}/cover.png" alt="">
+        </div>
+
+        <div class="works">
+
+            <div class="work first">
+                <div class="cover">
+                    <img ng-src="data/{{projectCenter.id}}/cover.png" alt="">
+                </div>
+                <div class="inner">
+                    <header class="header">
+                        <div class="title-container">
+                            <h3 class="category">Art Direction / UI/UX / Web Design </h3>
+                            <h1 class="title">The Designer's Guide to Startup Weekend</h1>
+                            <h3 class="author">by Oleg Gasioshyn</h3>
+                        </div>
+                    </header>
+                </div>
+            </div>
+
+            <div class="work prev" id="prev">
+                <div class="cover" style="left:{{ distanceX * 100|number:1}}px;">
+                    <img ng-src="data/{{projectLeft.id}}/cover.png" alt="">
+                </div>
+                <div class="inner">
+                    <header class="header">
+                        <div class="title-container">
+                            <h3 class="category">{{projectLeft.category}}</h3>
+                            <h1 class="title">{{projectLeft.title}}</h1>
+                            <h3 class="author">by {{projectLeft.author}}</h3>
+                        </div>
+                    </header>
+                </div>
+            </div>
+
+            <div class="work central active" id="main">
+                <div class="cover">
+                    <img ng-src="data/{{projectCenter.id}}/cover.png" alt="">
+                </div>
+
+                <div class="inner">
+                    <header class="header">
+                        <div class="title-container">
+                            <h3 class="category">{{projectCenter.category}}</h3>
+                            <h1 class="title">{{projectCenter.title}}</h1>
+                            <h3 class="author">by {{projectCenter.author}}</h3>
+                        </div>
+                    </header>
+
+                    <div class="content">
+                       <ul id="badges" ng-class="{'be':projectCenter.award[0],
+                                                  'aw':projectCenter.award[1],
+                                                  'wd':projectCenter.award[2],
+                                                  'cd':projectCenter.award[3],
+                                                  'ad':projectCenter.award[4]}">
+                           <li class="be"><img ng-src="https://a2.behance.net/img/galleries/ribbons/1x/net.png"></li>
+                           <li class="aw"><img ng-src="https://a2.behance.net/img/galleries/ribbons/1x/adweek.png"></li>
+                           <li class="wd"><img ng-src="https://a2.behance.net/img/galleries/ribbons/1x/webdesign.png"></li>
+                           <li class="cd"><img ng-src="https://a2.behance.net/img/galleries/ribbons/1x/character.png"></li>
+                           <li class="ad"><img ng-src="https://a2.behance.net/img/galleries/ribbons/1x/app.png"></li>
+                           <li class="ad"><img ng-src="https://a2.behance.net/img/galleries/ribbons/1x/typography.png"></li>
+                       </ul>
+                        <section ng-bind-html="projectCenter.html">
+
+                        </section>
+                        <footer class="footer"></footer>
+                    </div>
+                </div>
+
+                <div class="likes">
+                    <h4>Like project?</h4>
+                    <h3>Thumbs up to appreciate!</h3>
+                    <h2 class="thx">Thank you!</h2>
+                    <div class="likes-wrapper">
+                    <span class="like-icon-outer left">
+                        <i>
+                            <span class="like-icon-left like-icon"></span>
+                        </i>
+                    </span>
+                    <span class="like-amount">
+                        <span>{{projectCenter.like}}</span>
+                    </span>
+                    <span class="like-icon-outer right">
+                        <i>
+                            <span class="like-icon-right like-icon"></span>
+                        </i>
+                    </span>
+                    </div>
+                </div>
+                <div class="fade-bottom"></div>
+            </div>
+
+            <div class="work next" id="next">
+
+                <div class="cover" style="left:{{ distanceX * 100|number:1}}px;">
+                    <img ng-src="data/{{projectRight.id}}/cover.png" alt="">
+                </div>
+                <div class="inner">
+                    <header class="header">
+                        <div class="title-container">
+                            <h3 class="category">{{projectRight.category}}</h3>
+                            <h1 class="title">{{projectRight.title}}</h1>
+                            <h3 class="author">by {{projectRight.author}}</h3>
+                        </div>
+                    </header>
+                </div>
+
+            </div>
+
+            <div class="work last">
+                <div class="cover">
+                    <img ng-src="data/{{projectLeft.id}}/cover.png" alt="">
+                </div>
+                <div class="inner">
+                    <header class="header">
+                        <div class="title-container">
+                            <h3 class="category">Art Direction / UI/UX / Web Design </h3>
+                            <h1 class="title">{{projectLeft.title}}</h1>
+                            <h3 class="author">by Oleg Gasioshyn</h3>
+                        </div>
+                    </header>
+                </div>
+            </div>
+
+        </div><!-- .works -->
+    </div><!-- .container -->
+</div><!-- #body -->
+
+<div class="fade-left"></div>
+<div class="fade-right"></div>
+

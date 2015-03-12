@@ -1,0 +1,258 @@
+{
+    "copyright": {
+        "description": "Attribution-NonCommercial", 
+        "license": "cc by-nc", 
+        "license_id": 3
+    }, 
+    "covers": {
+        "115": "https://m1.behance.net/rendition/projects/16036635/115/dbf5ac53af68c5096f54ccb007005a85.jpeg", 
+        "202": "https://m1.behance.net/rendition/projects/16036635/orig/dbf5ac53af68c5096f54ccb007005a85.jpeg", 
+        "230": "https://m1.behance.net/rendition/projects/16036635/230/dbf5ac53af68c5096f54ccb007005a85.jpeg", 
+        "404": "https://m1.behance.net/rendition/projects/16036635/404/dbf5ac53af68c5096f54ccb007005a85.jpeg"
+    }, 
+    "created_on": 1397221371, 
+    "description": "Leono candy", 
+    "fields": [
+        "Illustration", 
+        "Packaging", 
+        "Pattern Design"
+    ], 
+    "for_sale": 0, 
+    "id": 16036635, 
+    "mature_access": "allowed", 
+    "mature_content": 0, 
+    "modified_on": 1397224229, 
+    "modules": [
+        {
+            "height": 202, 
+            "id": 109632843, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/109632843/hd/58d7616b5575cf09724e7dc678f15709.png", 
+                "original": "https://m1.behance.net/rendition/modules/109632843/orig/58d7616b5575cf09724e7dc678f15709.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/109632843/disp/58d7616b5575cf09724e7dc678f15709.png", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 208, 
+            "id": 109632845, 
+            "sizes": {
+                "original": "https://m1.behance.net/rendition/modules/109632845/orig/7d811fdfc97719b6519064b89c416758.gif"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/109632845/disp/7d811fdfc97719b6519064b89c416758.gif", 
+            "type": "image", 
+            "width": 596
+        }, 
+        {
+            "height": 866, 
+            "id": 109632847, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/109632847/hd/bf352f05d6e4ee92f2d469716dc01d62.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/109632847/orig/bf352f05d6e4ee92f2d469716dc01d62.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/109632847/disp/bf352f05d6e4ee92f2d469716dc01d62.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 388, 
+            "id": 109632849, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/109632849/hd/e6905d9c4ebdfe1c4741d39e55e14d19.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/109632849/orig/e6905d9c4ebdfe1c4741d39e55e14d19.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/109632849/disp/e6905d9c4ebdfe1c4741d39e55e14d19.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 396, 
+            "id": 109632853, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/109632853/hd/b76efdcb08069d9afc84ba062f453c9c.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/109632853/orig/b76efdcb08069d9afc84ba062f453c9c.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/109632853/disp/b76efdcb08069d9afc84ba062f453c9c.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 381, 
+            "id": 109632851, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/109632851/hd/63ee011737db1cc22bb7f9edbcb0b658.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/109632851/orig/63ee011737db1cc22bb7f9edbcb0b658.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/109632851/disp/63ee011737db1cc22bb7f9edbcb0b658.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 761, 
+            "id": 109636557, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/109636557/hd/a8c933a60d5149c267e5aff355bdfbf1.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/109636557/orig/a8c933a60d5149c267e5aff355bdfbf1.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/109636557/disp/a8c933a60d5149c267e5aff355bdfbf1.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 348, 
+            "id": 109636559, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/109636559/hd/c1e557316ef0144430c1f8ad14f3d034.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/109636559/orig/c1e557316ef0144430c1f8ad14f3d034.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/109636559/disp/c1e557316ef0144430c1f8ad14f3d034.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 458, 
+            "id": 109639031, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/109639031/hd/6012688a40dcb852f36aa489a2e9b96f.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/109639031/orig/6012688a40dcb852f36aa489a2e9b96f.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/109639031/disp/6012688a40dcb852f36aa489a2e9b96f.jpg", 
+            "type": "image", 
+            "width": 600
+        }
+    ], 
+    "name": "Leono", 
+    "owners": [
+        {
+            "city": "Lviv", 
+            "company": "", 
+            "country": "Ukraine", 
+            "created_on": 1302172472, 
+            "display_name": "Olena Fedorova", 
+            "fields": [
+                "Branding", 
+                "Illustration", 
+                "Graphic Design"
+            ], 
+            "first_name": "Olena", 
+            "id": 398539, 
+            "images": {
+                "100": "https://mir-cdn.behance.net/v1/rendition/user/100/398539.53adc92c5d5af.jpg", 
+                "115": "https://mir-cdn.behance.net/v1/rendition/user/115/398539.53adc92c5d5af.jpg", 
+                "138": "https://mir-cdn.behance.net/v1/rendition/user/138/398539.53adc92c5d5af.jpg", 
+                "230": "https://mir-cdn.behance.net/v1/rendition/user/230/398539.53adc92c5d5af.jpg", 
+                "276": "https://mir-cdn.behance.net/v1/rendition/user/276/398539.53adc92c5d5af.jpg", 
+                "50": "https://mir-cdn.behance.net/v1/rendition/user/50/398539.53adc92c5d5af.jpg"
+            }, 
+            "last_name": "Fedorova", 
+            "location": "Lviv, Ukraine", 
+            "occupation": "", 
+            "state": "", 
+            "url": "http://www.behance.net/olenafedorova", 
+            "username": "olenafedorova"
+        }
+    ], 
+    "privacy": "public", 
+    "published_on": 1397221804, 
+    "short_url": "http://bit.ly/R99FVi", 
+    "stats": {
+        "appreciations": 209, 
+        "comments": 26, 
+        "views": 2013
+    }, 
+    "styles": {
+        "background": {
+            "color": "FFFFFF", 
+            "image": {
+                "name": "0ebe1d9bfab517d0dc6664bd0ed289ca.jpg", 
+                "position": "top center", 
+                "repeat": "no-repeat", 
+                "url": "https://m1.behance.net/profiles11/398539/projects/16036635/0ebe1d9bfab517d0dc6664bd0ed289ca.jpg"
+            }
+        }, 
+        "dividers": {
+            "display": "none"
+        }, 
+        "spacing": {
+            "modules": {
+                "bottom_margin": 45
+            }, 
+            "project": {
+                "top_margin": 85
+            }
+        }, 
+        "text": {
+            "caption": {
+                "color": "#3B3B3B", 
+                "display": "block", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "11px", 
+                "font_style": "italic", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "link": {
+                "color": "#1769FF", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "paragraph": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "subtitle": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "14px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "title": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "16px", 
+                "font_style": "normal", 
+                "font_weight": "bold", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }
+        }
+    }, 
+    "tags": [
+        "leono", 
+        "Sweets", 
+        "chocolate", 
+        "packaging design", 
+        "Pack", 
+        "package", 
+        "Lviv", 
+        "ukraine", 
+        "Candy", 
+        "spring", 
+        "fruits", 
+        "Fruits in chocolate"
+    ], 
+    "url": "http://www.behance.net/gallery/16036635/Leono"
+}

@@ -1,0 +1,457 @@
+{
+    "copyright": {
+        "description": "Attribution-NonCommercial", 
+        "license": "cc by-nc", 
+        "license_id": 3
+    }, 
+    "covers": {
+        "115": "https://m1.behance.net/rendition/projects/16525321/115/1ff87671db43651aeb4b976cb86a40ae.png", 
+        "202": "https://m1.behance.net/rendition/projects/16525321/orig/1ff87671db43651aeb4b976cb86a40ae.png", 
+        "230": "https://m1.behance.net/rendition/projects/16525321/230/1ff87671db43651aeb4b976cb86a40ae.png", 
+        "404": "https://m1.behance.net/rendition/projects/16525321/404/1ff87671db43651aeb4b976cb86a40ae.png"
+    }, 
+    "created_on": 1398878149, 
+    "description": "Inbound marketing agency web site", 
+    "features": [
+        {
+            "featured_on": 1402432201, 
+            "site": {
+                "domain": "www.behance.net", 
+                "icon": "https://a2.behance.net/img/site/favicon.ico", 
+                "id": 1, 
+                "key": "net", 
+                "name": "Behance.net", 
+                "ribbon": {
+                    "image": "https://a2.behance.net/img/galleries/ribbons/1x/net.png", 
+                    "image_2x": "https://a2.behance.net/img/galleries/ribbons/2x/net@2x.png"
+                }, 
+                "url": "http://www.behance.net"
+            }, 
+            "url": "http://www.behance.net/gallery/16525321/Impakt"
+        }, 
+        {
+            "featured_on": 1399348802, 
+            "site": {
+                "domain": "talent.adweek.com", 
+                "icon": "https://a2.behance.net/img/galleries/composed/adweek.png", 
+                "id": 61, 
+                "key": "adweek", 
+                "name": "Adweek Talent Gallery", 
+                "network_id": 9, 
+                "ribbon": {
+                    "image": "https://a2.behance.net/img/galleries/ribbons/1x/adweek.png", 
+                    "image_2x": "https://a2.behance.net/img/galleries/ribbons/2x/adweek@2x.png"
+                }, 
+                "url": "http://talent.adweek.com"
+            }, 
+            "url": "http://talent.adweek.com/gallery/16525321/Impakt"
+        }, 
+        {
+            "featured_on": 1401804002, 
+            "site": {
+                "domain": "webdesignserved.com", 
+                "icon": "https://a2.behance.net/img/galleries/composed/webdesign.png", 
+                "id": 8, 
+                "key": "webdesign", 
+                "name": "Web Design Served", 
+                "ribbon": {
+                    "image": "https://a2.behance.net/img/galleries/ribbons/1x/webdesign.png", 
+                    "image_2x": "https://a2.behance.net/img/galleries/ribbons/2x/webdesign@2x.png"
+                }, 
+                "url": "http://webdesignserved.com"
+            }, 
+            "url": "http://webdesignserved.com/gallery/16525321/Impakt"
+        }
+    ], 
+    "fields": [
+        "Illustration", 
+        "Web Design"
+    ], 
+    "for_sale": 0, 
+    "id": 16525321, 
+    "mature_access": "allowed", 
+    "mature_content": 0, 
+    "modified_on": 1402432201, 
+    "modules": [
+        {
+            "height": 665, 
+            "id": 112680029, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/112680029/hd/1a37a126fd0dcccdc25c23509e744185.png", 
+                "original": "https://m1.behance.net/rendition/modules/112680029/orig/1a37a126fd0dcccdc25c23509e744185.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/112680029/disp/1a37a126fd0dcccdc25c23509e744185.png", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 2090, 
+            "id": 112678607, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/112678607/hd/aa4bb9f2651bc2dba4d075f6f438e1e7.png", 
+                "original": "https://m1.behance.net/rendition/modules/112678607/orig/aa4bb9f2651bc2dba4d075f6f438e1e7.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/112678607/disp/aa4bb9f2651bc2dba4d075f6f438e1e7.png", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 713, 
+            "id": 112678609, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/112678609/hd/cc2aaf1b5a73fd823537340b73d1696b.png", 
+                "original": "https://m1.behance.net/rendition/modules/112678609/orig/cc2aaf1b5a73fd823537340b73d1696b.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/112678609/disp/cc2aaf1b5a73fd823537340b73d1696b.png", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "embed": "<iframe src=\"https://player.vimeo.com/video/93375152?title=0&amp;byline=0&amp;portrait=0&amp;color=f7c911&amp;autoplay=1&amp;loop=1\" width=\"590\" height=\"295\" frameborder=\"0\" webkitallowfullscreen=\"\" mozallowfullscreen=\"\" allowfullscreen=\"\" style=\"margin:0px auto;display:block;\"></iframe>", 
+            "height": "295", 
+            "id": 112678603, 
+            "original_height": "295", 
+            "original_width": "590", 
+            "type": "embed", 
+            "width": "590"
+        }, 
+        {
+            "height": 86, 
+            "id": 112678611, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/112678611/hd/4c89516ec4e6a24e60ac454d96a554a1.png", 
+                "original": "https://m1.behance.net/rendition/modules/112678611/orig/4c89516ec4e6a24e60ac454d96a554a1.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/112678611/disp/4c89516ec4e6a24e60ac454d96a554a1.png", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 33, 
+            "id": 112678613, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/112678613/hd/1d1e717aaf421fa63b3a5e8092e36443.png", 
+                "original": "https://m1.behance.net/rendition/modules/112678613/orig/1d1e717aaf421fa63b3a5e8092e36443.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/112678613/disp/1d1e717aaf421fa63b3a5e8092e36443.png", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "embed": "<iframe src=\"https://player.vimeo.com/video/93375153?title=0&amp;byline=0&amp;portrait=0&amp;color=f7c911&amp;autoplay=1&amp;loop=1\" width=\"590\" height=\"369\" frameborder=\"0\" webkitallowfullscreen=\"\" mozallowfullscreen=\"\" allowfullscreen=\"\" style=\"margin:0px auto;display:block;\"></iframe>", 
+            "height": "369", 
+            "id": 112678605, 
+            "original_height": "369", 
+            "original_width": "590", 
+            "type": "embed", 
+            "width": "590"
+        }, 
+        {
+            "height": 63, 
+            "id": 112678615, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/112678615/hd/3d7f02434be1c4f37f5649f055bb2f61.png", 
+                "original": "https://m1.behance.net/rendition/modules/112678615/orig/3d7f02434be1c4f37f5649f055bb2f61.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/112678615/disp/3d7f02434be1c4f37f5649f055bb2f61.png", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 672, 
+            "id": 112678617, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/112678617/hd/a712c16ffe9ca8149bdec73603cd7d1d.png", 
+                "original": "https://m1.behance.net/rendition/modules/112678617/orig/a712c16ffe9ca8149bdec73603cd7d1d.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/112678617/disp/a712c16ffe9ca8149bdec73603cd7d1d.png", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 1553, 
+            "id": 112678619, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/112678619/hd/a9432ac2d015474b39d6f76c5cc899fb.png", 
+                "original": "https://m1.behance.net/rendition/modules/112678619/orig/a9432ac2d015474b39d6f76c5cc899fb.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/112678619/disp/a9432ac2d015474b39d6f76c5cc899fb.png", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 560, 
+            "id": 112678621, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/112678621/hd/957e113901ac0474595741989182bb49.png", 
+                "original": "https://m1.behance.net/rendition/modules/112678621/orig/957e113901ac0474595741989182bb49.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/112678621/disp/957e113901ac0474595741989182bb49.png", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 3594, 
+            "id": 112678623, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/112678623/hd/a08c1f3cb90755e4b2b4e733907d2d9f.png", 
+                "original": "https://m1.behance.net/rendition/modules/112678623/orig/a08c1f3cb90755e4b2b4e733907d2d9f.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/112678623/disp/a08c1f3cb90755e4b2b4e733907d2d9f.png", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 520, 
+            "id": 112678625, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/112678625/hd/f12e80425f763b9e90b743eeb95683e2.png", 
+                "original": "https://m1.behance.net/rendition/modules/112678625/orig/f12e80425f763b9e90b743eeb95683e2.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/112678625/disp/f12e80425f763b9e90b743eeb95683e2.png", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 230, 
+            "id": 112678627, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/112678627/hd/479236e419aa644e9b6594fd48de98ff.png", 
+                "original": "https://m1.behance.net/rendition/modules/112678627/orig/479236e419aa644e9b6594fd48de98ff.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/112678627/disp/479236e419aa644e9b6594fd48de98ff.png", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 1833, 
+            "id": 112678629, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/112678629/hd/3987b3727f8a94a890b177f01181e90e.png", 
+                "original": "https://m1.behance.net/rendition/modules/112678629/orig/3987b3727f8a94a890b177f01181e90e.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/112678629/disp/3987b3727f8a94a890b177f01181e90e.png", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 1479, 
+            "id": 112678631, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/112678631/hd/3d7948cf09566b13c0c0eac6fd8a74af.png", 
+                "original": "https://m1.behance.net/rendition/modules/112678631/orig/3d7948cf09566b13c0c0eac6fd8a74af.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/112678631/disp/3d7948cf09566b13c0c0eac6fd8a74af.png", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 170, 
+            "id": 112678633, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/112678633/hd/1e4596011775ab9a597effa71ee3604c.png", 
+                "original": "https://m1.behance.net/rendition/modules/112678633/orig/1e4596011775ab9a597effa71ee3604c.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/112678633/disp/1e4596011775ab9a597effa71ee3604c.png", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "id": 112679403, 
+            "text": "<div style=\"text-align: center;\"><span style=\"color:#FEBF0F;\"><span style=\"font-size:17px;\">Design - Eugene Rudyy</span></span></div><div style=\"text-align: center;\"><span style=\"color:#FEBF0F;\"><span style=\"font-size:17px;\">Illustrations - Irena Zablotska</span></span></div><div style=\"text-align: center;\"><span style=\"color:#FEBF0F;\"><span style=\"font-size:17px;\">Logo - <a href=\"http://neilsecretario.com\" style=\"color:#FEBF0F;\" target=\"_blank\">Neil Secretario</a></span></span></div><div style=\"text-align: center;\">\u00a0</div><div style=\"text-align: center;\">\u00a0</div><div style=\"text-align: center;\">\u00a0</div>", 
+            "text_plain": "Design - Eugene RudyyIllustrations - Irena ZablotskaLogo - Neil Secretario\u00a0\u00a0\u00a0", 
+            "type": "text"
+        }, 
+        {
+            "height": 660, 
+            "id": 112678635, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/112678635/hd/905d79285f570756d23624609c93cab2.png", 
+                "original": "https://m1.behance.net/rendition/modules/112678635/orig/905d79285f570756d23624609c93cab2.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/112678635/disp/905d79285f570756d23624609c93cab2.png", 
+            "type": "image", 
+            "width": 600
+        }
+    ], 
+    "name": "Impakt", 
+    "owners": [
+        {
+            "city": "Lviv", 
+            "company": "Keepa", 
+            "country": "Ukraine", 
+            "created_on": 1243849793, 
+            "display_name": "Keepa Studio", 
+            "fields": [
+                "Illustration", 
+                "Web Design", 
+                "Graphic Design"
+            ], 
+            "first_name": "Keepa", 
+            "id": 106961, 
+            "images": {
+                "115": "https://mir-cdn.behance.net/v1/rendition/user/115/106961.53ab69f4b1862.jpg", 
+                "138": "https://mir-cdn.behance.net/v1/rendition/user/138/106961.53ab69f4b1862.jpg", 
+                "50": "https://mir-cdn.behance.net/v1/rendition/user/50/106961.53ab69f4b1862.jpg"
+            }, 
+            "last_name": "Studio", 
+            "location": "Lviv, Ukraine", 
+            "occupation": "Studio", 
+            "state": "", 
+            "url": "http://www.behance.net/keepa", 
+            "username": "keepa"
+        }, 
+        {
+            "city": "Lviv", 
+            "company": "Keepa", 
+            "country": "Ukraine", 
+            "created_on": 1203315583, 
+            "display_name": "Eugene Rudyy", 
+            "fields": [
+                "Illustration", 
+                "Web Design", 
+                "Graphic Design"
+            ], 
+            "first_name": "Eugene", 
+            "id": 58929, 
+            "images": {
+                "115": "https://mir-cdn.behance.net/v1/rendition/user/115/58929.53ab00ab7c1c6.jpg", 
+                "138": "https://mir-cdn.behance.net/v1/rendition/user/138/58929.53ab00ab7c1c6.jpg", 
+                "50": "https://mir-cdn.behance.net/v1/rendition/user/50/58929.53ab00ab7c1c6.jpg"
+            }, 
+            "last_name": "Rudyy", 
+            "location": "Lviv, Ukraine", 
+            "occupation": "", 
+            "state": "", 
+            "url": "http://www.behance.net/rudpunk", 
+            "username": "rudpunk"
+        }, 
+        {
+            "city": "Krakow", 
+            "company": "Irena Zablotska aka Joulu", 
+            "country": "Poland", 
+            "created_on": 1200092186, 
+            "display_name": "Irena Zablotska", 
+            "fields": [
+                "Illustration", 
+                "Web Design", 
+                "Graphic Design"
+            ], 
+            "first_name": "Irena", 
+            "id": 56979, 
+            "images": {
+                "100": "https://mir-cdn.behance.net/v1/rendition/user/100/56979.53aaf77459484.jpg", 
+                "115": "https://mir-cdn.behance.net/v1/rendition/user/115/56979.53aaf77459484.jpg", 
+                "138": "https://mir-cdn.behance.net/v1/rendition/user/138/56979.53aaf77459484.jpg", 
+                "230": "https://mir-cdn.behance.net/v1/rendition/user/230/56979.53aaf77459484.jpg", 
+                "276": "https://mir-cdn.behance.net/v1/rendition/user/276/56979.53aaf77459484.jpg", 
+                "50": "https://mir-cdn.behance.net/v1/rendition/user/50/56979.53aaf77459484.jpg"
+            }, 
+            "last_name": "Zablotska", 
+            "location": "Krakow, Poland", 
+            "occupation": "illustrator", 
+            "state": "", 
+            "url": "http://www.behance.net/joulu", 
+            "username": "joulu"
+        }
+    ], 
+    "privacy": "public", 
+    "published_on": 1398879044, 
+    "short_url": "http://bit.ly/1iAGGEW", 
+    "stats": {
+        "appreciations": 1307, 
+        "comments": 79, 
+        "views": 22109
+    }, 
+    "styles": {
+        "background": {
+            "color": "2552A3", 
+            "image": {
+                "name": "355587c2979d9307a1d41f6526e89f3d.png", 
+                "position": "top center", 
+                "repeat": "no-repeat", 
+                "url": "https://m1.behance.net/profiles4/106961/projects/16525321/355587c2979d9307a1d41f6526e89f3d.png"
+            }
+        }, 
+        "dividers": {
+            "display": "none"
+        }, 
+        "spacing": {
+            "modules": {
+                "bottom_margin": 0
+            }, 
+            "project": {
+                "top_margin": 0
+            }
+        }, 
+        "text": {
+            "caption": {
+                "color": "#3B3B3B", 
+                "display": "block", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "11px", 
+                "font_style": "italic", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "link": {
+                "color": "#1769FF", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "paragraph": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "subtitle": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "14px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "title": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "16px", 
+                "font_style": "normal", 
+                "font_weight": "bold", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }
+        }
+    }, 
+    "tags": [
+        "vibrant", 
+        "cartoonish", 
+        "cartoon", 
+        "bright", 
+        "bold", 
+        "proxima", 
+        "Illustrative", 
+        "rich", 
+        "marketing  "
+    ], 
+    "url": "http://www.behance.net/gallery/16525321/Impakt"
+}

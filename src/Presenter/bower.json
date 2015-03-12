@@ -1,0 +1,24 @@
+{
+  "name": "Presenter",
+  "version": "0.0.0",
+  "authors": [],
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-local-storage": "~0.1.3",
+    "angular": "~1.3.0",
+    "d3": "~3.4.13",
+    "underscore": "~1.5.2",
+    "jquery": "1.11.0",
+    "angular-mocks": "~1.3.3"
+  }
+}

@@ -1,0 +1,196 @@
+{
+    "copyright": {
+        "description": "Attribution-NonCommercial", 
+        "license": "cc by-nc", 
+        "license_id": 3
+    }, 
+    "covers": {
+        "115": "https://m1.behance.net/rendition/projects/18422523/115/43f40c21367d62c589606092fedb3fe3.png", 
+        "202": "https://m1.behance.net/rendition/projects/18422523/orig/43f40c21367d62c589606092fedb3fe3.png", 
+        "230": "https://m1.behance.net/rendition/projects/18422523/230/43f40c21367d62c589606092fedb3fe3.png", 
+        "404": "https://m1.behance.net/rendition/projects/18422523/404/43f40c21367d62c589606092fedb3fe3.png"
+    }, 
+    "created_on": 1405605240, 
+    "description": "Blog platform where users can share best practices, connect with other Company partners and customers.  Works on mobile phones, tablets and desktop as well. ", 
+    "fields": [
+        "UI/UX", 
+        "Web Design", 
+        "Web Development"
+    ], 
+    "for_sale": 0, 
+    "id": 18422523, 
+    "mature_access": "allowed", 
+    "mature_content": 0, 
+    "modified_on": 1405608592, 
+    "modules": [
+        {
+            "height": 6703, 
+            "id": 124784763, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/124784763/hd/79b7175becb5f1b062d6597fa12a8f01.png", 
+                "original": "https://m1.behance.net/rendition/modules/124784763/orig/79b7175becb5f1b062d6597fa12a8f01.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/124784763/disp/79b7175becb5f1b062d6597fa12a8f01.png", 
+            "type": "image", 
+            "width": 600
+        }
+    ], 
+    "name": "Blog platform for software company", 
+    "owners": [
+        {
+            "city": "Lviv", 
+            "company": "", 
+            "country": "Ukraine", 
+            "created_on": 1264067142, 
+            "display_name": "Marian Mota", 
+            "fields": [
+                "UI/UX", 
+                "Web Design", 
+                "Typography"
+            ], 
+            "first_name": "Marian", 
+            "id": 144979, 
+            "images": {
+                "115": "https://mir-cdn.behance.net/v1/rendition/user/115/144979.53abd05940f27.jpg", 
+                "138": "https://mir-cdn.behance.net/v1/rendition/user/138/144979.53abd05940f27.jpg", 
+                "50": "https://mir-cdn.behance.net/v1/rendition/user/50/144979.53abd05940f27.jpg"
+            }, 
+            "last_name": "Mota", 
+            "location": "Lviv, Ukraine", 
+            "occupation": "UX/UI designer", 
+            "state": "", 
+            "url": "http://www.behance.net/Marrimo", 
+            "username": "Marrimo"
+        }, 
+        {
+            "city": "Austin", 
+            "company": "", 
+            "country": "United States", 
+            "created_on": 1403007563, 
+            "display_name": "SoftServe UX", 
+            "fields": [
+                "UI/UX", 
+                "Web Development", 
+                "Web Design"
+            ], 
+            "first_name": "SoftServe", 
+            "id": 6276459, 
+            "images": {
+                "100": "https://mir-cdn.behance.net/v1/rendition/user/100/6276459.53c7e38848e50.png", 
+                "115": "https://mir-cdn.behance.net/v1/rendition/user/115/6276459.53c7e38848e50.png", 
+                "138": "https://mir-cdn.behance.net/v1/rendition/user/138/6276459.53c7e38848e50.png", 
+                "230": "https://mir-cdn.behance.net/v1/rendition/user/230/6276459.53c7e38848e50.png", 
+                "276": "https://mir-cdn.behance.net/v1/rendition/user/276/6276459.53c7e38848e50.png", 
+                "50": "https://mir-cdn.behance.net/v1/rendition/user/50/6276459.53c7e38848e50.png"
+            }, 
+            "last_name": "UX", 
+            "location": "Austin, TX, USA", 
+            "occupation": "", 
+            "state": "Texas", 
+            "url": "http://www.behance.net/Softserve_ux", 
+            "username": "Softserve_ux"
+        }
+    ], 
+    "privacy": "public", 
+    "published_on": 1405605612, 
+    "short_url": "http://bit.ly/UcpYRH", 
+    "stats": {
+        "appreciations": 25, 
+        "comments": 1, 
+        "views": 196
+    }, 
+    "styles": {
+        "background": {
+            "color": "FFFFFF", 
+            "image": {
+                "name": "2858fb6ffba69c88c413ff7c45372b6a.jpg", 
+                "position": "top left", 
+                "repeat": "no-repeat", 
+                "url": "https://m1.behance.net/profiles5/144979/projects/18422523/2858fb6ffba69c88c413ff7c45372b6a.jpg"
+            }
+        }, 
+        "dividers": {
+            "display": "none"
+        }, 
+        "spacing": {
+            "modules": {
+                "bottom_margin": 0
+            }, 
+            "project": {
+                "top_margin": 0
+            }
+        }, 
+        "text": {
+            "caption": {
+                "color": "#3B3B3B", 
+                "display": "block", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "11px", 
+                "font_style": "italic", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "link": {
+                "color": "#1769FF", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "paragraph": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "subtitle": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "14px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "title": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "16px", 
+                "font_style": "normal", 
+                "font_weight": "bold", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }
+        }
+    }, 
+    "tags": [
+        "Blog", 
+        "ux", 
+        "mobile", 
+        "Responsive", 
+        "UI", 
+        "Lviv", 
+        "ukraine", 
+        "cards", 
+        "iPad", 
+        "Web", 
+        "site", 
+        "design "
+    ], 
+    "url": "http://www.behance.net/gallery/18422523/Blog-platform-for-software-company"
+}

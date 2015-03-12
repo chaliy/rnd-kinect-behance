@@ -1,0 +1,361 @@
+{
+    "copyright": {
+        "description": "Attribution-NonCommercial", 
+        "license": "cc by-nc", 
+        "license_id": 3
+    }, 
+    "covers": {
+        "115": "https://m1.behance.net/rendition/projects/14573015/115/d8de0cda7916a0dceef1a499a087e7f1.jpeg", 
+        "202": "https://m1.behance.net/rendition/projects/14573015/orig/d8de0cda7916a0dceef1a499a087e7f1.jpeg", 
+        "230": "https://m1.behance.net/rendition/projects/14573015/230/d8de0cda7916a0dceef1a499a087e7f1.jpeg", 
+        "404": "https://m1.behance.net/rendition/projects/14573015/404/d8de0cda7916a0dceef1a499a087e7f1.jpeg"
+    }, 
+    "created_on": 1392468379, 
+    "description": "Stars and Poppy Seeds - children's book by Romana Romanyshyn and Andriy Lesiv (art studio Agrafka)", 
+    "fields": [
+        "Editorial Design", 
+        "Graphic Design", 
+        "Illustration"
+    ], 
+    "for_sale": 0, 
+    "id": 14573015, 
+    "mature_access": "allowed", 
+    "mature_content": 0, 
+    "modified_on": 1392468799, 
+    "modules": [
+        {
+            "id": 100467541, 
+            "text": "<div>This is a story about a very peculiar little girl who is a daughter of two great mathematicians. Her name is Dora and she has a dream: to count each and every thing in the world, because counting is her favourite thing to do. She counts dots on her dress, trees in the park, bricks in the fortress, birds and animals all around her, and even stars and poppy seeds. You may ask: is it really possible? O yes, if you really love counting and if you are lucky enough to have such a wise mother as Dora has.</div>\n\n<div><br />\nBook published by Old Lion Publishing House, Lviv, Ukraine in 2014.<br />\nText and illustration by <span class=\"bold\">Romana Romanyshyn </span>and<span class=\"bold\"> Andriy Lesiv</span> (<span class=\"bold\">art studio Agrafka</span>)<br />\n<br />\n<span class=\"bold\">BolognaRagazzi Award 2014</span>: Opera Prima mention</div>\n", 
+            "text_plain": "This is a story about a very peculiar little girl who is a daughter of two great mathematicians. Her name is Dora and she has a dream: to count each and every thing in the world, because counting is her favourite thing to do. She counts dots on her dress, trees in the park, bricks in the fortress, birds and animals all around her, and even stars and poppy seeds. You may ask: is it really possible? O yes, if you really love counting and if you are lucky enough to have such a wise mother as Dora has.\n\n\nBook published by Old Lion Publishing House, Lviv, Ukraine in 2014.\nText and illustration by Romana Romanyshyn and Andriy Lesiv (art studio Agrafka)\n\nBolognaRagazzi Award 2014: Opera Prima mention\n", 
+            "type": "text"
+        }, 
+        {
+            "height": 642, 
+            "id": 100467571, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/100467571/hd/2971b66e9bea502ca5637a2cfa62accc.JPG", 
+                "original": "https://m1.behance.net/rendition/modules/100467571/orig/2971b66e9bea502ca5637a2cfa62accc.JPG"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/100467571/disp/2971b66e9bea502ca5637a2cfa62accc.JPG", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 356, 
+            "id": 100467543, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/100467543/hd/b30f35613989d6db696379f3f221d8e9.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/100467543/orig/b30f35613989d6db696379f3f221d8e9.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/100467543/disp/b30f35613989d6db696379f3f221d8e9.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 356, 
+            "id": 100467545, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/100467545/hd/6c8dbc1c9caa24dd0105f61da2758918.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/100467545/orig/6c8dbc1c9caa24dd0105f61da2758918.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/100467545/disp/6c8dbc1c9caa24dd0105f61da2758918.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 356, 
+            "id": 100467547, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/100467547/hd/1d600445f00805c550e2df0262a3f988.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/100467547/orig/1d600445f00805c550e2df0262a3f988.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/100467547/disp/1d600445f00805c550e2df0262a3f988.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 364, 
+            "id": 100467549, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/100467549/hd/3917b3c691255bc86c4ff8e1f64f4390.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/100467549/orig/3917b3c691255bc86c4ff8e1f64f4390.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/100467549/disp/3917b3c691255bc86c4ff8e1f64f4390.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 362, 
+            "id": 100467551, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/100467551/hd/56ac34d8304ad5d52b06000199dbe133.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/100467551/orig/56ac34d8304ad5d52b06000199dbe133.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/100467551/disp/56ac34d8304ad5d52b06000199dbe133.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 363, 
+            "id": 100467553, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/100467553/hd/d46ae62dffe036bd842b96522b30fb60.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/100467553/orig/d46ae62dffe036bd842b96522b30fb60.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/100467553/disp/d46ae62dffe036bd842b96522b30fb60.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 359, 
+            "id": 100467555, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/100467555/hd/1a5190e3249bee7a2e858816c6040f74.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/100467555/orig/1a5190e3249bee7a2e858816c6040f74.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/100467555/disp/1a5190e3249bee7a2e858816c6040f74.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 356, 
+            "id": 100467557, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/100467557/hd/1d5a6f9a92bd3ea9b42e9e643205b5f5.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/100467557/orig/1d5a6f9a92bd3ea9b42e9e643205b5f5.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/100467557/disp/1d5a6f9a92bd3ea9b42e9e643205b5f5.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 370, 
+            "id": 100467559, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/100467559/hd/e90c7a3fedad19c537db00d8641a944d.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/100467559/orig/e90c7a3fedad19c537db00d8641a944d.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/100467559/disp/e90c7a3fedad19c537db00d8641a944d.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 365, 
+            "id": 100467561, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/100467561/hd/acc3e1fd213f0bafb2b95a4bb9c97324.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/100467561/orig/acc3e1fd213f0bafb2b95a4bb9c97324.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/100467561/disp/acc3e1fd213f0bafb2b95a4bb9c97324.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 363, 
+            "id": 100467563, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/100467563/hd/2ba63b2940f89a11cf80771cab74566f.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/100467563/orig/2ba63b2940f89a11cf80771cab74566f.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/100467563/disp/2ba63b2940f89a11cf80771cab74566f.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 360, 
+            "id": 100467565, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/100467565/hd/5ae3d0454d9b6aa72656becc7dcbf08f.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/100467565/orig/5ae3d0454d9b6aa72656becc7dcbf08f.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/100467565/disp/5ae3d0454d9b6aa72656becc7dcbf08f.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 363, 
+            "id": 100467567, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/100467567/hd/69248cba68671b158151db063b975d2c.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/100467567/orig/69248cba68671b158151db063b975d2c.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/100467567/disp/69248cba68671b158151db063b975d2c.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 427, 
+            "id": 100467569, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/100467569/hd/7912ed5fe07c1db43e0bea2b99dca4e3.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/100467569/orig/7912ed5fe07c1db43e0bea2b99dca4e3.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/100467569/disp/7912ed5fe07c1db43e0bea2b99dca4e3.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "id": 100467539, 
+            "text": "<div style=\"text-align: center;\">some illustrations</div>\n", 
+            "text_plain": "some illustrations\n", 
+            "type": "text"
+        }, 
+        {
+            "height": 335, 
+            "id": 100467573, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/100467573/hd/3696c0a5317bf7a2b0f67c4bc4b7f509.jpg", 
+                "max_1920": "https://m1.behance.net/rendition/modules/100467573/fs/3696c0a5317bf7a2b0f67c4bc4b7f509.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/100467573/orig/3696c0a5317bf7a2b0f67c4bc4b7f509.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/100467573/disp/3696c0a5317bf7a2b0f67c4bc4b7f509.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 335, 
+            "id": 100467575, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/100467575/hd/e1a278b9d5d77144350b7cb43736f984.jpg", 
+                "max_1920": "https://m1.behance.net/rendition/modules/100467575/fs/e1a278b9d5d77144350b7cb43736f984.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/100467575/orig/e1a278b9d5d77144350b7cb43736f984.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/100467575/disp/e1a278b9d5d77144350b7cb43736f984.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 335, 
+            "id": 100467577, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/100467577/hd/32bc84efafab053b0e014220bfb1c3ba.jpg", 
+                "max_1920": "https://m1.behance.net/rendition/modules/100467577/fs/32bc84efafab053b0e014220bfb1c3ba.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/100467577/orig/32bc84efafab053b0e014220bfb1c3ba.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/100467577/disp/32bc84efafab053b0e014220bfb1c3ba.jpg", 
+            "type": "image", 
+            "width": 600
+        }
+    ], 
+    "name": "Stars and Poppy Seeds", 
+    "owners": [
+        {
+            "city": "Lviv", 
+            "company": "", 
+            "country": "Ukraine", 
+            "created_on": 1320744588, 
+            "display_name": "Art Studio AGRAFKA", 
+            "fields": [
+                "Illustration", 
+                "Editorial Design", 
+                "Graphic Design"
+            ], 
+            "first_name": "Art Studio AGRAFKA", 
+            "id": 738423, 
+            "images": {
+                "100": "https://mir-cdn.behance.net/v1/rendition/user/100/738423.53b0607be07ef.jpg", 
+                "115": "https://mir-cdn.behance.net/v1/rendition/user/115/738423.53b0607be07ef.jpg", 
+                "138": "https://mir-cdn.behance.net/v1/rendition/user/138/738423.53b0607be07ef.jpg", 
+                "230": "https://mir-cdn.behance.net/v1/rendition/user/230/738423.53b0607be07ef.jpg", 
+                "276": "https://mir-cdn.behance.net/v1/rendition/user/276/738423.53b0607be07ef.jpg", 
+                "50": "https://mir-cdn.behance.net/v1/rendition/user/50/738423.53b0607be07ef.jpg"
+            }, 
+            "last_name": "", 
+            "location": "Lviv, Ukraine", 
+            "occupation": "Illustration, book design, artbook", 
+            "state": "", 
+            "url": "http://www.behance.net/agrafkastudio", 
+            "username": "agrafkastudio"
+        }
+    ], 
+    "privacy": "public", 
+    "published_on": 1392468799, 
+    "short_url": "http://bit.ly/1f4leoF", 
+    "stats": {
+        "appreciations": 194, 
+        "comments": 13, 
+        "views": 1090
+    }, 
+    "styles": {
+        "background": {
+            "color": "FFFFFF"
+        }, 
+        "dividers": {
+            "display": "none"
+        }, 
+        "spacing": {
+            "modules": {
+                "bottom_margin": 20
+            }, 
+            "project": {
+                "top_margin": 50
+            }
+        }, 
+        "text": {
+            "caption": {
+                "color": "#3B3B3B", 
+                "display": "block", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "11px", 
+                "font_style": "italic", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "link": {
+                "color": "#1769FF", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "paragraph": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "subtitle": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "14px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "title": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "16px", 
+                "font_style": "normal", 
+                "font_weight": "bold", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }
+        }
+    }, 
+    "tags": [
+        "children's book", 
+        "book for children", 
+        "illustration agrafka", 
+        "romana romanyshyn", 
+        "andriy lesiv", 
+        "agrafka"
+    ], 
+    "url": "http://www.behance.net/gallery/14573015/Stars-and-Poppy-Seeds"
+}

@@ -1,0 +1,278 @@
+{
+    "copyright": {
+        "description": "Attribution-NonCommercial-NoDerivs", 
+        "license": "cc by-nc-nd", 
+        "license_id": 1
+    }, 
+    "covers": {
+        "115": "https://mir-cdn.behance.net/v1/rendition/projects/115/2453715.545579422875e.jpg", 
+        "202": "https://mir-cdn.behance.net/v1/rendition/projects/202/2453715.545579422875e.jpg"
+    }, 
+    "created_on": 1320658424, 
+    "description": "The Horse. New official symbol of Professional Football Club CSKA (Moscow)\nCollaboration project between Sergey Snurnik and FIRMA\nhttp://www.firmastyle.com\nArt-director: Alexey Malybaev (FIRMA)\nDesigner, illustrator: Sergey Snurnik\n\n\"Horses\" - the nickname of football fans CSKA", 
+    "fields": [
+        "Design", 
+        "Branding", 
+        "Illustration"
+    ], 
+    "for_sale": 0, 
+    "id": 2453715, 
+    "mature_access": "allowed", 
+    "mature_content": 0, 
+    "modified_on": 1413403953, 
+    "modules": [
+        {
+            "id": 18301305, 
+            "text": "<div><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"color:rgb(76, 76, 76); font-size:28px;\">The Horse. New official symbol of Professional Football Club CSKA (Moscow)</span></span><br><br><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"color:rgb(76, 76, 76); font-size:14px;\">Collaboration project between Sergey Snurnik and </span></span><a href=\"http://www.firmastyle.com/\" target=\"_blank\"><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"color:rgb(76, 76, 76); font-size:14px;\">FIRMA</span></span></a><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"color:rgb(76, 76, 76); font-size:14px;\">.</span></span><br><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"color:rgb(76, 76, 76); font-size:14px;\">Art-director: Alexey Malybaev (FIRMA)</span></span><br><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"color:rgb(76, 76, 76); font-size:14px;\">Designer, illustrator:\u00a0Sergey Snurnik</span></span></div>", 
+            "text_plain": "The Horse. New official symbol of Professional Football Club CSKA (Moscow)Collaboration project between Sergey Snurnik and FIRMA.Art-director: Alexey Malybaev (FIRMA)Designer, illustrator:\u00a0Sergey Snurnik", 
+            "type": "text"
+        }, 
+        {
+            "id": 18301307, 
+            "text": "<div>\"Horses\" - the nickname of football fans CSKA</div>", 
+            "text_plain": "\"Horses\" - the nickname of football fans CSKA", 
+            "type": "text"
+        }, 
+        {
+            "height": 823, 
+            "id": 29891143, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/29891143/hd/c29406490929b6336d00fbb54e86f275.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/29891143/orig/c29406490929b6336d00fbb54e86f275.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/29891143/disp/c29406490929b6336d00fbb54e86f275.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "id": 18303869, 
+            "text": "<div>\u00a9 Photo: animal.discovery.com<br>championat.com<br></div>", 
+            "text_plain": "\u00a9 Photo: animal.discovery.comchampionat.com", 
+            "type": "text"
+        }, 
+        {
+            "height": 909, 
+            "id": 18301311, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/18301311/hd/179c762f7746912ebb0e8c26c3de36f7.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/18301311/orig/179c762f7746912ebb0e8c26c3de36f7.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/18301311/disp/179c762f7746912ebb0e8c26c3de36f7.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "caption": "<div><span style=\"text-align: center; display: block;\">New CSKA logo: FIRMA<br>New official symbol of CSKA: FIRMA &amp; Sergey Snurnik<br></span></div>", 
+            "caption_plain": "New CSKA logo: FIRMANew official symbol of CSKA: FIRMA &amp; Sergey Snurnik", 
+            "height": 300, 
+            "id": 18668079, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/18668079/hd/6a800f808a6cae860db708d6eadbb5ae.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/18668079/orig/6a800f808a6cae860db708d6eadbb5ae.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/18668079/disp/6a800f808a6cae860db708d6eadbb5ae.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 722, 
+            "id": 18301309, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/18301309/hd/2e10a855c66ac91232e6a7b1cdf2e368.gif", 
+                "original": "https://m1.behance.net/rendition/modules/18301309/orig/2e10a855c66ac91232e6a7b1cdf2e368.gif"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/18301309/disp/2e10a855c66ac91232e6a7b1cdf2e368.gif", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 600, 
+            "id": 18301313, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/18301313/hd/9f2197bf1dba7c0dea5f2a805f1bc2b0.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/18301313/orig/9f2197bf1dba7c0dea5f2a805f1bc2b0.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/18301313/disp/9f2197bf1dba7c0dea5f2a805f1bc2b0.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 400, 
+            "id": 137883255, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/137883255/hd/bab41ab5d2ae824a44b9017ce9066b7e.jpg", 
+                "max_1920": "https://m1.behance.net/rendition/modules/137883255/fs/bab41ab5d2ae824a44b9017ce9066b7e.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/137883255/orig/bab41ab5d2ae824a44b9017ce9066b7e.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/137883255/disp/bab41ab5d2ae824a44b9017ce9066b7e.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 531, 
+            "id": 18301315, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/18301315/hd/b78ec3d91d52b2f871571a82bedca220.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/18301315/orig/b78ec3d91d52b2f871571a82bedca220.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/18301315/disp/b78ec3d91d52b2f871571a82bedca220.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "id": 18301317, 
+            "text": "<div>The official press release</div>", 
+            "text_plain": "The official press release", 
+            "type": "text"
+        }
+    ], 
+    "name": "PFC CSKA (Moscow) / Official symbol", 
+    "owners": [
+        {
+            "city": "Lviv", 
+            "company": "", 
+            "country": "Ukraine", 
+            "created_on": 1206321594, 
+            "display_name": "Sergey Snurnik", 
+            "fields": [
+                "Illustration", 
+                "Digital Art", 
+                "Art Direction"
+            ], 
+            "first_name": "Sergey", 
+            "id": 70320, 
+            "images": {
+                "115": "https://mir-cdn.behance.net/v1/rendition/user/115/70320.53ab08d0b85ef.jpg", 
+                "138": "https://mir-cdn.behance.net/v1/rendition/user/138/70320.53ab08d0b85ef.jpg", 
+                "50": "https://mir-cdn.behance.net/v1/rendition/user/50/70320.53ab08d0b85ef.jpg"
+            }, 
+            "last_name": "Snurnik", 
+            "location": "Lviv, Ukraine", 
+            "occupation": "", 
+            "state": "", 
+            "url": "http://www.behance.net/SergeySnurnik", 
+            "username": "SergeySnurnik"
+        }, 
+        {
+            "city": "Moscow", 
+            "company": "", 
+            "country": "Russian Federation", 
+            "created_on": 1211447329, 
+            "display_name": "FIRMA \u2605\u2605\u2605\u2605\u2605", 
+            "fields": [
+                "Branding", 
+                "Graphic Design", 
+                "Design"
+            ], 
+            "first_name": "FIRMA", 
+            "id": 73711, 
+            "images": {
+                "100": "https://mir-cdn.behance.net/v1/rendition/user/100/73711.53ab118c68ae6.png", 
+                "115": "https://mir-cdn.behance.net/v1/rendition/user/115/73711.53ab118c68ae6.png", 
+                "138": "https://mir-cdn.behance.net/v1/rendition/user/138/73711.53ab118c68ae6.png", 
+                "230": "https://mir-cdn.behance.net/v1/rendition/user/230/73711.53ab118c68ae6.png", 
+                "276": "https://mir-cdn.behance.net/v1/rendition/user/276/73711.53ab118c68ae6.png", 
+                "50": "https://mir-cdn.behance.net/v1/rendition/user/50/73711.53ab118c68ae6.png"
+            }, 
+            "last_name": "\u2605\u2605\u2605\u2605\u2605", 
+            "location": "Moscow, Russian Federation", 
+            "occupation": "", 
+            "state": "", 
+            "url": "http://www.behance.net/FIRMA", 
+            "username": "FIRMA"
+        }
+    ], 
+    "privacy": "public", 
+    "published_on": 1320665254, 
+    "short_url": "http://bit.ly/rE0xjM", 
+    "stats": {
+        "appreciations": 135, 
+        "comments": 10, 
+        "views": 2093
+    }, 
+    "styles": {
+        "background": {
+            "color": "EAEAEA"
+        }, 
+        "dividers": {
+            "border_color": "#FF0000", 
+            "border_style": "solid", 
+            "border_width": "1px 0px 0px 0px", 
+            "font_size": "1px", 
+            "height": "1px", 
+            "line_height": "1px", 
+            "margin": "-1px auto 0", 
+            "position": "relative", 
+            "top": "50%"
+        }, 
+        "spacing": {
+            "modules": {
+                "bottom_margin": 54
+            }, 
+            "project": {
+                "top_margin": 65
+            }
+        }, 
+        "text": {
+            "caption": {
+                "color": "#4C4C4C", 
+                "display": "block", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "11px", 
+                "font_style": "italic", 
+                "font_weight": "normal", 
+                "line_height": "1.45em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "link": {
+                "color": "#333333", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "underline"
+            }, 
+            "paragraph": {
+                "color": "#4C4C4C", 
+                "display": "inline", 
+                "font_family": "georgia,\"times new roman\",times,serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "subtitle": {
+                "color": "#4C4C4C", 
+                "display": "inline", 
+                "font_family": "georgia,\"times new roman\",times,serif", 
+                "font_size": "14px", 
+                "font_style": "italic", 
+                "font_weight": "normal", 
+                "line_height": "2em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "title": {
+                "color": "#4C4C4C", 
+                "display": "inline", 
+                "font_family": "georgia,\"times new roman\",times,serif", 
+                "font_size": "28px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }
+        }
+    }, 
+    "tags": [
+        "identity"
+    ], 
+    "url": "http://www.behance.net/gallery/2453715/PFC-CSKA-(Moscow)-Official-symbol"
+}

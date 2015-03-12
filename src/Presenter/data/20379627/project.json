@@ -1,0 +1,379 @@
+{
+    "copyright": {
+        "description": "Attribution-NonCommercial", 
+        "license": "cc by-nc", 
+        "license_id": 3
+    }, 
+    "covers": {
+        "115": "https://mir-cdn.behance.net/v1/rendition/projects/115/20379627.5436956f5745a.jpg", 
+        "202": "https://mir-cdn.behance.net/v1/rendition/projects/202/20379627.5436956f5745a.jpg", 
+        "230": "https://mir-cdn.behance.net/v1/rendition/projects/230/20379627.5436956f5745a.jpg", 
+        "404": "https://mir-cdn.behance.net/v1/rendition/projects/404/20379627.5436956f5745a.jpg"
+    }, 
+    "created_on": 1412859010, 
+    "description": "Web site for DANYLO HALYTSKYI INTERNATIONAL AIRPORT \u201cLVIV\u201c", 
+    "fields": [
+        "Icon Design", 
+        "UI/UX", 
+        "Web Design"
+    ], 
+    "for_sale": 0, 
+    "id": 20379627, 
+    "mature_access": "allowed", 
+    "mature_content": 0, 
+    "modified_on": 1413545248, 
+    "modules": [
+        {
+            "height": 136, 
+            "id": 137164169, 
+            "sizes": {
+                "original": "https://m1.behance.net/rendition/modules/137164169/orig/6f0e7438b86881086b64a456bed038b9.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/137164169/disp/6f0e7438b86881086b64a456bed038b9.png", 
+            "type": "image", 
+            "width": 179
+        }, 
+        {
+            "id": 137164147, 
+            "text": "<div>\u00a0 \u00a0\u00a0</div><div>\u00a0</div>", 
+            "text_plain": "\u00a0 \u00a0\u00a0\u00a0", 
+            "type": "text"
+        }, 
+        {
+            "height": 383, 
+            "id": 137164161, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/137164161/hd/b4750e017208dd45addd073ab4d7e0cf.png", 
+                "max_1920": "https://m1.behance.net/rendition/modules/137164161/fs/b4750e017208dd45addd073ab4d7e0cf.png", 
+                "original": "https://m1.behance.net/rendition/modules/137164161/orig/b4750e017208dd45addd073ab4d7e0cf.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/137164161/disp/b4750e017208dd45addd073ab4d7e0cf.png", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "id": 137164149, 
+            "text": "<div>\u00a0</div><div>\u00a0</div><div>\u00a0\u00a0</div><div>\u00a0</div>", 
+            "text_plain": "\u00a0\u00a0\u00a0\u00a0\u00a0", 
+            "type": "text"
+        }, 
+        {
+            "embed": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/7gpi6Xfd96c\" frameborder=\"0\" allowfullscreen=\"\" style=\"margin:0px auto;display:block;\"></iframe>", 
+            "height": "315", 
+            "id": 137183873, 
+            "original_height": "315", 
+            "original_width": "560", 
+            "type": "embed", 
+            "width": "560"
+        }, 
+        {
+            "id": 137183875, 
+            "text": "<div>\u00a0</div><div>\u00a0</div><div>\u00a0</div>", 
+            "text_plain": "\u00a0\u00a0\u00a0", 
+            "type": "text"
+        }, 
+        {
+            "height": 283, 
+            "id": 137164163, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/137164163/hd/74a41b98883ab21c178a9c741ef68d34.png", 
+                "max_1920": "https://m1.behance.net/rendition/modules/137164163/fs/74a41b98883ab21c178a9c741ef68d34.png", 
+                "original": "https://m1.behance.net/rendition/modules/137164163/orig/74a41b98883ab21c178a9c741ef68d34.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/137164163/disp/74a41b98883ab21c178a9c741ef68d34.png", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 514, 
+            "id": 137164171, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/137164171/hd/b798a89a24e7312cbe6624493b22971b.png", 
+                "original": "https://m1.behance.net/rendition/modules/137164171/orig/b798a89a24e7312cbe6624493b22971b.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/137164171/disp/b798a89a24e7312cbe6624493b22971b.png", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "id": 137164151, 
+            "text": "<div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div>", 
+            "text_plain": "\u00a0\u00a0\u00a0\u00a0\u00a0", 
+            "type": "text"
+        }, 
+        {
+            "height": 402, 
+            "id": 137164165, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/137164165/hd/af8214ff78a15c0a6814ddc4945fd0b0.png", 
+                "max_1920": "https://m1.behance.net/rendition/modules/137164165/fs/af8214ff78a15c0a6814ddc4945fd0b0.png", 
+                "original": "https://m1.behance.net/rendition/modules/137164165/orig/af8214ff78a15c0a6814ddc4945fd0b0.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/137164165/disp/af8214ff78a15c0a6814ddc4945fd0b0.png", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 628, 
+            "id": 137164173, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/137164173/hd/f443a3d924e4a3b949e7c6c7382eb1d4.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/137164173/orig/f443a3d924e4a3b949e7c6c7382eb1d4.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/137164173/disp/f443a3d924e4a3b949e7c6c7382eb1d4.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "id": 137164153, 
+            "text": "<div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0\u00a0</div><div>\u00a0</div>", 
+            "text_plain": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0", 
+            "type": "text"
+        }, 
+        {
+            "height": 873, 
+            "id": 137164167, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/137164167/hd/1101c306e1fdf6a37ebed16f9c3b019d.png", 
+                "max_1920": "https://m1.behance.net/rendition/modules/137164167/fs/1101c306e1fdf6a37ebed16f9c3b019d.png", 
+                "original": "https://m1.behance.net/rendition/modules/137164167/orig/1101c306e1fdf6a37ebed16f9c3b019d.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/137164167/disp/1101c306e1fdf6a37ebed16f9c3b019d.png", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "id": 137164155, 
+            "text": "<div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div>", 
+            "text_plain": "\u00a0\u00a0\u00a0\u00a0\u00a0", 
+            "type": "text"
+        }, 
+        {
+            "height": 932, 
+            "id": 137164175, 
+            "sizes": {
+                "original": "https://m1.behance.net/rendition/modules/137164175/orig/f3e6b6ebf73caaed1f2bfd71d6b709ca.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/137164175/disp/f3e6b6ebf73caaed1f2bfd71d6b709ca.jpg", 
+            "type": "image", 
+            "width": 464
+        }, 
+        {
+            "id": 137164157, 
+            "text": "<div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div>", 
+            "text_plain": "\u00a0\u00a0\u00a0\u00a0", 
+            "type": "text"
+        }, 
+        {
+            "height": 691, 
+            "id": 137164177, 
+            "sizes": {
+                "original": "https://m1.behance.net/rendition/modules/137164177/orig/9a8338886abb386a3d363b0c89f44ad8.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/137164177/disp/9a8338886abb386a3d363b0c89f44ad8.jpg", 
+            "type": "image", 
+            "width": 553
+        }, 
+        {
+            "height": 251, 
+            "id": 137164179, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/137164179/hd/0022ad362500b6922d10a4859aff5b75.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/137164179/orig/0022ad362500b6922d10a4859aff5b75.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/137164179/disp/0022ad362500b6922d10a4859aff5b75.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 235, 
+            "id": 137166799, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/137166799/hd/1321d59deae5b01043c4d4953e186b02.gif", 
+                "original": "https://m1.behance.net/rendition/modules/137166799/orig/1321d59deae5b01043c4d4953e186b02.gif"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/137166799/disp/1321d59deae5b01043c4d4953e186b02.gif", 
+            "type": "image", 
+            "width": 600
+        }
+    ], 
+    "name": "LWO.aero", 
+    "owners": [
+        {
+            "city": "Lviv", 
+            "company": "Design Studio Bambuk", 
+            "country": "Ukraine", 
+            "created_on": 1361277171, 
+            "display_name": "Oles Kucherenko", 
+            "fields": [
+                "Illustration", 
+                "Graphic Design", 
+                "Web Design"
+            ], 
+            "first_name": "Oles", 
+            "id": 2241369, 
+            "images": {
+                "100": "https://mir-cdn.behance.net/v1/rendition/user/100/2241369.53ea1fe8e433f.jpg", 
+                "115": "https://mir-cdn.behance.net/v1/rendition/user/115/2241369.53ea1fe8e433f.jpg", 
+                "138": "https://mir-cdn.behance.net/v1/rendition/user/138/2241369.53ea1fe8e433f.jpg", 
+                "230": "https://mir-cdn.behance.net/v1/rendition/user/230/2241369.53ea1fe8e433f.jpg", 
+                "276": "https://mir-cdn.behance.net/v1/rendition/user/276/2241369.53ea1fe8e433f.jpg", 
+                "50": "https://mir-cdn.behance.net/v1/rendition/user/50/2241369.53ea1fe8e433f.jpg"
+            }, 
+            "last_name": "Kucherenko", 
+            "location": "Lviv, Ukraine", 
+            "occupation": "Art Director", 
+            "state": "", 
+            "url": "http://www.behance.net/bambus", 
+            "username": "bambus"
+        }, 
+        {
+            "city": "Lviv", 
+            "company": "Bambuk Studio", 
+            "country": "Ukraine", 
+            "created_on": 1372234425, 
+            "display_name": "Bambuk Studio", 
+            "fields": [
+                "Graphic Design", 
+                "Web Design", 
+                "Print Design"
+            ], 
+            "first_name": "Bambuk", 
+            "id": 2975629, 
+            "images": {
+                "100": "https://mir-cdn.behance.net/v1/rendition/user/100/2975629.5433bc602d748.jpg", 
+                "115": "https://mir-cdn.behance.net/v1/rendition/user/115/2975629.5433bc602d748.jpg", 
+                "138": "https://mir-cdn.behance.net/v1/rendition/user/138/2975629.5433bc602d748.jpg", 
+                "230": "https://mir-cdn.behance.net/v1/rendition/user/230/2975629.5433bc602d748.jpg", 
+                "276": "https://mir-cdn.behance.net/v1/rendition/user/276/2975629.5433bc602d748.jpg", 
+                "50": "https://mir-cdn.behance.net/v1/rendition/user/50/2975629.5433bc602d748.jpg"
+            }, 
+            "last_name": "Studio", 
+            "location": "Lviv, Ukraine", 
+            "occupation": "", 
+            "state": "", 
+            "url": "http://www.behance.net/bambus_studio", 
+            "username": "bambus_studio"
+        }, 
+        {
+            "city": "Lviv", 
+            "company": "Lencomua", 
+            "country": "Ukraine", 
+            "created_on": 1314718373, 
+            "display_name": "Lena Golubiatnikova", 
+            "fields": [
+                "Illustration", 
+                "Graphic Design", 
+                "Web Design"
+            ], 
+            "first_name": "Lena", 
+            "id": 611657, 
+            "images": {
+                "100": "https://mir-cdn.behance.net/v1/rendition/user/100/611657.53ecd38ea318d.jpg", 
+                "115": "https://mir-cdn.behance.net/v1/rendition/user/115/611657.53ecd38ea318d.jpg", 
+                "138": "https://mir-cdn.behance.net/v1/rendition/user/138/611657.53ecd38ea318d.jpg", 
+                "230": "https://mir-cdn.behance.net/v1/rendition/user/230/611657.53ecd38ea318d.jpg", 
+                "276": "https://mir-cdn.behance.net/v1/rendition/user/276/611657.53ecd38ea318d.jpg", 
+                "50": "https://mir-cdn.behance.net/v1/rendition/user/50/611657.53ecd38ea318d.jpg"
+            }, 
+            "last_name": "Golubiatnikova", 
+            "location": "Lviv, Ukraine", 
+            "occupation": "Illustrator", 
+            "state": "", 
+            "url": "http://www.behance.net/lencomua", 
+            "username": "lencomua"
+        }
+    ], 
+    "privacy": "public", 
+    "published_on": 1412863557, 
+    "short_url": "http://bit.ly/ZSak1D", 
+    "stats": {
+        "appreciations": 14, 
+        "comments": 1, 
+        "views": 121
+    }, 
+    "styles": {
+        "background": {
+            "color": "dfdfdf", 
+            "image": {
+                "name": "67ddcc549e40327990792cbbe68720cb.jpg", 
+                "position": "top left", 
+                "repeat": "no-repeat", 
+                "url": "https://m1.behance.net/profiles24/2241369/projects/20379627/67ddcc549e40327990792cbbe68720cb.jpg"
+            }
+        }, 
+        "dividers": {
+            "display": "none"
+        }, 
+        "spacing": {
+            "modules": {
+                "bottom_margin": 20
+            }, 
+            "project": {
+                "top_margin": 50
+            }
+        }, 
+        "text": {
+            "caption": {
+                "color": "#3B3B3B", 
+                "display": "block", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "11px", 
+                "font_style": "italic", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "link": {
+                "color": "#1769FF", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "paragraph": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "subtitle": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "14px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "title": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "16px", 
+                "font_style": "normal", 
+                "font_weight": "bold", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }
+        }
+    }, 
+    "tags": [
+        "aero", 
+        "Lviv"
+    ], 
+    "url": "http://www.behance.net/gallery/20379627/LWOaero"
+}

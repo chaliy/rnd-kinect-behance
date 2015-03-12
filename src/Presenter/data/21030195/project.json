@@ -1,0 +1,369 @@
+{
+    "copyright": {
+        "description": "Attribution-NonCommercial", 
+        "license": "cc by-nc", 
+        "license_id": 3
+    }, 
+    "covers": {
+        "115": "https://mir-cdn.behance.net/v1/rendition/projects/115/21030195.5458d1333c123.jpg", 
+        "202": "https://mir-cdn.behance.net/v1/rendition/projects/202/21030195.5458d1333c123.jpg", 
+        "230": "https://mir-cdn.behance.net/v1/rendition/projects/230/21030195.5458d1333c123.jpg", 
+        "404": "https://mir-cdn.behance.net/v1/rendition/projects/404/21030195.5458d1333c123.jpg"
+    }, 
+    "created_on": 1415101438, 
+    "description": "We transfer Quality Assurance and Testing services into a new interactive dimension. The unique storytelling with the elements of Gamification spreads a burst of design trends mixed with minimalistic illustrations and a great bunch of SVG animations.", 
+    "fields": [
+        "Illustration", 
+        "UI/UX", 
+        "Web Design"
+    ], 
+    "for_sale": 0, 
+    "id": 21030195, 
+    "mature_access": "allowed", 
+    "mature_content": 0, 
+    "modified_on": 1415184157, 
+    "modules": [
+        {
+            "height": 83, 
+            "id": 141195939, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/141195939/hd/473ed86a3122b056e89119508ca91024.png", 
+                "original": "https://m1.behance.net/rendition/modules/141195939/orig/473ed86a3122b056e89119508ca91024.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/141195939/disp/473ed86a3122b056e89119508ca91024.png", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 555, 
+            "id": 141195937, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/141195937/hd/7184e2a6a8407d9dd212c81794cb7098.gif", 
+                "original": "https://m1.behance.net/rendition/modules/141195937/orig/7184e2a6a8407d9dd212c81794cb7098.gif"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/141195937/disp/7184e2a6a8407d9dd212c81794cb7098.gif", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 579, 
+            "id": 141195941, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/141195941/hd/df687aa4c6d55d4e7a71a8e0fa39557a.png", 
+                "original": "https://m1.behance.net/rendition/modules/141195941/orig/df687aa4c6d55d4e7a71a8e0fa39557a.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/141195941/disp/df687aa4c6d55d4e7a71a8e0fa39557a.png", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 500, 
+            "id": 141195943, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/141195943/hd/ca78867988a76ea10be354a9e429ccdc.gif", 
+                "original": "https://m1.behance.net/rendition/modules/141195943/orig/ca78867988a76ea10be354a9e429ccdc.gif"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/141195943/disp/ca78867988a76ea10be354a9e429ccdc.gif", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 3610, 
+            "id": 141195949, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/141195949/hd/87c4eba314dd3eb350e52ef7a77c78c7.png", 
+                "original": "https://m1.behance.net/rendition/modules/141195949/orig/87c4eba314dd3eb350e52ef7a77c78c7.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/141195949/disp/87c4eba314dd3eb350e52ef7a77c78c7.png", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 700, 
+            "id": 141195951, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/141195951/hd/aeafe60805c1751906ed99fa8aa41ee8.gif", 
+                "original": "https://m1.behance.net/rendition/modules/141195951/orig/aeafe60805c1751906ed99fa8aa41ee8.gif"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/141195951/disp/aeafe60805c1751906ed99fa8aa41ee8.gif", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 200, 
+            "id": 141195945, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/141195945/hd/3075d8c1c99b6e2603fcf89547d6302e.png", 
+                "original": "https://m1.behance.net/rendition/modules/141195945/orig/3075d8c1c99b6e2603fcf89547d6302e.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/141195945/disp/3075d8c1c99b6e2603fcf89547d6302e.png", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 725, 
+            "id": 141195947, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/141195947/hd/506d1f3a3afd00329eaa33e9ee6ac1b7.gif", 
+                "original": "https://m1.behance.net/rendition/modules/141195947/orig/506d1f3a3afd00329eaa33e9ee6ac1b7.gif"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/141195947/disp/506d1f3a3afd00329eaa33e9ee6ac1b7.gif", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 1250, 
+            "id": 141195953, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/141195953/hd/5bed94cfa4372e80462ca7029af80ee9.png", 
+                "original": "https://m1.behance.net/rendition/modules/141195953/orig/5bed94cfa4372e80462ca7029af80ee9.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/141195953/disp/5bed94cfa4372e80462ca7029af80ee9.png", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 390, 
+            "id": 141195955, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/141195955/hd/3e89b80141d4ee038cac17afed830a3a.gif", 
+                "original": "https://m1.behance.net/rendition/modules/141195955/orig/3e89b80141d4ee038cac17afed830a3a.gif"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/141195955/disp/3e89b80141d4ee038cac17afed830a3a.gif", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "id": 141195933, 
+            "text": "<div style=\"text-align: center;\">\u00a0</div><div style=\"text-align: center;\">\u00a0</div><div style=\"text-align: center;\">\u00a0</div><div style=\"text-align: center;\">\u00a0</div><div style=\"text-align: center;\">\u00a0</div><div style=\"text-align: center;\">\u00a0</div><div><span style=\"font-size:16px;\"><span class=\"bold\" style=\"color:rgb(23, 105, 255);\"><span style=\"color:#003DFF;\"><span style=\"font-size:15px;\">\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0</span></span></span></span><span style=\"font-size:16px;\"><span class=\"bold\" style=\"color:rgb(23, 105, 255);\"><span style=\"color:#003DFF;\"><span style=\"font-size:15px;\"><a href=\"http://eleks.com/qa\" style=\"color:#1769FF;\" target=\"_blank\">Check it out!</a></span></span></span></span></div>", 
+            "text_plain": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0Check it out!", 
+            "type": "text"
+        }, 
+        {
+            "height": 100, 
+            "id": 141195957, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/141195957/hd/50c373a6139c1b6ac11f7e4e395078b8.png", 
+                "original": "https://m1.behance.net/rendition/modules/141195957/orig/50c373a6139c1b6ac11f7e4e395078b8.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/141195957/disp/50c373a6139c1b6ac11f7e4e395078b8.png", 
+            "type": "image", 
+            "width": 600
+        }
+    ], 
+    "name": "Eleks QA", 
+    "owners": [
+        {
+            "city": "Lviv", 
+            "company": "Eleks Web Solutions", 
+            "country": "Ukraine", 
+            "created_on": 1324031679, 
+            "display_name": "Halyna Hlynska", 
+            "fields": [
+                "Illustration", 
+                "Web Design", 
+                "UI/UX"
+            ], 
+            "first_name": "Halyna", 
+            "id": 808363, 
+            "images": {
+                "100": "https://mir-cdn.behance.net/v1/rendition/user/100/808363.54590ec539b91.jpg", 
+                "115": "https://mir-cdn.behance.net/v1/rendition/user/115/808363.54590ec539b91.jpg", 
+                "138": "https://mir-cdn.behance.net/v1/rendition/user/138/808363.54590ec539b91.jpg", 
+                "230": "https://mir-cdn.behance.net/v1/rendition/user/230/808363.54590ec539b91.jpg", 
+                "276": "https://mir-cdn.behance.net/v1/rendition/user/276/808363.54590ec539b91.jpg", 
+                "50": "https://mir-cdn.behance.net/v1/rendition/user/50/808363.54590ec539b91.jpg"
+            }, 
+            "last_name": "Hlynska", 
+            "location": "Lviv, Ukraine", 
+            "occupation": "design, illustration, branding", 
+            "state": "", 
+            "url": "http://www.behance.net/haluniki", 
+            "username": "haluniki"
+        }, 
+        {
+            "city": "Lviv", 
+            "company": "Eleks", 
+            "country": "Ukraine", 
+            "created_on": 1312207998, 
+            "display_name": "Eleks UX", 
+            "fields": [
+                "Web Design", 
+                "UI/UX", 
+                "Web Development"
+            ], 
+            "first_name": "Eleks", 
+            "id": 567795, 
+            "images": {
+                "100": "https://mir-cdn.behance.net/v1/rendition/user/100/567795.53af27622dd79.jpg", 
+                "115": "https://mir-cdn.behance.net/v1/rendition/user/115/567795.53af27622dd79.jpg", 
+                "138": "https://mir-cdn.behance.net/v1/rendition/user/138/567795.53af27622dd79.jpg", 
+                "230": "https://mir-cdn.behance.net/v1/rendition/user/230/567795.53af27622dd79.jpg", 
+                "276": "https://mir-cdn.behance.net/v1/rendition/user/276/567795.53af27622dd79.jpg", 
+                "50": "https://mir-cdn.behance.net/v1/rendition/user/50/567795.53af27622dd79.jpg"
+            }, 
+            "last_name": "UX", 
+            "location": "Lviv, Ukraine", 
+            "occupation": "User Experience Center of Excellence", 
+            "state": "", 
+            "url": "http://www.behance.net/eleks-design", 
+            "username": "eleks-design"
+        }, 
+        {
+            "city": "Lviv", 
+            "company": "Eleks", 
+            "country": "Ukraine", 
+            "created_on": 1301583963, 
+            "display_name": "Oleg Gasioshyn", 
+            "fields": [
+                "Web Design", 
+                "UI/UX", 
+                "Illustration"
+            ], 
+            "first_name": "Oleg", 
+            "id": 388547, 
+            "images": {
+                "100": "https://mir-cdn.behance.net/v1/rendition/user/100/388547.53adb4b4edc76.jpg", 
+                "115": "https://mir-cdn.behance.net/v1/rendition/user/115/388547.53adb4b4edc76.jpg", 
+                "138": "https://mir-cdn.behance.net/v1/rendition/user/138/388547.53adb4b4edc76.jpg", 
+                "230": "https://mir-cdn.behance.net/v1/rendition/user/230/388547.53adb4b4edc76.jpg", 
+                "276": "https://mir-cdn.behance.net/v1/rendition/user/276/388547.53adb4b4edc76.jpg", 
+                "50": "https://mir-cdn.behance.net/v1/rendition/user/50/388547.53adb4b4edc76.jpg"
+            }, 
+            "last_name": "Gasioshyn", 
+            "location": "Lviv, Ukraine", 
+            "occupation": "Digital Art Director", 
+            "state": "", 
+            "url": "http://www.behance.net/gasioshyn", 
+            "username": "gasioshyn"
+        }, 
+        {
+            "city": "Lviv", 
+            "company": "Eleks", 
+            "country": "Ukraine", 
+            "created_on": 1364989236, 
+            "display_name": "Uliana Peretyatko", 
+            "fields": [
+                "Illustration", 
+                "UI/UX", 
+                "Web Design"
+            ], 
+            "first_name": "Uliana", 
+            "id": 2473415, 
+            "images": {
+                "100": "https://mir-cdn.behance.net/v1/rendition/user/100/2473415.5458c180a1f39.jpg", 
+                "115": "https://mir-cdn.behance.net/v1/rendition/user/115/2473415.5458c180a1f39.jpg", 
+                "138": "https://mir-cdn.behance.net/v1/rendition/user/138/2473415.5458c180a1f39.jpg", 
+                "230": "https://mir-cdn.behance.net/v1/rendition/user/230/2473415.5458c180a1f39.jpg", 
+                "276": "https://mir-cdn.behance.net/v1/rendition/user/276/2473415.5458c180a1f39.jpg", 
+                "50": "https://mir-cdn.behance.net/v1/rendition/user/50/2473415.5458c180a1f39.jpg"
+            }, 
+            "last_name": "Peretyatko", 
+            "location": "Lviv, Ukraine", 
+            "occupation": "", 
+            "state": "", 
+            "url": "http://www.behance.net/ulianaperetyatko", 
+            "username": "ulianaperetyatko"
+        }
+    ], 
+    "privacy": "public", 
+    "published_on": 1415106888, 
+    "short_url": "http://bit.ly/1x33L8K", 
+    "stats": {
+        "appreciations": 31, 
+        "comments": 2, 
+        "views": 126
+    }, 
+    "styles": {
+        "background": {
+            "color": "FFFFFF", 
+            "image": {
+                "name": "6e3917c9675905df1a9dd88f385220f3.jpg", 
+                "position": "top center", 
+                "repeat": "no-repeat", 
+                "url": "https://m1.behance.net/profiles14/808363/projects/21030195/6e3917c9675905df1a9dd88f385220f3.jpg"
+            }
+        }, 
+        "dividers": {
+            "display": "none"
+        }, 
+        "spacing": {
+            "modules": {
+                "bottom_margin": 0
+            }, 
+            "project": {
+                "top_margin": 0
+            }
+        }, 
+        "text": {
+            "caption": {
+                "color": "#3B3B3B", 
+                "display": "block", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "11px", 
+                "font_style": "italic", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "link": {
+                "color": "#1769FF", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "paragraph": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "subtitle": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "14px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "title": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "16px", 
+                "font_style": "normal", 
+                "font_weight": "bold", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }
+        }
+    }, 
+    "tags": [
+        "Web", 
+        "illustrations", 
+        "animations", 
+        "minimalistic", 
+        "testing", 
+        "QA", 
+        "eleks", 
+        "eleksdigital", 
+        "White", 
+        "game"
+    ], 
+    "url": "http://www.behance.net/gallery/21030195/Eleks-QA"
+}

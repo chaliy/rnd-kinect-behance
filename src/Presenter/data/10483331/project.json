@@ -1,0 +1,164 @@
+{
+    "copyright": {
+        "description": "Attribution-NonCommercial", 
+        "license": "cc by-nc", 
+        "license_id": 3
+    }, 
+    "covers": {
+        "115": "https://m1.behance.net/rendition/projects/10483331/115/bd572dfbee13648152aff0f901dba727.png", 
+        "202": "https://m1.behance.net/rendition/projects/10483331/orig/bd572dfbee13648152aff0f901dba727.png", 
+        "230": "https://m1.behance.net/rendition/projects/10483331/230/bd572dfbee13648152aff0f901dba727.png", 
+        "404": "https://m1.behance.net/rendition/projects/10483331/404/bd572dfbee13648152aff0f901dba727.png"
+    }, 
+    "created_on": 1377010633, 
+    "description": "App that help people find best routes between city navigation system and plan their trip.", 
+    "fields": [
+        "Interaction Design", 
+        "Typography", 
+        "UI/UX"
+    ], 
+    "for_sale": 0, 
+    "id": 10483331, 
+    "mature_access": "allowed", 
+    "mature_content": 0, 
+    "modified_on": 1377013507, 
+    "modules": [
+        {
+            "height": 7720, 
+            "id": 76593043, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/76593043/hd/cf8c809b43e3c41129e9cecad2230fc0.png", 
+                "original": "https://m1.behance.net/rendition/modules/76593043/orig/cf8c809b43e3c41129e9cecad2230fc0.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/76593043/disp/cf8c809b43e3c41129e9cecad2230fc0.png", 
+            "type": "image", 
+            "width": 600
+        }
+    ], 
+    "name": "City Routes", 
+    "owners": [
+        {
+            "city": "Lviv", 
+            "company": "", 
+            "country": "Ukraine", 
+            "created_on": 1264067142, 
+            "display_name": "Marian Mota", 
+            "fields": [
+                "UI/UX", 
+                "Web Design", 
+                "Typography"
+            ], 
+            "first_name": "Marian", 
+            "id": 144979, 
+            "images": {
+                "115": "https://mir-cdn.behance.net/v1/rendition/user/115/144979.53abd05940f27.jpg", 
+                "138": "https://mir-cdn.behance.net/v1/rendition/user/138/144979.53abd05940f27.jpg", 
+                "50": "https://mir-cdn.behance.net/v1/rendition/user/50/144979.53abd05940f27.jpg"
+            }, 
+            "last_name": "Mota", 
+            "location": "Lviv, Ukraine", 
+            "occupation": "UX/UI designer", 
+            "state": "", 
+            "url": "http://www.behance.net/Marrimo", 
+            "username": "Marrimo"
+        }
+    ], 
+    "privacy": "public", 
+    "published_on": 1377010840, 
+    "short_url": "http://bit.ly/13ONO4M", 
+    "stats": {
+        "appreciations": 77, 
+        "comments": 12, 
+        "views": 1538
+    }, 
+    "styles": {
+        "background": {
+            "color": "F0AF00", 
+            "image": {
+                "name": "0b2cf2b36d61329c4445e36851f5cf80.jpg", 
+                "position": "top left", 
+                "repeat": "no-repeat", 
+                "url": "https://m1.behance.net/profiles5/144979/projects/10483331/0b2cf2b36d61329c4445e36851f5cf80.jpg"
+            }
+        }, 
+        "dividers": {
+            "display": "none"
+        }, 
+        "spacing": {
+            "modules": {
+                "bottom_margin": 0
+            }, 
+            "project": {
+                "top_margin": 0
+            }
+        }, 
+        "text": {
+            "caption": {
+                "color": "#3B3B3B", 
+                "display": "block", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "11px", 
+                "font_style": "italic", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "link": {
+                "color": "#1769FF", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "paragraph": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "subtitle": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "14px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "title": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "16px", 
+                "font_style": "normal", 
+                "font_weight": "bold", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }
+        }
+    }, 
+    "tags": [
+        "ux", 
+        " iOS", 
+        "clean", 
+        "flat", 
+        "search results", 
+        "navigation", 
+        "iphone", 
+        "UI"
+    ], 
+    "url": "http://www.behance.net/gallery/10483331/City-Routes"
+}

@@ -1,0 +1,192 @@
+{
+    "copyright": {
+        "description": "Attribution-NonCommercial", 
+        "license": "cc by-nc", 
+        "license_id": 3
+    }, 
+    "covers": {
+        "115": "https://mir-cdn.behance.net/v1/rendition/projects/115/89757.54375e23e4baf.jpg", 
+        "202": "https://mir-cdn.behance.net/v1/rendition/projects/202/89757.54375e23e4baf.jpg"
+    }, 
+    "created_on": 1209927625, 
+    "description": "Gangsta\nPersonal art project\nT-shirt printing: Timur Akhmetov", 
+    "features": [
+        {
+            "featured_on": 1210527901, 
+            "site": {
+                "domain": "www.behance.net", 
+                "icon": "https://a2.behance.net/img/site/favicon.ico", 
+                "id": 1, 
+                "key": "net", 
+                "name": "Behance.net", 
+                "ribbon": {
+                    "image": "https://a2.behance.net/img/galleries/ribbons/1x/net.png", 
+                    "image_2x": "https://a2.behance.net/img/galleries/ribbons/2x/net@2x.png"
+                }, 
+                "url": "http://www.behance.net"
+            }, 
+            "url": "http://www.behance.net/gallery/89757/Gangsta"
+        }
+    ], 
+    "fields": [
+        "Digital Art"
+    ], 
+    "for_sale": 0, 
+    "id": 89757, 
+    "mature_access": "allowed", 
+    "mature_content": 0, 
+    "modified_on": 1353025979, 
+    "modules": [
+        {
+            "height": 750, 
+            "id": 208618, 
+            "sizes": [], 
+            "src": "https://m1.behance.net/rendition/modules/208618/disp/703201209927898.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 750, 
+            "id": 208619, 
+            "sizes": [], 
+            "src": "https://m1.behance.net/rendition/modules/208619/disp/703201209927927.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 750, 
+            "id": 208620, 
+            "sizes": [], 
+            "src": "https://m1.behance.net/rendition/modules/208620/disp/703201209927915.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 813, 
+            "id": 208621, 
+            "sizes": [], 
+            "src": "https://m1.behance.net/rendition/modules/208621/disp/703201209927975.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "id": 208622, 
+            "text": "<span style=\"color: rgb(255, 255, 255);\">Timur thanks </span><br>", 
+            "text_plain": "Timur thanks ", 
+            "type": "text"
+        }
+    ], 
+    "name": "Gangsta", 
+    "owners": [
+        {
+            "city": "Lviv", 
+            "company": "", 
+            "country": "Ukraine", 
+            "created_on": 1206321594, 
+            "display_name": "Sergey Snurnik", 
+            "fields": [
+                "Illustration", 
+                "Digital Art", 
+                "Art Direction"
+            ], 
+            "first_name": "Sergey", 
+            "id": 70320, 
+            "images": {
+                "115": "https://mir-cdn.behance.net/v1/rendition/user/115/70320.53ab08d0b85ef.jpg", 
+                "138": "https://mir-cdn.behance.net/v1/rendition/user/138/70320.53ab08d0b85ef.jpg", 
+                "50": "https://mir-cdn.behance.net/v1/rendition/user/50/70320.53ab08d0b85ef.jpg"
+            }, 
+            "last_name": "Snurnik", 
+            "location": "Lviv, Ukraine", 
+            "occupation": "", 
+            "state": "", 
+            "url": "http://www.behance.net/SergeySnurnik", 
+            "username": "SergeySnurnik"
+        }
+    ], 
+    "privacy": "public", 
+    "published_on": 1209928999, 
+    "short_url": "http://bit.ly/9SKygi", 
+    "stats": {
+        "appreciations": 150, 
+        "comments": 50, 
+        "views": 3140
+    }, 
+    "styles": {
+        "background": {
+            "color": "000000"
+        }, 
+        "dividers": {
+            "display": "none"
+        }, 
+        "spacing": {
+            "modules": {
+                "bottom_margin": 60
+            }, 
+            "project": {
+                "top_margin": 65
+            }
+        }, 
+        "text": {
+            "caption": {
+                "color": "#3B3B3B", 
+                "display": "block", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "link": {
+                "color": "#005CFF", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "paragraph": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "subtitle": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "title": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }
+        }
+    }, 
+    "tags": [
+        "Digital Art T-shirt"
+    ], 
+    "url": "http://www.behance.net/gallery/89757/Gangsta"
+}

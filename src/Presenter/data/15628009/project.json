@@ -1,0 +1,165 @@
+{
+    "copyright": {
+        "description": "Attribution-NonCommercial", 
+        "license": "cc by-nc", 
+        "license_id": 3
+    }, 
+    "covers": {
+        "115": "https://m1.behance.net/rendition/projects/15628009/115/6413d3f30f95d7b34d68671cd70c41e3.jpeg", 
+        "202": "https://m1.behance.net/rendition/projects/15628009/orig/6413d3f30f95d7b34d68671cd70c41e3.jpeg", 
+        "230": "https://m1.behance.net/rendition/projects/15628009/230/6413d3f30f95d7b34d68671cd70c41e3.jpeg", 
+        "404": "https://m1.behance.net/rendition/projects/15628009/404/6413d3f30f95d7b34d68671cd70c41e3.jpeg"
+    }, 
+    "created_on": 1395912486, 
+    "description": "\u0410\u041c\u0410\u041a\u041e calendar 2013", 
+    "fields": [
+        "Illustration", 
+        "Photography", 
+        "Retouching"
+    ], 
+    "for_sale": 0, 
+    "id": 15628009, 
+    "mature_access": "allowed", 
+    "mature_content": 0, 
+    "modified_on": 1399468021, 
+    "modules": [
+        {
+            "height": 8616, 
+            "id": 107083549, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/107083549/hd/7a56256c77d3df4c769f8a62611c9cb1.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/107083549/orig/7a56256c77d3df4c769f8a62611c9cb1.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/107083549/disp/7a56256c77d3df4c769f8a62611c9cb1.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "embed": "<object height=\"288\" width=\"512\">\n              <param name=\"movie\" value=\"https://a2.behance.net/swf/osmf_strobe.swf\" />\n              <param name=\"flashvars\" value=\"src=https%3A%2F%2Fm1.behance.net%2Fprofiles13%2F3913969%2Fprojects%2F15628009%2F2da17f8aeb8ccc039be28a61b35f9bd3.flv&amp;height=288&amp;width=512&amp;poster=https%3A%2F%2Fm1.behance.net%2Fprofiles13%2F3913969%2Fprojects%2F15628009%2F2da17f8aeb8ccc039be28a61b35f9bd3-0000.png&amp;controlBarMode=floating&amp;streamType=recorded&amp;controlBarAutoHideTimeout=2&amp;controlBarAutoHide=true\" />\n              <param name=\"allowfullscreen\" value=\"true\" />\n              <param name=\"allowscriptaccess\" value=\"never\"></param>\n              <embed\n                  src=\"https://a2.behance.net/swf/osmf_strobe.swf\"\n                  type=\"application/x-shockwave-flash\"\n                  width=\"512\"\n                  height=\"288\"\n                  flashvars=\"src=https%3A%2F%2Fm1.behance.net%2Fprofiles13%2F3913969%2Fprojects%2F15628009%2F2da17f8aeb8ccc039be28a61b35f9bd3.flv&amp;height=288&amp;width=512&amp;poster=https%3A%2F%2Fm1.behance.net%2Fprofiles13%2F3913969%2Fprojects%2F15628009%2F2da17f8aeb8ccc039be28a61b35f9bd3-0000.png&amp;controlBarMode=floating&amp;streamType=recorded&amp;controlBarAutoHideTimeout=2&amp;controlBarAutoHide=true\"\n                  allowscriptaccess=\"never\"\n                  allowfullscreen=\"true\">\n            </object>", 
+            "height": 288, 
+            "id": 107083547, 
+            "image_src": "https://m1.behance.net/profiles13/3913969/projects/15628009/2da17f8aeb8ccc039be28a61b35f9bd3-0000.png", 
+            "src": "https://m1.behance.net/profiles13/3913969/projects/15628009/2da17f8aeb8ccc039be28a61b35f9bd3.flv", 
+            "type": "video", 
+            "width": 512
+        }
+    ], 
+    "name": "\u0410\u041c\u0410\u041a\u041e calendar 2014", 
+    "owners": [
+        {
+            "city": "Lviv", 
+            "company": "Vitamin ADV", 
+            "country": "Ukraine", 
+            "created_on": 1382617442, 
+            "display_name": "Vitamin ADV", 
+            "fields": [
+                "Advertising", 
+                "Graphic Design", 
+                "Photography"
+            ], 
+            "first_name": "Vitamin ", 
+            "id": 3913969, 
+            "images": {
+                "100": "https://mir-cdn.behance.net/v1/rendition/user/100/3913969.53d924f74cc6a.png", 
+                "115": "https://mir-cdn.behance.net/v1/rendition/user/115/3913969.53d924f74cc6a.png", 
+                "138": "https://mir-cdn.behance.net/v1/rendition/user/138/3913969.53d924f74cc6a.png", 
+                "230": "https://mir-cdn.behance.net/v1/rendition/user/230/3913969.53d924f74cc6a.png", 
+                "276": "https://mir-cdn.behance.net/v1/rendition/user/276/3913969.53d924f74cc6a.png", 
+                "50": "https://mir-cdn.behance.net/v1/rendition/user/50/3913969.53d924f74cc6a.png"
+            }, 
+            "last_name": "ADV", 
+            "location": "Lviv, Ukraine", 
+            "occupation": "Advertising company", 
+            "state": "", 
+            "url": "http://www.behance.net/vitamin-advertising", 
+            "username": "vitamin-advertising"
+        }
+    ], 
+    "privacy": "public", 
+    "published_on": 1395912920, 
+    "short_url": "http://bit.ly/1dPUpB0", 
+    "stats": {
+        "appreciations": 619, 
+        "comments": 40, 
+        "views": 7673
+    }, 
+    "styles": {
+        "background": {
+            "color": "FFFFFF"
+        }, 
+        "dividers": {
+            "display": "none"
+        }, 
+        "spacing": {
+            "modules": {
+                "bottom_margin": 20
+            }, 
+            "project": {
+                "top_margin": 50
+            }
+        }, 
+        "text": {
+            "caption": {
+                "color": "#3B3B3B", 
+                "display": "block", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "11px", 
+                "font_style": "italic", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "link": {
+                "color": "#1769FF", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "paragraph": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "subtitle": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "14px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "title": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "16px", 
+                "font_style": "normal", 
+                "font_weight": "bold", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }
+        }
+    }, 
+    "tags": [
+        "calendars", 
+        "AMAKO", 
+        "Vitamin ADV"
+    ], 
+    "url": "http://www.behance.net/gallery/15628009/amako-calendar-2014"
+}

@@ -1,0 +1,319 @@
+{
+    "copyright": {
+        "description": "Attribution-NonCommercial", 
+        "license": "cc by-nc", 
+        "license_id": 3
+    }, 
+    "covers": {
+        "115": "https://m1.behance.net/rendition/projects/15735307/115/e8c80787749211bc0996937ef099c753.png", 
+        "202": "https://m1.behance.net/rendition/projects/15735307/orig/e8c80787749211bc0996937ef099c753.png", 
+        "230": "https://m1.behance.net/rendition/projects/15735307/230/e8c80787749211bc0996937ef099c753.png", 
+        "404": "https://m1.behance.net/rendition/projects/15735307/404/e8c80787749211bc0996937ef099c753.png"
+    }, 
+    "created_on": 1396282745, 
+    "description": "\nTired of the same old crowd? Want to arrange a night on the town but fed up waiting for your friends to come online? Whatever you want to do, from dining out to walking in the park, going to the gym or just a coffee, Yep! puts you in touch with fun people nearby interested in sharing your activity. ", 
+    "features": [
+        {
+            "featured_on": 1396555202, 
+            "site": {
+                "domain": "talent.adweek.com", 
+                "icon": "https://a2.behance.net/img/galleries/composed/adweek.png", 
+                "id": 61, 
+                "key": "adweek", 
+                "name": "Adweek Talent Gallery", 
+                "network_id": 9, 
+                "ribbon": {
+                    "image": "https://a2.behance.net/img/galleries/ribbons/1x/adweek.png", 
+                    "image_2x": "https://a2.behance.net/img/galleries/ribbons/2x/adweek@2x.png"
+                }, 
+                "url": "http://talent.adweek.com"
+            }, 
+            "url": "http://talent.adweek.com/gallery/15735307/yep-Changing-the-way-people-meet"
+        }, 
+        {
+            "featured_on": 1397743203, 
+            "site": {
+                "domain": "appdesignserved.co", 
+                "icon": "https://a2.behance.net/img/galleries/composed/app.png", 
+                "id": 53, 
+                "key": "app", 
+                "name": "App Design Served", 
+                "ribbon": {
+                    "image": "https://a2.behance.net/img/galleries/ribbons/1x/app.png", 
+                    "image_2x": "https://a2.behance.net/img/galleries/ribbons/2x/app@2x.png"
+                }, 
+                "url": "http://appdesignserved.co"
+            }, 
+            "url": "http://appdesignserved.co/gallery/15735307/yep-Changing-the-way-people-meet"
+        }
+    ], 
+    "fields": [
+        "Graphic Design", 
+        "Interaction Design", 
+        "UI/UX"
+    ], 
+    "for_sale": 0, 
+    "id": 15735307, 
+    "mature_access": "allowed", 
+    "mature_content": 0, 
+    "modified_on": 1402479415, 
+    "modules": [
+        {
+            "height": 609, 
+            "id": 107766621, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/107766621/hd/9c74ffd262c2ada43571a99fc2bcaeeb.png", 
+                "original": "https://m1.behance.net/rendition/modules/107766621/orig/9c74ffd262c2ada43571a99fc2bcaeeb.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/107766621/disp/9c74ffd262c2ada43571a99fc2bcaeeb.png", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 764, 
+            "id": 107766379, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/107766379/hd/d73675d3e50727b1aedeb604bb66962c.png", 
+                "original": "https://m1.behance.net/rendition/modules/107766379/orig/d73675d3e50727b1aedeb604bb66962c.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/107766379/disp/d73675d3e50727b1aedeb604bb66962c.png", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 1101, 
+            "id": 107766381, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/107766381/hd/747fda178bfb59288b6c1655c7e0c93a.png", 
+                "original": "https://m1.behance.net/rendition/modules/107766381/orig/747fda178bfb59288b6c1655c7e0c93a.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/107766381/disp/747fda178bfb59288b6c1655c7e0c93a.png", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 1102, 
+            "id": 107766383, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/107766383/hd/5b468f8533763b5850ea3978480bcb49.png", 
+                "original": "https://m1.behance.net/rendition/modules/107766383/orig/5b468f8533763b5850ea3978480bcb49.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/107766383/disp/5b468f8533763b5850ea3978480bcb49.png", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 1101, 
+            "id": 107766391, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/107766391/hd/b1bbadd71fc7effd0339f34f6c99f5b8.gif", 
+                "original": "https://m1.behance.net/rendition/modules/107766391/orig/b1bbadd71fc7effd0339f34f6c99f5b8.gif"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/107766391/disp/b1bbadd71fc7effd0339f34f6c99f5b8.gif", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 1102, 
+            "id": 107766385, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/107766385/hd/e3ecb2f26236b3a10f886bbe00babf94.png", 
+                "original": "https://m1.behance.net/rendition/modules/107766385/orig/e3ecb2f26236b3a10f886bbe00babf94.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/107766385/disp/e3ecb2f26236b3a10f886bbe00babf94.png", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 1100, 
+            "id": 107766389, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/107766389/hd/eaae007e3bb87a6a213d71af510af7a5.png", 
+                "original": "https://m1.behance.net/rendition/modules/107766389/orig/eaae007e3bb87a6a213d71af510af7a5.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/107766389/disp/eaae007e3bb87a6a213d71af510af7a5.png", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 1062, 
+            "id": 107766387, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/107766387/hd/026d4607ee63fb92020779988cd0845e.png", 
+                "original": "https://m1.behance.net/rendition/modules/107766387/orig/026d4607ee63fb92020779988cd0845e.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/107766387/disp/026d4607ee63fb92020779988cd0845e.png", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 140, 
+            "id": 107758957, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/107758957/hd/fc6becff235048197afc667eded4ca2b.png", 
+                "original": "https://m1.behance.net/rendition/modules/107758957/orig/fc6becff235048197afc667eded4ca2b.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/107758957/disp/fc6becff235048197afc667eded4ca2b.png", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "id": 107760625, 
+            "text": "<div style=\"text-align: center;\"><span style=\"font-size:14px;\">Download for free\u00a0</span><span class=\"underline\"><span style=\"font-size:14px;\"><a href=\"http://bit.ly/yepapp_en\" style=\"color:#E34F42;\" target=\"_blank\">http://bit.ly/yepapp_en</a></span></span></div><div style=\"text-align: center;\">\u00a0</div><div style=\"text-align: center;\"><a href=\"https://medium.com/user-experience-researche/explaining-app-mechanics-with-animations-c31a5f80575\" style=\"color:#1769FF;\" target=\"_blank\"><span class=\"underline\"><span style=\"font-size:14px;\">Read the UX story on Medium</span></span></a></div><div style=\"text-align: center;\">\u00a0</div><div style=\"text-align: center;\">\u00a0</div><div style=\"text-align: center;\">yep! Team</div><div style=\"text-align: center;\">\u00a0</div><div style=\"text-align: center;\">Roman Sidorenko and Alexander Kukhtenko\u00a0- Founders</div><div style=\"text-align: center;\">Eugene Rudyy (keepa) - UX and Design</div><div style=\"text-align: center;\">Ivan Velichko (shuka) - \u00a0Logo designer</div><div style=\"text-align: center;\">Polecat - Programming</div><div style=\"text-align: center;\">\u00a0</div><div style=\"text-align: center;\">This showcase might contain some not yet completed or under consideration</div><div style=\"text-align: center;\">elements and approaches. We are working on the app so this showcase will refresh from time to time</div><div style=\"text-align: center;\">\u00a0</div><div style=\"text-align: center;\">Thank you for watching.</div><div style=\"text-align: center;\">Appreciate and download for free if you like it!</div>", 
+            "text_plain": "Download for free\u00a0http://bit.ly/yepapp_en\u00a0Read the UX story on Medium\u00a0\u00a0yep! Team\u00a0Roman Sidorenko and Alexander Kukhtenko\u00a0- FoundersEugene Rudyy (keepa) - UX and DesignIvan Velichko (shuka) - \u00a0Logo designerPolecat - Programming\u00a0This showcase might contain some not yet completed or under considerationelements and approaches. We are working on the app so this showcase will refresh from time to time\u00a0Thank you for watching.Appreciate and download for free if you like it!", 
+            "type": "text"
+        }
+    ], 
+    "name": "yep! Changing the way people meet", 
+    "owners": [
+        {
+            "city": "Lviv", 
+            "company": "Keepa", 
+            "country": "Ukraine", 
+            "created_on": 1243849793, 
+            "display_name": "Keepa Studio", 
+            "fields": [
+                "Illustration", 
+                "Web Design", 
+                "Graphic Design"
+            ], 
+            "first_name": "Keepa", 
+            "id": 106961, 
+            "images": {
+                "115": "https://mir-cdn.behance.net/v1/rendition/user/115/106961.53ab69f4b1862.jpg", 
+                "138": "https://mir-cdn.behance.net/v1/rendition/user/138/106961.53ab69f4b1862.jpg", 
+                "50": "https://mir-cdn.behance.net/v1/rendition/user/50/106961.53ab69f4b1862.jpg"
+            }, 
+            "last_name": "Studio", 
+            "location": "Lviv, Ukraine", 
+            "occupation": "Studio", 
+            "state": "", 
+            "url": "http://www.behance.net/keepa", 
+            "username": "keepa"
+        }, 
+        {
+            "city": "Lviv", 
+            "company": "Keepa", 
+            "country": "Ukraine", 
+            "created_on": 1203315583, 
+            "display_name": "Eugene Rudyy", 
+            "fields": [
+                "Illustration", 
+                "Web Design", 
+                "Graphic Design"
+            ], 
+            "first_name": "Eugene", 
+            "id": 58929, 
+            "images": {
+                "115": "https://mir-cdn.behance.net/v1/rendition/user/115/58929.53ab00ab7c1c6.jpg", 
+                "138": "https://mir-cdn.behance.net/v1/rendition/user/138/58929.53ab00ab7c1c6.jpg", 
+                "50": "https://mir-cdn.behance.net/v1/rendition/user/50/58929.53ab00ab7c1c6.jpg"
+            }, 
+            "last_name": "Rudyy", 
+            "location": "Lviv, Ukraine", 
+            "occupation": "", 
+            "state": "", 
+            "url": "http://www.behance.net/rudpunk", 
+            "username": "rudpunk"
+        }
+    ], 
+    "privacy": "public", 
+    "published_on": 1396286229, 
+    "short_url": "http://bit.ly/1i8ogqV", 
+    "stats": {
+        "appreciations": 357, 
+        "comments": 22, 
+        "views": 6564
+    }, 
+    "styles": {
+        "background": {
+            "color": "FFFFFF", 
+            "image": {
+                "name": "8634ac59a80475e29e2f30d0e021e360.png", 
+                "position": "top center", 
+                "repeat": "no-repeat", 
+                "url": "https://m1.behance.net/profiles4/106961/projects/15735307/8634ac59a80475e29e2f30d0e021e360.png"
+            }
+        }, 
+        "dividers": {
+            "display": "none"
+        }, 
+        "spacing": {
+            "modules": {
+                "bottom_margin": 0
+            }, 
+            "project": {
+                "top_margin": 0
+            }
+        }, 
+        "text": {
+            "caption": {
+                "color": "#3B3B3B", 
+                "display": "block", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "11px", 
+                "font_style": "italic", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "link": {
+                "color": "#1769FF", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "paragraph": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "subtitle": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "14px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "title": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "16px", 
+                "font_style": "normal", 
+                "font_weight": "bold", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }
+        }
+    }, 
+    "tags": [
+        "app", 
+        "mobile", 
+        "social", 
+        "meetup", 
+        "communication", 
+        "ios", 
+        "iphone", 
+        "people", 
+        "explore"
+    ], 
+    "url": "http://www.behance.net/gallery/15735307/yep-Changing-the-way-people-meet"
+}

@@ -1,0 +1,177 @@
+{
+    "copyright": {
+        "description": "Attribution-NonCommercial", 
+        "license": "cc by-nc", 
+        "license_id": 3
+    }, 
+    "covers": {
+        "115": "https://mir-cdn.behance.net/v1/rendition/projects/115/89909.54375ef537e07.jpg", 
+        "202": "https://mir-cdn.behance.net/v1/rendition/projects/202/89909.54375ef537e07.jpg"
+    }, 
+    "created_on": 1209990186, 
+    "description": "SOVIET UNION: LIFESTYLE. 1945-1985 / Vladimir Lisin project\nPublishing Group Agey Tomesh/WAM\nwww.ageytomesh.ru\nArt-director: Arseniy Mesheryakov\nBook design: Damir Zalyatdinov\nBox cover design: Sergey Snurnik", 
+    "fields": [
+        "Design", 
+        "Illustration"
+    ], 
+    "for_sale": 0, 
+    "id": 89909, 
+    "mature_access": "allowed", 
+    "mature_content": 0, 
+    "modified_on": 1353026035, 
+    "modules": [
+        {
+            "id": 209396, 
+            "text": "<span style=\"color: rgb(255, 255, 255);\">SOVIET UNION: LIFESTYLE. 1945-1985<br>Vladimir Lisin project<br>Publishing Group <a href=\"http://www.wamonline.ru/?action=books\">Agey Tomesh/WAM</a><br>Art-director: Arseniy Mesheryakov<br>Book design: Damir Zalyatdinov<br>Box cover design: Sergey Snurnik<br><br><br></span>", 
+            "text_plain": "SOVIET UNION: LIFESTYLE. 1945-1985Vladimir Lisin projectPublishing Group Agey Tomesh/WAMArt-director: Arseniy MesheryakovBook design: Damir ZalyatdinovBox cover design: Sergey Snurnik", 
+            "type": "text"
+        }, 
+        {
+            "height": 806, 
+            "id": 24920613, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/24920613/hd/ed4b2ed89b87bbd622d549d83c887cd8.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/24920613/orig/ed4b2ed89b87bbd622d549d83c887cd8.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/24920613/disp/ed4b2ed89b87bbd622d549d83c887cd8.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 780, 
+            "id": 209398, 
+            "sizes": [], 
+            "src": "https://m1.behance.net/rendition/modules/209398/disp/703201209992088.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 780, 
+            "id": 209399, 
+            "sizes": [], 
+            "src": "https://m1.behance.net/rendition/modules/209399/disp/703201209992102.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "id": 209400, 
+            "text": "&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Backside<br>", 
+            "text_plain": "&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Backside", 
+            "type": "text"
+        }
+    ], 
+    "name": "Soviet Union: Lifestyle. 1945-1985. Book Box", 
+    "owners": [
+        {
+            "city": "Lviv", 
+            "company": "", 
+            "country": "Ukraine", 
+            "created_on": 1206321594, 
+            "display_name": "Sergey Snurnik", 
+            "fields": [
+                "Illustration", 
+                "Digital Art", 
+                "Art Direction"
+            ], 
+            "first_name": "Sergey", 
+            "id": 70320, 
+            "images": {
+                "115": "https://mir-cdn.behance.net/v1/rendition/user/115/70320.53ab08d0b85ef.jpg", 
+                "138": "https://mir-cdn.behance.net/v1/rendition/user/138/70320.53ab08d0b85ef.jpg", 
+                "50": "https://mir-cdn.behance.net/v1/rendition/user/50/70320.53ab08d0b85ef.jpg"
+            }, 
+            "last_name": "Snurnik", 
+            "location": "Lviv, Ukraine", 
+            "occupation": "", 
+            "state": "", 
+            "url": "http://www.behance.net/SergeySnurnik", 
+            "username": "SergeySnurnik"
+        }
+    ], 
+    "privacy": "public", 
+    "published_on": 1209993101, 
+    "short_url": "http://bit.ly/du9y23", 
+    "stats": {
+        "appreciations": 136, 
+        "comments": 19, 
+        "views": 3148
+    }, 
+    "styles": {
+        "background": {
+            "color": "000000"
+        }, 
+        "dividers": {
+            "display": "none"
+        }, 
+        "spacing": {
+            "modules": {
+                "bottom_margin": 0
+            }, 
+            "project": {
+                "top_margin": 15
+            }
+        }, 
+        "text": {
+            "caption": {
+                "color": "#3B3B3B", 
+                "display": "block", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "link": {
+                "color": "#005CFF", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "paragraph": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "subtitle": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "title": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }
+        }
+    }, 
+    "tags": [
+        "design ", 
+        "book"
+    ], 
+    "url": "http://www.behance.net/gallery/89909/Soviet-Union-Lifestyle-1945-1985-Book-Box"
+}

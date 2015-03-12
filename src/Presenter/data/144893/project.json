@@ -1,0 +1,274 @@
+{
+    "copyright": {
+        "description": "Attribution-NonCommercial", 
+        "license": "cc by-nc", 
+        "license_id": 3
+    }, 
+    "covers": {
+        "115": "https://mir-cdn.behance.net/v1/rendition/projects/115/144893.5438865875229.jpg", 
+        "202": "https://mir-cdn.behance.net/v1/rendition/projects/202/144893.5438865875229.jpg"
+    }, 
+    "created_on": 1226138924, 
+    "description": "Calligraphy for Esquire magazine (Russia edition)\nRoberto Bola\u00f1o's story \"Mauricio Silva\"\nArt director: Maxim Nikanorov\nPhoto: Tiane Doan Na Champassak", 
+    "features": [
+        {
+            "featured_on": 1229550301, 
+            "site": {
+                "domain": "www.behance.net", 
+                "icon": "https://a2.behance.net/img/site/favicon.ico", 
+                "id": 1, 
+                "key": "net", 
+                "name": "Behance.net", 
+                "ribbon": {
+                    "image": "https://a2.behance.net/img/galleries/ribbons/1x/net.png", 
+                    "image_2x": "https://a2.behance.net/img/galleries/ribbons/2x/net@2x.png"
+                }, 
+                "url": "http://www.behance.net"
+            }, 
+            "url": "http://www.behance.net/gallery/144893/Editorial-Calligraphy-for-Esquire-(Russia)"
+        }, 
+        {
+            "featured_on": 1240898406, 
+            "site": {
+                "domain": "typographyserved.com", 
+                "icon": "https://a2.behance.net/img/galleries/composed/typography.png", 
+                "id": 3, 
+                "key": "typography", 
+                "name": "Typography Served", 
+                "ribbon": {
+                    "image": "https://a2.behance.net/img/galleries/ribbons/1x/typography.png", 
+                    "image_2x": "https://a2.behance.net/img/galleries/ribbons/2x/typography@2x.png"
+                }, 
+                "url": "http://typographyserved.com"
+            }, 
+            "url": "http://typographyserved.com/gallery/144893/Editorial-Calligraphy-for-Esquire-(Russia)"
+        }
+    ], 
+    "fields": [
+        "Typography", 
+        "Illustration", 
+        "Editorial Design"
+    ], 
+    "for_sale": 0, 
+    "id": 144893, 
+    "mature_access": "allowed", 
+    "mature_content": 0, 
+    "modified_on": 1354582679, 
+    "modules": [
+        {
+            "id": 496092, 
+            "text": "<span style=\"color: rgb(255, 255, 255);\">Esquire magazine (Russia)<br>Roberto Bola\u00f1o's story \"Mauricio Silva\"<br>Art director: Maxim Nikanorov<br>Photo: Tiane Doan Na Champassak</span>", 
+            "text_plain": "Esquire magazine (Russia)Roberto Bola\u00f1o's story \"Mauricio Silva\"Art director: Maxim NikanorovPhoto: Tiane Doan Na Champassak", 
+            "type": "text"
+        }, 
+        {
+            "height": 400, 
+            "id": 496094, 
+            "sizes": [], 
+            "src": "https://m1.behance.net/rendition/modules/496094/disp/703201226139753.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 700, 
+            "id": 496095, 
+            "sizes": [], 
+            "src": "https://m1.behance.net/rendition/modules/496095/disp/703201226139775.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 434, 
+            "id": 496096, 
+            "sizes": [], 
+            "src": "https://m1.behance.net/rendition/modules/496096/disp/703201226139792.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 400, 
+            "id": 496098, 
+            "sizes": [], 
+            "src": "https://m1.behance.net/rendition/modules/496098/disp/703201226139821.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 338, 
+            "id": 496099, 
+            "sizes": [], 
+            "src": "https://m1.behance.net/rendition/modules/496099/disp/703201226139892.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 452, 
+            "id": 496100, 
+            "sizes": [], 
+            "src": "https://m1.behance.net/rendition/modules/496100/disp/703201226139838.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 400, 
+            "id": 496102, 
+            "sizes": [], 
+            "src": "https://m1.behance.net/rendition/modules/496102/disp/703201226139947.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 697, 
+            "id": 496103, 
+            "sizes": [], 
+            "src": "https://m1.behance.net/rendition/modules/496103/disp/703201226139963.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 452, 
+            "id": 496104, 
+            "sizes": [], 
+            "src": "https://m1.behance.net/rendition/modules/496104/disp/703201226139981.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 400, 
+            "id": 496106, 
+            "sizes": [], 
+            "src": "https://m1.behance.net/rendition/modules/496106/disp/703201226140003.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 699, 
+            "id": 496107, 
+            "sizes": [], 
+            "src": "https://m1.behance.net/rendition/modules/496107/disp/703201226140018.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 455, 
+            "id": 496108, 
+            "sizes": [], 
+            "src": "https://m1.behance.net/rendition/modules/496108/disp/703201226140030.jpg", 
+            "type": "image", 
+            "width": 600
+        }
+    ], 
+    "name": "Editorial. Calligraphy for Esquire (Russia)", 
+    "owners": [
+        {
+            "city": "Lviv", 
+            "company": "", 
+            "country": "Ukraine", 
+            "created_on": 1206321594, 
+            "display_name": "Sergey Snurnik", 
+            "fields": [
+                "Illustration", 
+                "Digital Art", 
+                "Art Direction"
+            ], 
+            "first_name": "Sergey", 
+            "id": 70320, 
+            "images": {
+                "115": "https://mir-cdn.behance.net/v1/rendition/user/115/70320.53ab08d0b85ef.jpg", 
+                "138": "https://mir-cdn.behance.net/v1/rendition/user/138/70320.53ab08d0b85ef.jpg", 
+                "50": "https://mir-cdn.behance.net/v1/rendition/user/50/70320.53ab08d0b85ef.jpg"
+            }, 
+            "last_name": "Snurnik", 
+            "location": "Lviv, Ukraine", 
+            "occupation": "", 
+            "state": "", 
+            "url": "http://www.behance.net/SergeySnurnik", 
+            "username": "SergeySnurnik"
+        }
+    ], 
+    "privacy": "public", 
+    "published_on": 1226141416, 
+    "short_url": "http://bit.ly/9wW4ak", 
+    "stats": {
+        "appreciations": 385, 
+        "comments": 85, 
+        "views": 7569
+    }, 
+    "styles": {
+        "background": {
+            "color": "000000"
+        }, 
+        "dividers": {
+            "display": "none"
+        }, 
+        "spacing": {
+            "modules": {
+                "bottom_margin": 25
+            }, 
+            "project": {
+                "top_margin": 65
+            }
+        }, 
+        "text": {
+            "caption": {
+                "color": "#3B3B3B", 
+                "display": "block", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "link": {
+                "color": "#005CFF", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "paragraph": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "subtitle": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "title": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }
+        }
+    }, 
+    "tags": [
+        "Esquire"
+    ], 
+    "url": "http://www.behance.net/gallery/144893/Editorial-Calligraphy-for-Esquire-(Russia)"
+}

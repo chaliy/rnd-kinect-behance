@@ -1,0 +1,166 @@
+{
+    "copyright": {
+        "description": "Attribution-NonCommercial", 
+        "license": "cc by-nc", 
+        "license_id": 3
+    }, 
+    "covers": {
+        "115": "https://mir-cdn.behance.net/v1/rendition/projects/115/20940531.545621d83536a.png", 
+        "202": "https://mir-cdn.behance.net/v1/rendition/projects/202/20940531.545621d83536a.png", 
+        "230": "https://mir-cdn.behance.net/v1/rendition/projects/230/20940531.545621d83536a.png", 
+        "404": "https://mir-cdn.behance.net/v1/rendition/projects/404/20940531.545621d83536a.png"
+    }, 
+    "created_on": 1414762206, 
+    "description": "Site was developed in collaboration with a team of studio Aero\nwww.aeroidea.ru\n\n---\n\n\u0421heck out real working site by the link www.1c-interes.ru\n", 
+    "fields": [
+        "Graphic Design", 
+        "UI/UX", 
+        "Web Design"
+    ], 
+    "for_sale": 0, 
+    "id": 20940531, 
+    "mature_access": "allowed", 
+    "mature_content": 0, 
+    "modified_on": 1415184596, 
+    "modules": [
+        {
+            "height": 19275, 
+            "id": 140574503, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/140574503/hd/b19a22cfc6bbd136ed463aab28f0ee82.png", 
+                "original": "https://m1.behance.net/rendition/modules/140574503/orig/b19a22cfc6bbd136ed463aab28f0ee82.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/140574503/disp/b19a22cfc6bbd136ed463aab28f0ee82.png", 
+            "type": "image", 
+            "width": 600
+        }
+    ], 
+    "name": "1C Interes online shop", 
+    "owners": [
+        {
+            "city": "Lviv", 
+            "company": "", 
+            "country": "Ukraine", 
+            "created_on": 1267609647, 
+            "display_name": "Dmytro Trotsenko", 
+            "fields": [
+                "Web Design", 
+                "Graphic Design", 
+                "UI/UX"
+            ], 
+            "first_name": "Dmytro", 
+            "id": 155285, 
+            "images": {
+                "100": "https://mir-cdn.behance.net/v1/rendition/user/100/155285.53e321461d288.jpg", 
+                "115": "https://mir-cdn.behance.net/v1/rendition/user/115/155285.53e321461d288.jpg", 
+                "138": "https://mir-cdn.behance.net/v1/rendition/user/138/155285.53e321461d288.jpg", 
+                "230": "https://mir-cdn.behance.net/v1/rendition/user/230/155285.53e321461d288.jpg", 
+                "276": "https://mir-cdn.behance.net/v1/rendition/user/276/155285.53e321461d288.jpg", 
+                "50": "https://mir-cdn.behance.net/v1/rendition/user/50/155285.53e321461d288.jpg"
+            }, 
+            "last_name": "Trotsenko", 
+            "location": "Lviv, Ukraine", 
+            "occupation": "Web Designer", 
+            "state": "", 
+            "url": "http://www.behance.net/manzz", 
+            "username": "manzz"
+        }
+    ], 
+    "privacy": "public", 
+    "published_on": 1414763834, 
+    "short_url": "http://bit.ly/1zRcA9d", 
+    "stats": {
+        "appreciations": 12, 
+        "comments": 0, 
+        "views": 63
+    }, 
+    "styles": {
+        "background": {
+            "color": "2C2C2C", 
+            "image": {
+                "name": "45a0877f62bd7437fdf5959b9bb1de22.png", 
+                "position": "top center", 
+                "repeat": "no-repeat", 
+                "url": "https://m1.behance.net/profiles3/155285/projects/20940531/45a0877f62bd7437fdf5959b9bb1de22.png"
+            }
+        }, 
+        "dividers": {
+            "display": "none"
+        }, 
+        "spacing": {
+            "modules": {
+                "bottom_margin": 0
+            }, 
+            "project": {
+                "top_margin": 0
+            }
+        }, 
+        "text": {
+            "caption": {
+                "color": "#3B3B3B", 
+                "display": "block", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "11px", 
+                "font_style": "italic", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "link": {
+                "color": "#1769FF", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "paragraph": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "subtitle": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "14px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "title": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "16px", 
+                "font_style": "normal", 
+                "font_weight": "bold", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }
+        }
+    }, 
+    "tags": [
+        "design ", 
+        "Ecommerce", 
+        "shop", 
+        "UI", 
+        "graphics", 
+        "Webdesign", 
+        "Manzz"
+    ], 
+    "url": "http://www.behance.net/gallery/20940531/1C-Interes-online-shop"
+}

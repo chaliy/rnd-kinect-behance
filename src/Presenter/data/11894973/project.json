@@ -1,0 +1,205 @@
+{
+    "copyright": {
+        "description": "Attribution-NonCommercial", 
+        "license": "cc by-nc", 
+        "license_id": 3
+    }, 
+    "covers": {
+        "115": "https://m1.behance.net/rendition/projects/11894973/115/28acaae61ffaebb404f63b8b153d903e.jpeg", 
+        "202": "https://m1.behance.net/rendition/projects/11894973/orig/28acaae61ffaebb404f63b8b153d903e.jpeg", 
+        "230": "https://m1.behance.net/rendition/projects/11894973/230/28acaae61ffaebb404f63b8b153d903e.jpeg", 
+        "404": "https://m1.behance.net/rendition/projects/11894973/404/28acaae61ffaebb404f63b8b153d903e.jpeg"
+    }, 
+    "created_on": 1383521149, 
+    "description": "Quick showcase of a various web, interaction and user experience design work done for a Moscow International Laboratory of Pathomorphology.", 
+    "features": [
+        {
+            "featured_on": 1392732001, 
+            "site": {
+                "domain": "webdesignserved.com", 
+                "icon": "https://a2.behance.net/img/galleries/composed/webdesign.png", 
+                "id": 8, 
+                "key": "webdesign", 
+                "name": "Web Design Served", 
+                "ribbon": {
+                    "image": "https://a2.behance.net/img/galleries/ribbons/1x/webdesign.png", 
+                    "image_2x": "https://a2.behance.net/img/galleries/ribbons/2x/webdesign@2x.png"
+                }, 
+                "url": "http://webdesignserved.com"
+            }, 
+            "url": "http://webdesignserved.com/gallery/11894973/Moscow-Laboratory-of-Pathomorphology"
+        }
+    ], 
+    "fields": [
+        "Interaction Design", 
+        "UI/UX", 
+        "Web Design"
+    ], 
+    "for_sale": 0, 
+    "id": 11894973, 
+    "mature_access": "allowed", 
+    "mature_content": 0, 
+    "modified_on": 1392732001, 
+    "modules": [
+        {
+            "height": 2128, 
+            "id": 86327559, 
+            "sizes": {
+                "original": "https://m1.behance.net/rendition/modules/86327559/orig/4dc6aa480426e45fb56b6e1025b6ddf7.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/86327559/disp/4dc6aa480426e45fb56b6e1025b6ddf7.png", 
+            "type": "image", 
+            "width": 1
+        }, 
+        {
+            "height": 450, 
+            "id": 86301011, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/86301011/hd/d4f4c85f0529e1f42f95900734e7b3dc.gif", 
+                "original": "https://m1.behance.net/rendition/modules/86301011/orig/d4f4c85f0529e1f42f95900734e7b3dc.gif"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/86301011/disp/d4f4c85f0529e1f42f95900734e7b3dc.gif", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 8079, 
+            "id": 86354147, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/86354147/hd/c9dbaa97a0b37fcffc1044b89512a4f8.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/86354147/orig/c9dbaa97a0b37fcffc1044b89512a4f8.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/86354147/disp/c9dbaa97a0b37fcffc1044b89512a4f8.jpg", 
+            "type": "image", 
+            "width": 600
+        }
+    ], 
+    "name": "Moscow Laboratory of Pathomorphology", 
+    "owners": [
+        {
+            "city": "Lviv", 
+            "company": "titanloop.com", 
+            "country": "Ukraine", 
+            "created_on": 1228157937, 
+            "display_name": "Leonid Ershov", 
+            "fields": [
+                "Interaction Design", 
+                "UI/UX", 
+                "Web Design"
+            ], 
+            "first_name": "Leonid", 
+            "id": 88125, 
+            "images": {
+                "100": "https://mir-cdn.behance.net/v1/rendition/user/100/88125.544295bb1d5c6.png", 
+                "115": "https://mir-cdn.behance.net/v1/rendition/user/115/88125.544295bb1d5c6.png", 
+                "138": "https://mir-cdn.behance.net/v1/rendition/user/138/88125.544295bb1d5c6.png", 
+                "230": "https://mir-cdn.behance.net/v1/rendition/user/230/88125.544295bb1d5c6.png", 
+                "276": "https://mir-cdn.behance.net/v1/rendition/user/276/88125.544295bb1d5c6.png", 
+                "50": "https://mir-cdn.behance.net/v1/rendition/user/50/88125.544295bb1d5c6.png"
+            }, 
+            "last_name": "Ershov", 
+            "location": "Lviv, Ukraine", 
+            "occupation": "Interactive Art Director", 
+            "state": "", 
+            "url": "http://www.behance.net/zygat3r", 
+            "username": "zygat3r"
+        }
+    ], 
+    "privacy": "public", 
+    "published_on": 1383946229, 
+    "short_url": "http://bit.ly/1fpIj3J", 
+    "stats": {
+        "appreciations": 1126, 
+        "comments": 77, 
+        "views": 12094
+    }, 
+    "styles": {
+        "background": {
+            "color": "050106", 
+            "image": {
+                "name": "1651162d3b7d7e37a7e887a3e5442fb3.jpg", 
+                "position": "top left", 
+                "repeat": "no-repeat", 
+                "url": "https://m1.behance.net/profiles/88125/projects/11894973/1651162d3b7d7e37a7e887a3e5442fb3.jpg"
+            }
+        }, 
+        "dividers": {
+            "display": "none"
+        }, 
+        "spacing": {
+            "modules": {
+                "bottom_margin": 0
+            }, 
+            "project": {
+                "top_margin": 0
+            }
+        }, 
+        "text": {
+            "caption": {
+                "color": "#3B3B3B", 
+                "display": "block", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "11px", 
+                "font_style": "italic", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "link": {
+                "color": "#1769FF", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "paragraph": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "subtitle": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "14px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "title": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "16px", 
+                "font_style": "normal", 
+                "font_weight": "bold", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }
+        }
+    }, 
+    "tags": [
+        "medicine", 
+        "research", 
+        "Pathomorphology", 
+        "dashboard", 
+        "control", 
+        "landing", 
+        "flat"
+    ], 
+    "url": "http://www.behance.net/gallery/11894973/Moscow-Laboratory-of-Pathomorphology"
+}

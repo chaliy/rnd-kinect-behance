@@ -1,0 +1,357 @@
+{
+    "copyright": {
+        "description": "Attribution-NonCommercial-NoDerivs",
+        "license": "cc by-nc-nd",
+        "license_id": 1
+    },
+    "covers": {
+        "115": "http://m1.behance.net/rendition/projects/13331447/115/be42e6304a618b4be73680ff949145f0.jpeg",
+        "202": "http://m1.behance.net/rendition/projects/13331447/orig/be42e6304a618b4be73680ff949145f0.jpeg",
+        "230": "http://m1.behance.net/rendition/projects/13331447/230/be42e6304a618b4be73680ff949145f0.jpeg",
+        "404": "http://m1.behance.net/rendition/projects/13331447/404/be42e6304a618b4be73680ff949145f0.jpeg"
+    },
+    "created_on": 1387814149,
+    "description": "This is our proof of concept to explore the potential use of Google Glass in sport activities. Imagine sport as a real-life digital game!",
+    "features": [
+        {
+            "featured_on": 1389279604,
+            "site": {
+                "domain": "id-mag.com",
+                "icon": "http://a2.behance.net/img/galleries/composed/idmag.png",
+                "id": 73,
+                "key": "idmag",
+                "name": "ID Magazine",
+                "ribbon": {
+                    "image": "https://a2.behance.net/img/galleries/ribbons/1x/idmag.png",
+                    "image_2x": "https://a2.behance.net/img/galleries/ribbons/2x/idmag@2x.png"
+                },
+                "url": "http://id-mag.com"
+            },
+            "url": "http://id-mag.com/gallery/13331447/ELEKS-Google-Glass-Experiment"
+        }
+    ],
+    "fields": [
+        "Advertising",
+        "Interaction Design",
+        "UI/UX"
+    ],
+    "for_sale": 0,
+    "id": 13331447,
+    "mature_access": "allowed",
+    "mature_content": 0,
+    "modified_on": 1413540842,
+    "modules": [
+        {
+            "height": 513,
+            "id": 92603633,
+            "sizes": {
+                "max_1240": "http://m1.behance.net/rendition/modules/92603633/hd/391772a56546bf093161aaa2b00a1026.jpg",
+                "original": "http://m1.behance.net/rendition/modules/92603633/orig/391772a56546bf093161aaa2b00a1026.jpg"
+            },
+            "src": "http://m1.behance.net/rendition/modules/92603633/disp/391772a56546bf093161aaa2b00a1026.jpg",
+            "type": "image",
+            "width": 600
+        },
+        {
+            "height": 244,
+            "id": 92603237,
+            "sizes": {
+                "max_1240": "http://m1.behance.net/rendition/modules/92603237/hd/28ba4e576cff540a9eff77e30d33766c.gif",
+                "original": "http://m1.behance.net/rendition/modules/92603237/orig/28ba4e576cff540a9eff77e30d33766c.gif"
+            },
+            "src": "http://m1.behance.net/rendition/modules/92603237/disp/28ba4e576cff540a9eff77e30d33766c.gif",
+            "type": "image",
+            "width": 600
+        },
+        {
+            "height": 2612,
+            "id": 92603239,
+            "sizes": {
+                "max_1240": "http://m1.behance.net/rendition/modules/92603239/hd/5f90fbb1294586d483a29963c2031bcb.jpg",
+                "original": "http://m1.behance.net/rendition/modules/92603239/orig/5f90fbb1294586d483a29963c2031bcb.jpg"
+            },
+            "src": "http://m1.behance.net/rendition/modules/92603239/disp/5f90fbb1294586d483a29963c2031bcb.jpg",
+            "type": "image",
+            "width": 600
+        },
+        {
+            "height": 2209,
+            "id": 102117877,
+            "sizes": {
+                "max_1240": "http://m1.behance.net/rendition/modules/102117877/hd/2687a7e7711477981f8f5b3f05ea6997.jpg",
+                "original": "http://m1.behance.net/rendition/modules/102117877/orig/2687a7e7711477981f8f5b3f05ea6997.jpg"
+            },
+            "src": "http://m1.behance.net/rendition/modules/102117877/disp/2687a7e7711477981f8f5b3f05ea6997.jpg",
+            "type": "image",
+            "width": 600
+        },
+        {
+            "height": 1417,
+            "id": 92603243,
+            "sizes": {
+                "max_1240": "http://m1.behance.net/rendition/modules/92603243/hd/16907e8ae5d9de935d8e0ee4ffe26dda.jpg",
+                "original": "http://m1.behance.net/rendition/modules/92603243/orig/16907e8ae5d9de935d8e0ee4ffe26dda.jpg"
+            },
+            "src": "http://m1.behance.net/rendition/modules/92603243/disp/16907e8ae5d9de935d8e0ee4ffe26dda.jpg",
+            "type": "image",
+            "width": 600
+        },
+        {
+            "height": 3631,
+            "id": 92603245,
+            "sizes": {
+                "max_1240": "http://m1.behance.net/rendition/modules/92603245/hd/ceb44041de385b807fc3bb025589c0d9.jpg",
+                "original": "http://m1.behance.net/rendition/modules/92603245/orig/ceb44041de385b807fc3bb025589c0d9.jpg"
+            },
+            "src": "http://m1.behance.net/rendition/modules/92603245/disp/ceb44041de385b807fc3bb025589c0d9.jpg",
+            "type": "image",
+            "width": 600
+        },
+        {
+            "height": 879,
+            "id": 92603247,
+            "sizes": {
+                "max_1240": "http://m1.behance.net/rendition/modules/92603247/hd/33999e948415c4aa6676f27887726242.jpg",
+                "original": "http://m1.behance.net/rendition/modules/92603247/orig/33999e948415c4aa6676f27887726242.jpg"
+            },
+            "src": "http://m1.behance.net/rendition/modules/92603247/disp/33999e948415c4aa6676f27887726242.jpg",
+            "type": "image",
+            "width": 600
+        },
+        {
+            "height": 384,
+            "id": 92533427,
+            "sizes": {
+                "max_1240": "http://m1.behance.net/rendition/modules/92533427/hd/74eb9cb460b9755a849b63f7f2e4abea.gif",
+                "original": "http://m1.behance.net/rendition/modules/92533427/orig/74eb9cb460b9755a849b63f7f2e4abea.gif"
+            },
+            "src": "http://m1.behance.net/rendition/modules/92533427/disp/74eb9cb460b9755a849b63f7f2e4abea.gif",
+            "type": "image",
+            "width": 600
+        },
+        {
+            "height": 312,
+            "id": 92533429,
+            "sizes": {
+                "max_1240": "http://m1.behance.net/rendition/modules/92533429/hd/13eb8ddcb15dcacb9e04fb69152144e5.gif",
+                "original": "http://m1.behance.net/rendition/modules/92533429/orig/13eb8ddcb15dcacb9e04fb69152144e5.gif"
+            },
+            "src": "http://m1.behance.net/rendition/modules/92533429/disp/13eb8ddcb15dcacb9e04fb69152144e5.gif",
+            "type": "image",
+            "width": 600
+        },
+        {
+            "height": 288,
+            "id": 92603249,
+            "sizes": {
+                "max_1240": "http://m1.behance.net/rendition/modules/92603249/hd/ffe4a07faa80e5b296f8244063fff96a.gif",
+                "original": "http://m1.behance.net/rendition/modules/92603249/orig/ffe4a07faa80e5b296f8244063fff96a.gif"
+            },
+            "src": "http://m1.behance.net/rendition/modules/92603249/disp/ffe4a07faa80e5b296f8244063fff96a.gif",
+            "type": "image",
+            "width": 600
+        },
+        {
+            "height": 217,
+            "id": 92533433,
+            "sizes": {
+                "max_1240": "http://m1.behance.net/rendition/modules/92533433/hd/e55f6de248b6ce0ae97909c1673b4fd5.gif",
+                "original": "http://m1.behance.net/rendition/modules/92533433/orig/e55f6de248b6ce0ae97909c1673b4fd5.gif"
+            },
+            "src": "http://m1.behance.net/rendition/modules/92533433/disp/e55f6de248b6ce0ae97909c1673b4fd5.gif",
+            "type": "image",
+            "width": 600
+        },
+        {
+            "height": 360,
+            "id": 92533435,
+            "sizes": {
+                "max_1240": "http://m1.behance.net/rendition/modules/92533435/hd/9722000f5301b9e19807e652e8447ce6.gif",
+                "original": "http://m1.behance.net/rendition/modules/92533435/orig/9722000f5301b9e19807e652e8447ce6.gif"
+            },
+            "src": "http://m1.behance.net/rendition/modules/92533435/disp/9722000f5301b9e19807e652e8447ce6.gif",
+            "type": "image",
+            "width": 600
+        },
+        {
+            "height": 431,
+            "id": 92613675,
+            "sizes": {
+                "max_1240": "http://m1.behance.net/rendition/modules/92613675/hd/74c4244f0b30a4b2fc260c822ce1a82c.jpg",
+                "original": "http://m1.behance.net/rendition/modules/92613675/orig/74c4244f0b30a4b2fc260c822ce1a82c.jpg"
+            },
+            "src": "http://m1.behance.net/rendition/modules/92613675/disp/74c4244f0b30a4b2fc260c822ce1a82c.jpg",
+            "type": "image",
+            "width": 600
+        },
+        {
+            "id": 92603233,
+            "text": "<div style=\"text-align: center;\">\u00a0</div><div style=\"text-align: center;\"><a href=\"https://glass.eleks.com/\" style=\"color:#01fff4;\" target=\"_blank\"><span style=\"color:#FFFFFF;\">glass.eleks.com</span></a></div>",
+            "text_plain": "\u00a0glass.eleks.com",
+            "type": "text"
+        }
+    ],
+    "name": "ELEKS Google Glass Experiment",
+    "owners": [
+        {
+            "city": "Lviv",
+            "company": "Eleks",
+            "country": "Ukraine",
+            "created_on": 1301583963,
+            "display_name": "Oleg Gasioshyn",
+            "fields": [
+                "Web Design",
+                "UI/UX",
+                "Web Development"
+            ],
+            "first_name": "Oleg",
+            "id": 388547,
+            "images": {
+                "100": "https://mir-cdn.behance.net/v1/rendition/user/100/388547.53adb4b4edc76.jpg",
+                "115": "https://mir-cdn.behance.net/v1/rendition/user/115/388547.53adb4b4edc76.jpg",
+                "138": "https://mir-cdn.behance.net/v1/rendition/user/138/388547.53adb4b4edc76.jpg",
+                "230": "https://mir-cdn.behance.net/v1/rendition/user/230/388547.53adb4b4edc76.jpg",
+                "276": "https://mir-cdn.behance.net/v1/rendition/user/276/388547.53adb4b4edc76.jpg",
+                "50": "https://mir-cdn.behance.net/v1/rendition/user/50/388547.53adb4b4edc76.jpg"
+            },
+            "last_name": "Gasioshyn",
+            "location": "Lviv, Ukraine",
+            "occupation": "Digital Art Director",
+            "state": "",
+            "url": "http://www.behance.net/gasioshyn",
+            "username": "gasioshyn"
+        },
+        {
+            "city": "Lviv",
+            "company": "Eleks",
+            "country": "Ukraine",
+            "created_on": 1312207998,
+            "display_name": "Eleks UX",
+            "fields": [
+                "Web Development",
+                "Web Design",
+                "UI/UX"
+            ],
+            "first_name": "Eleks",
+            "id": 567795,
+            "images": {
+                "100": "https://mir-cdn.behance.net/v1/rendition/user/100/567795.53af27622dd79.jpg",
+                "115": "https://mir-cdn.behance.net/v1/rendition/user/115/567795.53af27622dd79.jpg",
+                "138": "https://mir-cdn.behance.net/v1/rendition/user/138/567795.53af27622dd79.jpg",
+                "230": "https://mir-cdn.behance.net/v1/rendition/user/230/567795.53af27622dd79.jpg",
+                "276": "https://mir-cdn.behance.net/v1/rendition/user/276/567795.53af27622dd79.jpg",
+                "50": "https://mir-cdn.behance.net/v1/rendition/user/50/567795.53af27622dd79.jpg"
+            },
+            "last_name": "UX",
+            "location": "Lviv, Ukraine",
+            "occupation": "User Experience Center of Excellence",
+            "state": "",
+            "url": "http://www.behance.net/eleks-design",
+            "username": "eleks-design"
+        }
+    ],
+    "privacy": "public",
+    "published_on": 1387879370,
+    "short_url": "http://bit.ly/1cuxwqp",
+    "stats": {
+        "appreciations": 1151,
+        "comments": 65,
+        "views": 12768
+    },
+    "styles": {
+        "background": {
+            "color": "030726",
+            "image": {
+                "name": "1a34f4f0688011e22470d32f59f63296.jpg",
+                "position": "top left",
+                "repeat": "no-repeat",
+                "url": "http://m1.behance.net/profiles13/388547/projects/13331447/1a34f4f0688011e22470d32f59f63296.jpg"
+            }
+        },
+        "dividers": {
+            "display": "none"
+        },
+        "spacing": {
+            "modules": {
+                "bottom_margin": 0
+            },
+            "project": {
+                "top_margin": 110
+            }
+        },
+        "text": {
+            "caption": {
+                "color": "#3B3B3B",
+                "display": "block",
+                "font_family": "arial,helvetica,sans-serif",
+                "font_size": "11px",
+                "font_style": "italic",
+                "font_weight": "normal",
+                "line_height": "1.4em",
+                "text_align": "left",
+                "text_decoration": "none"
+            },
+            "link": {
+                "color": "#1769FF",
+                "display": "inline",
+                "font_family": "arial,helvetica,sans-serif",
+                "font_size": "12px",
+                "font_style": "normal",
+                "font_weight": "normal",
+                "line_height": "1.4em",
+                "text_align": "left",
+                "text_decoration": "none"
+            },
+            "paragraph": {
+                "color": "#3B3B3B",
+                "display": "inline",
+                "font_family": "arial,helvetica,sans-serif",
+                "font_size": "12px",
+                "font_style": "normal",
+                "font_weight": "normal",
+                "line_height": "1.4em",
+                "text_align": "left",
+                "text_decoration": "none"
+            },
+            "subtitle": {
+                "color": "#3B3B3B",
+                "display": "inline",
+                "font_family": "arial,helvetica,sans-serif",
+                "font_size": "14px",
+                "font_style": "normal",
+                "font_weight": "normal",
+                "line_height": "1.4em",
+                "text_align": "left",
+                "text_decoration": "none"
+            },
+            "title": {
+                "color": "#3B3B3B",
+                "display": "inline",
+                "font_family": "arial,helvetica,sans-serif",
+                "font_size": "16px",
+                "font_style": "normal",
+                "font_weight": "bold",
+                "line_height": "1.4em",
+                "text_align": "left",
+                "text_decoration": "none"
+            }
+        }
+    },
+    "tags": [
+        "Google glass",
+        "app",
+        "glass",
+        "Eleks Digital Production",
+        "glass app",
+        "android",
+        "Web",
+        "Web Production",
+        "digital",
+        "digital production",
+        "extreme",
+        "video",
+        "Responsive",
+        "sport"
+    ],
+    "url": "http://www.behance.net/gallery/13331447/ELEKS-Google-Glass-Experiment"
+}

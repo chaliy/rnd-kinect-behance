@@ -1,0 +1,346 @@
+{
+    "copyright": {
+        "description": "Attribution-NonCommercial", 
+        "license": "cc by-nc", 
+        "license_id": 3
+    }, 
+    "covers": {
+        "115": "https://mir-cdn.behance.net/v1/rendition/projects/115/20110033.542d67e96ae1f.jpg", 
+        "202": "https://mir-cdn.behance.net/v1/rendition/projects/202/20110033.542d67e96ae1f.jpg", 
+        "230": "https://mir-cdn.behance.net/v1/rendition/projects/230/20110033.542d67e96ae1f.jpg", 
+        "404": "https://mir-cdn.behance.net/v1/rendition/projects/404/20110033.542d67e96ae1f.jpg"
+    }, 
+    "created_on": 1411945281, 
+    "description": "This character was made for one of the most blockbusting Ukrainian publishing houses http://www.starylev.com.ua", 
+    "fields": [
+        "Character Design", 
+        "Creative Direction", 
+        "Illustration"
+    ], 
+    "for_sale": 0, 
+    "id": 20110033, 
+    "mature_access": "allowed", 
+    "mature_content": 0, 
+    "modified_on": 1414394164, 
+    "modules": [
+        {
+            "id": 135496399, 
+            "text": "<div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div><div>\u00a0</div>", 
+            "text_plain": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0", 
+            "type": "text"
+        }, 
+        {
+            "id": 135496401, 
+            "text": "<div style=\"text-align: center;\"><span style=\"font-size:20px;\"><span style=\"font-family:helvetica,arial,sans-serif;\"><span style=\"color:#787878;\">Old Lion\u2019s Publishing House character</span></span></span></div><div style=\"text-align: center;\"><span style=\"font-size:14px;\"><span style=\"font-family:helvetica,arial,sans-serif;\"><span style=\"color:#787878;\">We created one good lion character for one good publishing house of city Lviv. \u00a0</span></span></span></div>", 
+            "text_plain": "Old Lion\u2019s Publishing House characterWe created one good lion character for one good publishing house of city Lviv. \u00a0", 
+            "type": "text"
+        }, 
+        {
+            "id": 135496403, 
+            "text": "<div style=\"text-align: center;\">\u00a0</div><div style=\"text-align: center;\"><span style=\"color:#767676;\"><span style=\"font-size:18px;\">LET US SHOW YOU SOME\u00a0PROCESS</span></span></div><div style=\"text-align: center;\">\u00a0</div>", 
+            "text_plain": "\u00a0LET US SHOW YOU SOME\u00a0PROCESS\u00a0", 
+            "type": "text"
+        }, 
+        {
+            "id": 135496405, 
+            "text": "<div style=\"text-align: center;\"><span style=\"color:#6C6C6C;\"><span style=\"font-size:14px;\">STEP 1 - Sketching the old lion\u00a0character</span></span></div>", 
+            "text_plain": "STEP 1 - Sketching the old lion\u00a0character", 
+            "type": "text"
+        }, 
+        {
+            "height": 470, 
+            "id": 135496429, 
+            "sizes": {
+                "original": "https://m1.behance.net/rendition/modules/135496429/orig/1d13b8060d2ea4bea51ba8cbffbc63ab.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/135496429/disp/1d13b8060d2ea4bea51ba8cbffbc63ab.jpg", 
+            "type": "image", 
+            "width": 599
+        }, 
+        {
+            "id": 135496407, 
+            "text": "<div style=\"text-align: center;\">\u00a0</div><div style=\"text-align: center;\"><span style=\"color:#646464;\"><span style=\"font-size:14px;\">STEP 2 - playing with the\u00a0character in 3d, looking for the right form</span></span></div>", 
+            "text_plain": "\u00a0STEP 2 - playing with the\u00a0character in 3d, looking for the right form", 
+            "type": "text"
+        }, 
+        {
+            "height": 415, 
+            "id": 135496427, 
+            "sizes": {
+                "original": "https://m1.behance.net/rendition/modules/135496427/orig/7941fc0383329424a79001b25c8a6e7a.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/135496427/disp/7941fc0383329424a79001b25c8a6e7a.jpg", 
+            "type": "image", 
+            "width": 599
+        }, 
+        {
+            "id": 135496409, 
+            "text": "<div class=\"main-text\">\u00a0</div><div class=\"main-text\" style=\"text-align: center;\"><span style=\"font-size:14px;\">STEP\u00a03 - texturing, appling hair and fur</span></div>", 
+            "text_plain": "\u00a0STEP\u00a03 - texturing, appling hair and fur", 
+            "type": "text"
+        }, 
+        {
+            "height": 242, 
+            "id": 135496423, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/135496423/hd/48d98d3454dfa636adeb582256676b06.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/135496423/orig/48d98d3454dfa636adeb582256676b06.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/135496423/disp/48d98d3454dfa636adeb582256676b06.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "id": 135496411, 
+            "text": "<div>\u00a0</div><div style=\"text-align: center;\">STEP 5 - sketching the scene and the library</div>", 
+            "text_plain": "\u00a0STEP 5 - sketching the scene and the library", 
+            "type": "text"
+        }, 
+        {
+            "height": 244, 
+            "id": 135496431, 
+            "sizes": {
+                "original": "https://m1.behance.net/rendition/modules/135496431/orig/e5ca31712d93270269dd7d72bd855fe9.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/135496431/disp/e5ca31712d93270269dd7d72bd855fe9.jpg", 
+            "type": "image", 
+            "width": 599
+        }, 
+        {
+            "id": 135496413, 
+            "text": "<div>\u00a0</div><div style=\"text-align: center;\">STEP 6 - modeling the library and constructing the scene</div>", 
+            "text_plain": "\u00a0STEP 6 - modeling the library and constructing the scene", 
+            "type": "text"
+        }, 
+        {
+            "height": 346, 
+            "id": 135496425, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/135496425/hd/2cad8c61f2870ccded7341eb21c42c6e.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/135496425/orig/2cad8c61f2870ccded7341eb21c42c6e.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/135496425/disp/2cad8c61f2870ccded7341eb21c42c6e.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "id": 135496419, 
+            "text": "<div>\u00a0</div><div style=\"text-align: center;\">STEP 7 - rendering and retouching</div>", 
+            "text_plain": "\u00a0STEP 7 - rendering and retouching", 
+            "type": "text"
+        }, 
+        {
+            "height": 1390, 
+            "id": 135496433, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/135496433/hd/e2cb5cd28ce11502dfbcbf3f119c185a.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/135496433/orig/e2cb5cd28ce11502dfbcbf3f119c185a.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/135496433/disp/e2cb5cd28ce11502dfbcbf3f119c185a.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 1075, 
+            "id": 135496435, 
+            "sizes": {
+                "original": "https://m1.behance.net/rendition/modules/135496435/orig/1f6ab85052e2c2f4397db60d8b1b30d7.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/135496435/disp/1f6ab85052e2c2f4397db60d8b1b30d7.jpg", 
+            "type": "image", 
+            "width": 599
+        }, 
+        {
+            "height": 901, 
+            "id": 135496437, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/135496437/hd/90396d1ae90e5ccb52039112be3ce148.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/135496437/orig/90396d1ae90e5ccb52039112be3ce148.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/135496437/disp/90396d1ae90e5ccb52039112be3ce148.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "id": 135496421, 
+            "text": "<div>\u00a0</div><div>\u00a0</div><div style=\"text-align: center;\">STEP 8 - Lettering design</div><div style=\"text-align: center;\">Performed by wonderful artist\u00a0<a href=\"https://www.behance.net/zuk13\" style=\"color:#6B83AE;\" target=\"_blank\"><span style=\"font-size:16px;\">Zukentiy Gorobiyov</span></a></div><div style=\"text-align: center;\">\u00a0</div>", 
+            "text_plain": "\u00a0\u00a0STEP 8 - Lettering designPerformed by wonderful artist\u00a0Zukentiy Gorobiyov\u00a0", 
+            "type": "text"
+        }, 
+        {
+            "height": 750, 
+            "id": 135496439, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/135496439/hd/da2b181b29ceb1e4f239e6b6f9fa9eb7.png", 
+                "original": "https://m1.behance.net/rendition/modules/135496439/orig/da2b181b29ceb1e4f239e6b6f9fa9eb7.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/135496439/disp/da2b181b29ceb1e4f239e6b6f9fa9eb7.png", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "id": 135496417, 
+            "text": "<div style=\"text-align: center;\">\u00a0</div><div style=\"text-align: center;\"><span style=\"font-size:21px;\">WUALA</span></div>", 
+            "text_plain": "\u00a0WUALA", 
+            "type": "text"
+        }, 
+        {
+            "height": 850, 
+            "id": 135496441, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/135496441/hd/956a82b76809e7a7ffffdd18c8701307.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/135496441/orig/956a82b76809e7a7ffffdd18c8701307.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/135496441/disp/956a82b76809e7a7ffffdd18c8701307.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 171, 
+            "id": 135496443, 
+            "sizes": {
+                "original": "https://m1.behance.net/rendition/modules/135496443/orig/c76a3221ba0b90147b15f26033374dd1.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/135496443/disp/c76a3221ba0b90147b15f26033374dd1.png", 
+            "type": "image", 
+            "width": 353
+        }, 
+        {
+            "id": 135496415, 
+            "text": "<div style=\"text-align: center;\"><a href=\"http://www.facebook.com/moonhauzen\" style=\"color:#6C6C6C;\" target=\"_blank\"><span style=\"font-size:16px;\">FACEBOOK.COM/MOONHAUZEN</span></a></div>", 
+            "text_plain": "FACEBOOK.COM/MOONHAUZEN", 
+            "type": "text"
+        }
+    ], 
+    "name": "Old Lion Publisher", 
+    "owners": [
+        {
+            "city": "Lviv", 
+            "company": "MOONHAUZEN Creative Production Studio", 
+            "country": "Ukraine", 
+            "created_on": 1383052741, 
+            "display_name": "MOON HAUZEN", 
+            "fields": [
+                "Illustration", 
+                "Character Design", 
+                "Digital Art"
+            ], 
+            "first_name": "MOON", 
+            "id": 3961051, 
+            "images": {
+                "100": "https://mir-cdn.behance.net/v1/rendition/user/100/3961051.540fa294d7a50.jpg", 
+                "115": "https://mir-cdn.behance.net/v1/rendition/user/115/3961051.540fa294d7a50.jpg", 
+                "138": "https://mir-cdn.behance.net/v1/rendition/user/138/3961051.540fa294d7a50.jpg", 
+                "230": "https://mir-cdn.behance.net/v1/rendition/user/230/3961051.540fa294d7a50.jpg", 
+                "276": "https://mir-cdn.behance.net/v1/rendition/user/276/3961051.540fa294d7a50.jpg", 
+                "50": "https://mir-cdn.behance.net/v1/rendition/user/50/3961051.540fa294d7a50.jpg"
+            }, 
+            "last_name": "HAUZEN", 
+            "location": "Lviv, Ukraine", 
+            "occupation": "", 
+            "state": "", 
+            "url": "http://www.behance.net/MoonHauzen", 
+            "username": "MoonHauzen"
+        }
+    ], 
+    "privacy": "public", 
+    "published_on": 1411977696, 
+    "short_url": "http://bit.ly/1rx6RzE", 
+    "stats": {
+        "appreciations": 72, 
+        "comments": 5, 
+        "views": 537
+    }, 
+    "styles": {
+        "background": {
+            "color": "1D1D1D", 
+            "image": {
+                "name": "3b1300ec6337040ef9173ba48442800b.jpg", 
+                "position": "top left", 
+                "repeat": "no-repeat", 
+                "url": "https://m1.behance.net/profiles24/3961051/projects/20110033/3b1300ec6337040ef9173ba48442800b.jpg"
+            }
+        }, 
+        "dividers": {
+            "display": "none"
+        }, 
+        "spacing": {
+            "modules": {
+                "bottom_margin": 20
+            }, 
+            "project": {
+                "top_margin": 50
+            }
+        }, 
+        "text": {
+            "caption": {
+                "color": "#3B3B3B", 
+                "display": "block", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "11px", 
+                "font_style": "italic", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "link": {
+                "color": "#1769FF", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "paragraph": {
+                "color": "#6C6C6C", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "14px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "subtitle": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "14px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "title": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "16px", 
+                "font_style": "normal", 
+                "font_weight": "bold", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }
+        }
+    }, 
+    "tags": [
+        "3D animal", 
+        "3d lion", 
+        "lion", 
+        "OLD LION", 
+        "Fur", 
+        "library", 
+        "old books", 
+        "publishing  ", 
+        "books", 
+        "gentleman"
+    ], 
+    "url": "http://www.behance.net/gallery/20110033/Old-Lion-Publisher"
+}

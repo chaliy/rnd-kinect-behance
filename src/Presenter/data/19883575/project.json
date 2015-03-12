@@ -1,0 +1,178 @@
+{
+    "copyright": {
+        "description": "Attribution-NonCommercial", 
+        "license": "cc by-nc", 
+        "license_id": 3
+    }, 
+    "covers": {
+        "115": "https://mir-cdn.behance.net/v1/rendition/projects/115/19883575.541bddeb52edb.jpg", 
+        "202": "https://mir-cdn.behance.net/v1/rendition/projects/202/19883575.541bddeb52edb.jpg", 
+        "230": "https://mir-cdn.behance.net/v1/rendition/projects/230/19883575.541bddeb52edb.jpg", 
+        "404": "https://mir-cdn.behance.net/v1/rendition/projects/404/19883575.541bddeb52edb.jpg"
+    }, 
+    "created_on": 1411109109, 
+    "description": "Main character for cartoon. ", 
+    "fields": [
+        "Animation", 
+        "Cartooning", 
+        "Digital Art"
+    ], 
+    "for_sale": 0, 
+    "id": 19883575, 
+    "mature_access": "allowed", 
+    "mature_content": 0, 
+    "modified_on": 1411112792, 
+    "modules": [
+        {
+            "height": 600, 
+            "id": 134103657, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/134103657/hd/6cb9285d23d42eaad6a36ba64c8f67ae.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/134103657/orig/6cb9285d23d42eaad6a36ba64c8f67ae.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/134103657/disp/6cb9285d23d42eaad6a36ba64c8f67ae.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 600, 
+            "id": 134103655, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/134103655/hd/225f1d045cd97a4c0765abfe63420240.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/134103655/orig/225f1d045cd97a4c0765abfe63420240.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/134103655/disp/225f1d045cd97a4c0765abfe63420240.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 600, 
+            "id": 134103541, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/134103541/hd/b6a7b4db8b00aa8e97ca223b58a6fbb6.gif", 
+                "original": "https://m1.behance.net/rendition/modules/134103541/orig/b6a7b4db8b00aa8e97ca223b58a6fbb6.gif"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/134103541/disp/b6a7b4db8b00aa8e97ca223b58a6fbb6.gif", 
+            "type": "image", 
+            "width": 600
+        }
+    ], 
+    "name": "Froggy", 
+    "owners": [
+        {
+            "city": "Lviv", 
+            "company": "", 
+            "country": "Ukraine", 
+            "created_on": 1365082557, 
+            "display_name": "Vasil Matsuk", 
+            "fields": [
+                "Animation", 
+                "Cartooning", 
+                "Digital Art"
+            ], 
+            "first_name": "Vasil", 
+            "id": 2480683, 
+            "images": {
+                "100": "https://mir-cdn.behance.net/v1/rendition/user/100/2480683.53b9533ad135b.png", 
+                "115": "https://mir-cdn.behance.net/v1/rendition/user/115/2480683.53b9533ad135b.png", 
+                "138": "https://mir-cdn.behance.net/v1/rendition/user/138/2480683.53b9533ad135b.png", 
+                "230": "https://mir-cdn.behance.net/v1/rendition/user/230/2480683.53b9533ad135b.png", 
+                "276": "https://mir-cdn.behance.net/v1/rendition/user/276/2480683.53b9533ad135b.png", 
+                "50": "https://mir-cdn.behance.net/v1/rendition/user/50/2480683.53b9533ad135b.png"
+            }, 
+            "last_name": "Matsuk", 
+            "location": "Lviv, Ukraine", 
+            "occupation": "", 
+            "state": "", 
+            "url": "http://www.behance.net/Feral_Man", 
+            "username": "Feral_Man"
+        }
+    ], 
+    "privacy": "public", 
+    "published_on": 1411112693, 
+    "short_url": "http://bit.ly/ZtkTHZ", 
+    "stats": {
+        "appreciations": 35, 
+        "comments": 3, 
+        "views": 310
+    }, 
+    "styles": {
+        "background": {
+            "color": "FFFFFF"
+        }, 
+        "dividers": {
+            "display": "none"
+        }, 
+        "spacing": {
+            "modules": {
+                "bottom_margin": 0
+            }, 
+            "project": {
+                "top_margin": 50
+            }
+        }, 
+        "text": {
+            "caption": {
+                "color": "#3B3B3B", 
+                "display": "block", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "11px", 
+                "font_style": "italic", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "link": {
+                "color": "#1769FF", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "paragraph": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "subtitle": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "14px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "title": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "16px", 
+                "font_style": "normal", 
+                "font_weight": "bold", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }
+        }
+    }, 
+    "tags": [
+        "Character", 
+        "3D", 
+        "cartoon"
+    ], 
+    "url": "http://www.behance.net/gallery/19883575/Froggy"
+}

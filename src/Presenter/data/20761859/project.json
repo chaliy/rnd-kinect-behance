@@ -1,0 +1,294 @@
+{
+    "copyright": {
+        "description": "Attribution-NonCommercial", 
+        "license": "cc by-nc", 
+        "license_id": 3
+    }, 
+    "covers": {
+        "115": "https://mir-cdn.behance.net/v1/rendition/projects/115/20761859.544e2f73c2950.jpg", 
+        "202": "https://mir-cdn.behance.net/v1/rendition/projects/202/20761859.544e2f73c2950.jpg", 
+        "230": "https://mir-cdn.behance.net/v1/rendition/projects/230/20761859.544e2f73c2950.jpg", 
+        "404": "https://mir-cdn.behance.net/v1/rendition/projects/404/20761859.544e2f73c2950.jpg"
+    }, 
+    "created_on": 1414151422, 
+    "description": "Dragon\u2019s Fall - is a new role-playing game for mobile devices, developed by Ukrainian company Nravo. ", 
+    "fields": [
+        "Character Design", 
+        "Game Design", 
+        "Graphic Design"
+    ], 
+    "for_sale": 0, 
+    "id": 20761859, 
+    "mature_access": "allowed", 
+    "mature_content": 0, 
+    "modified_on": 1414577801, 
+    "modules": [
+        {
+            "height": 12952, 
+            "id": 140070111, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/140070111/hd/621cadeff4e853e3435e83d4f569f380.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/140070111/orig/621cadeff4e853e3435e83d4f569f380.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/140070111/disp/621cadeff4e853e3435e83d4f569f380.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "id": 139840709, 
+            "text": "<div style=\"text-align: center;\"><a href=\"http://www.dragonsfallgame.com/\" style=\"color:#69B19F;\" target=\"_blank\"><span style=\"font-size:15px;\">www.dragonsfallgame.com</span></a></div>", 
+            "text_plain": "www.dragonsfallgame.com", 
+            "type": "text"
+        }, 
+        {
+            "id": 139840079, 
+            "text": "<div style=\"text-align: center;\">\u00a0</div><div style=\"text-align: center;\">\u00a0</div><div style=\"text-align: center;\"><span style=\"font-size:12px;\"><span style=\"color:#FFFFFF;\">PM: Rostyslav Kaminskyy\u00a0</span></span></div><div style=\"text-align: center;\"><span style=\"font-size:12px;\"><span style=\"color:#FFFFFF;\">Game Design: Pavlo Pivtoranis, Dmytro Galko</span></span></div><div style=\"text-align: center;\"><span style=\"font-size:12px;\"><span style=\"color:#FFFFFF;\">Concept Art: Mihai Tymoshenko, Vitaliy Sheptytskyy, Anna Zablotska\u00a0</span></span></div><div style=\"text-align: center;\"><span style=\"font-size:12px;\"><span style=\"color:#FFFFFF;\">Textures: Vitaliy Sheptytskyy, Anna Zablotska, Andriy Ivanusa</span></span></div><div style=\"text-align: center;\"><span style=\"font-size:12px;\"><span style=\"color:#FFFFFF;\">Animation&amp;Modeling: Vitaliy Sheptytskyy, Dmytro Doskotch</span></span></div><div style=\"text-align: center;\"><span style=\"font-size:12px;\"><span style=\"color:#FFFFFF;\">Technical Design: Dmytro Doskotch</span></span></div><div style=\"text-align: center;\"><span style=\"font-size:12px;\"><span style=\"color:#FFFFFF;\">UI&amp;Design: Andriy Ivanusa, Andriy Vyshkovskyy</span></span></div><div style=\"text-align: center;\"><span style=\"font-size:12px;\"><span style=\"color:#FFFFFF;\">Texts: Oleksandra Kaminska, Oleksandr Mamzurenko\u00a0</span></span></div><div style=\"text-align: center;\"><span style=\"font-size:12px;\"><span style=\"color:#FFFFFF;\">Programming: Serhiy Grynets, Vitaliy Zasadnyy, Yuriy Lavryk, Volodymyr Stashchenko, Volodymyr Hnativ</span></span></div><div style=\"text-align: center;\"><span style=\"font-size:12px;\"><span style=\"color:#FFFFFF;\">Marketing: Tina Luchyn</span></span></div>", 
+            "text_plain": "\u00a0\u00a0PM: Rostyslav Kaminskyy\u00a0Game Design: Pavlo Pivtoranis, Dmytro GalkoConcept Art: Mihai Tymoshenko, Vitaliy Sheptytskyy, Anna Zablotska\u00a0Textures: Vitaliy Sheptytskyy, Anna Zablotska, Andriy IvanusaAnimation&amp;Modeling: Vitaliy Sheptytskyy, Dmytro DoskotchTechnical Design: Dmytro DoskotchUI&amp;Design: Andriy Ivanusa, Andriy VyshkovskyyTexts: Oleksandra Kaminska, Oleksandr Mamzurenko\u00a0Programming: Serhiy Grynets, Vitaliy Zasadnyy, Yuriy Lavryk, Volodymyr Stashchenko, Volodymyr HnativMarketing: Tina Luchyn", 
+            "type": "text"
+        }
+    ], 
+    "name": "Dragon's Fall Game", 
+    "owners": [
+        {
+            "city": "Lviv", 
+            "company": "", 
+            "country": "Ukraine", 
+            "created_on": 1342182681, 
+            "display_name": "\u0410\u043d\u0434\u0440\u0456\u0439 \u0412\u0438\u0448\u043a\u043e\u0432\u0441\u044c\u043a\u0438\u0439", 
+            "fields": [
+                "Web Design", 
+                "Icon Design", 
+                "Illustration"
+            ], 
+            "first_name": "\u0410\u043d\u0434\u0440\u0456\u0439", 
+            "id": 1339729, 
+            "images": {
+                "100": "https://mir-cdn.behance.net/v1/rendition/user/100/1339729.53c2c5e0da380.jpg", 
+                "115": "https://mir-cdn.behance.net/v1/rendition/user/115/1339729.53c2c5e0da380.jpg", 
+                "138": "https://mir-cdn.behance.net/v1/rendition/user/138/1339729.53c2c5e0da380.jpg", 
+                "230": "https://mir-cdn.behance.net/v1/rendition/user/230/1339729.53c2c5e0da380.jpg", 
+                "276": "https://mir-cdn.behance.net/v1/rendition/user/276/1339729.53c2c5e0da380.jpg", 
+                "50": "https://mir-cdn.behance.net/v1/rendition/user/50/1339729.53c2c5e0da380.jpg"
+            }, 
+            "last_name": "\u0412\u0438\u0448\u043a\u043e\u0432\u0441\u044c\u043a\u0438\u0439", 
+            "location": "Lviv, Ukraine", 
+            "occupation": "Designer", 
+            "state": "", 
+            "url": "http://www.behance.net/odneoko", 
+            "username": "odneoko"
+        }, 
+        {
+            "city": "Lviv", 
+            "company": "", 
+            "country": "Ukraine", 
+            "created_on": 1300798872, 
+            "display_name": "Andriy Ivanusa", 
+            "fields": [
+                "Graphic Design", 
+                "UI/UX", 
+                "Illustration"
+            ], 
+            "first_name": "Andriy", 
+            "id": 374761, 
+            "images": {
+                "115": "https://mir-cdn.behance.net/v1/rendition/user/115/374761.53ad98e6d0ead.png", 
+                "138": "https://mir-cdn.behance.net/v1/rendition/user/138/374761.53ad98e6d0ead.png", 
+                "50": "https://mir-cdn.behance.net/v1/rendition/user/50/374761.53ad98e6d0ead.png"
+            }, 
+            "last_name": "Ivanusa", 
+            "location": "Lviv, Ukraine", 
+            "occupation": "Designer, illustrator", 
+            "state": "", 
+            "url": "http://www.behance.net/justevik1d41", 
+            "username": "justevik1d41"
+        }, 
+        {
+            "city": "Lviv", 
+            "company": "", 
+            "country": "Ukraine", 
+            "created_on": 1322755483, 
+            "display_name": "Dmytro Doskoch", 
+            "fields": [
+                "Motion Graphics", 
+                "Cartooning", 
+                "Character Design"
+            ], 
+            "first_name": "Dmytro", 
+            "id": 781587, 
+            "images": {
+                "100": "https://mir-cdn.behance.net/v1/rendition/user/100/781587.53b0aa9cc640e.jpg", 
+                "115": "https://mir-cdn.behance.net/v1/rendition/user/115/781587.53b0aa9cc640e.jpg", 
+                "138": "https://mir-cdn.behance.net/v1/rendition/user/138/781587.53b0aa9cc640e.jpg", 
+                "230": "https://mir-cdn.behance.net/v1/rendition/user/230/781587.53b0aa9cc640e.jpg", 
+                "276": "https://mir-cdn.behance.net/v1/rendition/user/276/781587.53b0aa9cc640e.jpg", 
+                "50": "https://mir-cdn.behance.net/v1/rendition/user/50/781587.53b0aa9cc640e.jpg"
+            }, 
+            "last_name": "Doskoch", 
+            "location": "Lviv, Ukraine", 
+            "occupation": "3D Artist", 
+            "state": "", 
+            "url": "http://www.behance.net/doskoch", 
+            "username": "doskoch"
+        }, 
+        {
+            "city": "Lviv", 
+            "company": "", 
+            "country": "Ukraine", 
+            "created_on": 1386621381, 
+            "display_name": "anna zablotska", 
+            "fields": [
+                "Digital Art", 
+                "Character Design", 
+                "Illustration"
+            ], 
+            "first_name": "anna", 
+            "id": 4392593, 
+            "images": {
+                "100": "https://mir-cdn.behance.net/v1/rendition/user/100/4392593.53f4f0f15c519.jpg", 
+                "115": "https://mir-cdn.behance.net/v1/rendition/user/115/4392593.53f4f0f15c519.jpg", 
+                "138": "https://mir-cdn.behance.net/v1/rendition/user/138/4392593.53f4f0f15c519.jpg", 
+                "230": "https://mir-cdn.behance.net/v1/rendition/user/230/4392593.53f4f0f15c519.jpg", 
+                "276": "https://mir-cdn.behance.net/v1/rendition/user/276/4392593.53f4f0f15c519.jpg", 
+                "50": "https://mir-cdn.behance.net/v1/rendition/user/50/4392593.53f4f0f15c519.jpg"
+            }, 
+            "last_name": "zablotska", 
+            "location": "Lviv, Ukraine", 
+            "occupation": "", 
+            "state": "", 
+            "url": "http://www.behance.net/AnnaMaltseva", 
+            "username": "AnnaMaltseva"
+        }, 
+        {
+            "city": "Sibiu", 
+            "company": "", 
+            "country": "Romania", 
+            "created_on": 1407921758, 
+            "display_name": "Mihai Tymoshenko", 
+            "fields": [
+                "Cartooning", 
+                "Illustration", 
+                "Drawing"
+            ], 
+            "first_name": "Mihai", 
+            "id": 7448617, 
+            "images": {
+                "100": "https://mir-cdn.behance.net/v1/rendition/user/100/7448617.53eb317287f63.jpg", 
+                "115": "https://mir-cdn.behance.net/v1/rendition/user/115/7448617.53eb317287f63.jpg", 
+                "138": "https://mir-cdn.behance.net/v1/rendition/user/138/7448617.53eb317287f63.jpg", 
+                "230": "https://mir-cdn.behance.net/v1/rendition/user/230/7448617.53eb317287f63.jpg", 
+                "276": "https://mir-cdn.behance.net/v1/rendition/user/276/7448617.53eb317287f63.jpg", 
+                "50": "https://mir-cdn.behance.net/v1/rendition/user/50/7448617.53eb317287f63.jpg"
+            }, 
+            "last_name": "Tymoshenko", 
+            "location": "Sibiu, Romania", 
+            "occupation": "Concept Art, Illustration, Digital Art", 
+            "state": "", 
+            "url": "http://www.behance.net/M-Tymoshenko", 
+            "username": "M-Tymoshenko"
+        }
+    ], 
+    "privacy": "public", 
+    "published_on": 1414151960, 
+    "short_url": "http://bit.ly/1uPa4YQ", 
+    "stats": {
+        "appreciations": 54, 
+        "comments": 2, 
+        "views": 372
+    }, 
+    "styles": {
+        "background": {
+            "color": "082127", 
+            "image": {
+                "name": "04270cfeb0c8620a5c704a2c8c7dad69.jpg", 
+                "position": "top left", 
+                "repeat": "no-repeat", 
+                "url": "https://m1.behance.net/profiles7/1339729/projects/20761859/04270cfeb0c8620a5c704a2c8c7dad69.jpg"
+            }
+        }, 
+        "dividers": {
+            "display": "none"
+        }, 
+        "spacing": {
+            "modules": {
+                "bottom_margin": 65
+            }, 
+            "project": {
+                "top_margin": 0
+            }
+        }, 
+        "text": {
+            "caption": {
+                "color": "#3B3B3B", 
+                "display": "block", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "11px", 
+                "font_style": "italic", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "link": {
+                "color": "#1769FF", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "paragraph": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "subtitle": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "14px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "title": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "16px", 
+                "font_style": "normal", 
+                "font_weight": "bold", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }
+        }
+    }, 
+    "tags": [
+        "game", 
+        "mmo", 
+        "user interface", 
+        "dragon's fall", 
+        "Gaming", 
+        "dwarf", 
+        "design ", 
+        "mobile", 
+        "android", 
+        "ios", 
+        "dragon", 
+        "fight", 
+        "application", 
+        "3D"
+    ], 
+    "url": "http://www.behance.net/gallery/20761859/Dragons-Fall-Game"
+}

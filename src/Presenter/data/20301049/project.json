@@ -1,0 +1,263 @@
+{
+    "copyright": {
+        "description": "Attribution-NonCommercial", 
+        "license": "cc by-nc", 
+        "license_id": 3
+    }, 
+    "covers": {
+        "115": "https://mir-cdn.behance.net/v1/rendition/projects/115/20301049.54338dda7944a.jpg", 
+        "202": "https://mir-cdn.behance.net/v1/rendition/projects/202/20301049.54338dda7944a.jpg", 
+        "230": "https://mir-cdn.behance.net/v1/rendition/projects/230/20301049.54338dda7944a.jpg", 
+        "404": "https://mir-cdn.behance.net/v1/rendition/projects/404/20301049.54338dda7944a.jpg"
+    }, 
+    "created_on": 1412620841, 
+    "description": "Corporate identity for the exclusive printing shops \"Fish manufactory\"", 
+    "fields": [
+        "Branding", 
+        "Graphic Design", 
+        "Packaging"
+    ], 
+    "for_sale": 0, 
+    "id": 20301049, 
+    "mature_access": "allowed", 
+    "mature_content": 0, 
+    "modified_on": 1414147041, 
+    "modules": [
+        {
+            "height": 223, 
+            "id": 136673081, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/136673081/hd/934ba576710d84d3bdf5497e5444fb6d.png", 
+                "original": "https://m1.behance.net/rendition/modules/136673081/orig/934ba576710d84d3bdf5497e5444fb6d.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/136673081/disp/934ba576710d84d3bdf5497e5444fb6d.png", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 412, 
+            "id": 136673847, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/136673847/hd/8964c5cafb9ea9d7fc0b349ad341e4e0.jpg", 
+                "max_1920": "https://m1.behance.net/rendition/modules/136673847/fs/8964c5cafb9ea9d7fc0b349ad341e4e0.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/136673847/orig/8964c5cafb9ea9d7fc0b349ad341e4e0.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/136673847/disp/8964c5cafb9ea9d7fc0b349ad341e4e0.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 549, 
+            "id": 136673073, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/136673073/hd/f67ca250ff7e712b0fbfa8e53c56985f.jpg", 
+                "max_1920": "https://m1.behance.net/rendition/modules/136673073/fs/f67ca250ff7e712b0fbfa8e53c56985f.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/136673073/orig/f67ca250ff7e712b0fbfa8e53c56985f.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/136673073/disp/f67ca250ff7e712b0fbfa8e53c56985f.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 339, 
+            "id": 136673075, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/136673075/hd/71ab51ebed52a72096dd7c0de5750042.jpg", 
+                "max_1920": "https://m1.behance.net/rendition/modules/136673075/fs/71ab51ebed52a72096dd7c0de5750042.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/136673075/orig/71ab51ebed52a72096dd7c0de5750042.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/136673075/disp/71ab51ebed52a72096dd7c0de5750042.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 486, 
+            "id": 136673849, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/136673849/hd/1e9dee1b109d37b137df6345f3c27fce.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/136673849/orig/1e9dee1b109d37b137df6345f3c27fce.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/136673849/disp/1e9dee1b109d37b137df6345f3c27fce.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 353, 
+            "id": 138071035, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/138071035/hd/1841c958781b16b346b814740773b8c7.jpg", 
+                "max_1920": "https://m1.behance.net/rendition/modules/138071035/fs/1841c958781b16b346b814740773b8c7.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/138071035/orig/1841c958781b16b346b814740773b8c7.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/138071035/disp/1841c958781b16b346b814740773b8c7.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 747, 
+            "id": 136673077, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/136673077/hd/c9aeade9511151d2fa4ce8b8afb7faad.jpg", 
+                "original": "https://m1.behance.net/rendition/modules/136673077/orig/c9aeade9511151d2fa4ce8b8afb7faad.jpg"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/136673077/disp/c9aeade9511151d2fa4ce8b8afb7faad.jpg", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "height": 127, 
+            "id": 136673083, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/136673083/hd/e21e14d266e90683a826e4c293ebb494.png", 
+                "original": "https://m1.behance.net/rendition/modules/136673083/orig/e21e14d266e90683a826e4c293ebb494.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/136673083/disp/e21e14d266e90683a826e4c293ebb494.png", 
+            "type": "image", 
+            "width": 600
+        }, 
+        {
+            "id": 136674999, 
+            "text": "<div><span style=\"color:#3B2916;\"><span style=\"font-family:bookman old style,bookman old;\">Client:\u00a0manufactory \"Fish\u00a0manufactory\"<br>Art director, designer\u00a0:\u00a0Olena Fedorova<br>DTP: Maksym Finko</span></span></div><div>\u00a0</div><div>\u00a0</div><div><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"color:#5C361E;\"><span style=\"font-size:18px;\">You can <a href=\"http://graphicriver.net/item/vintage-branding-mockup/9118051\" style=\"color:#FF1616;\" target=\"_blank\"><span class=\"bold\">DOWNLOAD</span></a> this\u00a0Photorealistic\u00a0Branding Mock-Up </span></span></span></div><div><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"color:#5C361E;\"><span style=\"font-size:18px;\">with beautiful vintage effects :)\u00a0</span></span></span></div>", 
+            "text_plain": "Client:\u00a0manufactory \"Fish\u00a0manufactory\"Art director, designer\u00a0:\u00a0Olena FedorovaDTP: Maksym Finko\u00a0\u00a0You can DOWNLOAD this\u00a0Photorealistic\u00a0Branding Mock-Up with beautiful vintage effects :)\u00a0", 
+            "type": "text"
+        }
+    ], 
+    "name": "Branding for \" Fish manufactory \"", 
+    "owners": [
+        {
+            "city": "Lviv", 
+            "company": "", 
+            "country": "Ukraine", 
+            "created_on": 1302172472, 
+            "display_name": "Olena Fedorova", 
+            "fields": [
+                "Branding", 
+                "Illustration", 
+                "Graphic Design"
+            ], 
+            "first_name": "Olena", 
+            "id": 398539, 
+            "images": {
+                "100": "https://mir-cdn.behance.net/v1/rendition/user/100/398539.53adc92c5d5af.jpg", 
+                "115": "https://mir-cdn.behance.net/v1/rendition/user/115/398539.53adc92c5d5af.jpg", 
+                "138": "https://mir-cdn.behance.net/v1/rendition/user/138/398539.53adc92c5d5af.jpg", 
+                "230": "https://mir-cdn.behance.net/v1/rendition/user/230/398539.53adc92c5d5af.jpg", 
+                "276": "https://mir-cdn.behance.net/v1/rendition/user/276/398539.53adc92c5d5af.jpg", 
+                "50": "https://mir-cdn.behance.net/v1/rendition/user/50/398539.53adc92c5d5af.jpg"
+            }, 
+            "last_name": "Fedorova", 
+            "location": "Lviv, Ukraine", 
+            "occupation": "", 
+            "state": "", 
+            "url": "http://www.behance.net/olenafedorova", 
+            "username": "olenafedorova"
+        }
+    ], 
+    "privacy": "public", 
+    "published_on": 1412621209, 
+    "short_url": "http://bit.ly/1tseswe", 
+    "stats": {
+        "appreciations": 138, 
+        "comments": 11, 
+        "views": 1235
+    }, 
+    "styles": {
+        "background": {
+            "color": "F2D3B3"
+        }, 
+        "dividers": {
+            "border_color": "#CA8B8B", 
+            "border_style": "dotted", 
+            "border_width": "1px 0px 0px 0px", 
+            "font_size": "1px", 
+            "height": "1px", 
+            "line_height": "1px", 
+            "margin": "-1px auto 0", 
+            "position": "relative", 
+            "top": "50%"
+        }, 
+        "spacing": {
+            "modules": {
+                "bottom_margin": 21
+            }, 
+            "project": {
+                "top_margin": 0
+            }
+        }, 
+        "text": {
+            "caption": {
+                "color": "#3B3B3B", 
+                "display": "block", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "11px", 
+                "font_style": "italic", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "link": {
+                "color": "#1769FF", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "paragraph": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "subtitle": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "14px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "title": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "16px", 
+                "font_style": "normal", 
+                "font_weight": "bold", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }
+        }
+    }, 
+    "tags": [
+        "vintage", 
+        "Retro", 
+        "ukraine", 
+        "Lviv", 
+        "pattern", 
+        "Kraft", 
+        "manufactory", 
+        "Workshop", 
+        "fish", 
+        "logo", 
+        "old", 
+        "the best", 
+        "Hipster", 
+        "STEAMPUNK", 
+        "Branding Identyty"
+    ], 
+    "url": "http://www.behance.net/gallery/20301049/Branding-for-Fish-manufactory-"
+}

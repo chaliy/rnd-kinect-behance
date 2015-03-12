@@ -1,0 +1,182 @@
+{
+    "copyright": {
+        "description": "Attribution-NonCommercial", 
+        "license": "cc by-nc", 
+        "license_id": 3
+    }, 
+    "covers": {
+        "115": "https://m1.behance.net/rendition/projects/18416995/115/f7d885cf3a4119b80d417bbfd86f8ffe.jpeg", 
+        "202": "https://m1.behance.net/rendition/projects/18416995/orig/f7d885cf3a4119b80d417bbfd86f8ffe.jpeg", 
+        "230": "https://m1.behance.net/rendition/projects/18416995/230/f7d885cf3a4119b80d417bbfd86f8ffe.jpeg", 
+        "404": "https://m1.behance.net/rendition/projects/18416995/404/f7d885cf3a4119b80d417bbfd86f8ffe.jpeg"
+    }, 
+    "created_on": 1405587597, 
+    "description": "In this project we tried to combine construction site theme and typography. ", 
+    "features": [
+        {
+            "featured_on": 1414297802, 
+            "site": {
+                "domain": "typographyserved.com", 
+                "icon": "https://a2.behance.net/img/galleries/composed/typography.png", 
+                "id": 3, 
+                "key": "typography", 
+                "name": "Typography Served", 
+                "ribbon": {
+                    "image": "https://a2.behance.net/img/galleries/ribbons/1x/typography.png", 
+                    "image_2x": "https://a2.behance.net/img/galleries/ribbons/2x/typography@2x.png"
+                }, 
+                "url": "http://typographyserved.com"
+            }, 
+            "url": "http://typographyserved.com/gallery/18416995/Build-Up-Typography"
+        }
+    ], 
+    "fields": [
+        "Advertising", 
+        "Illustration", 
+        "Typography"
+    ], 
+    "for_sale": 0, 
+    "id": 18416995, 
+    "mature_access": "allowed", 
+    "mature_content": 0, 
+    "modified_on": 1414297802, 
+    "modules": [
+        {
+            "height": 5635, 
+            "id": 125614065, 
+            "sizes": {
+                "max_1240": "https://m1.behance.net/rendition/modules/125614065/hd/e3e255932a5690268d645943f75e4711.png", 
+                "original": "https://m1.behance.net/rendition/modules/125614065/orig/e3e255932a5690268d645943f75e4711.png"
+            }, 
+            "src": "https://m1.behance.net/rendition/modules/125614065/disp/e3e255932a5690268d645943f75e4711.png", 
+            "type": "image", 
+            "width": 600
+        }
+    ], 
+    "name": "Build Up Typography", 
+    "owners": [
+        {
+            "city": "Lviv", 
+            "company": "MOONHAUZEN Creative Production Studio", 
+            "country": "Ukraine", 
+            "created_on": 1383052741, 
+            "display_name": "MOON HAUZEN", 
+            "fields": [
+                "Illustration", 
+                "Character Design", 
+                "Digital Art"
+            ], 
+            "first_name": "MOON", 
+            "id": 3961051, 
+            "images": {
+                "100": "https://mir-cdn.behance.net/v1/rendition/user/100/3961051.540fa294d7a50.jpg", 
+                "115": "https://mir-cdn.behance.net/v1/rendition/user/115/3961051.540fa294d7a50.jpg", 
+                "138": "https://mir-cdn.behance.net/v1/rendition/user/138/3961051.540fa294d7a50.jpg", 
+                "230": "https://mir-cdn.behance.net/v1/rendition/user/230/3961051.540fa294d7a50.jpg", 
+                "276": "https://mir-cdn.behance.net/v1/rendition/user/276/3961051.540fa294d7a50.jpg", 
+                "50": "https://mir-cdn.behance.net/v1/rendition/user/50/3961051.540fa294d7a50.jpg"
+            }, 
+            "last_name": "HAUZEN", 
+            "location": "Lviv, Ukraine", 
+            "occupation": "", 
+            "state": "", 
+            "url": "http://www.behance.net/MoonHauzen", 
+            "username": "MoonHauzen"
+        }
+    ], 
+    "privacy": "public", 
+    "published_on": 1410376323, 
+    "short_url": "http://bit.ly/1qFn5Gy", 
+    "stats": {
+        "appreciations": 406, 
+        "comments": 20, 
+        "views": 2997
+    }, 
+    "styles": {
+        "background": {
+            "color": "507579", 
+            "image": {
+                "name": "b1c5cb15b3bed1cce4329b355120909c.jpg", 
+                "position": "top left", 
+                "repeat": "no-repeat", 
+                "url": "https://m1.behance.net/profiles24/3961051/projects/18416995/b1c5cb15b3bed1cce4329b355120909c.jpg"
+            }
+        }, 
+        "dividers": {
+            "display": "none"
+        }, 
+        "spacing": {
+            "modules": {
+                "bottom_margin": 64
+            }, 
+            "project": {
+                "top_margin": 483
+            }
+        }, 
+        "text": {
+            "caption": {
+                "color": "#3B3B3B", 
+                "display": "block", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "11px", 
+                "font_style": "italic", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "link": {
+                "color": "#1769FF", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "paragraph": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "12px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "subtitle": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "14px", 
+                "font_style": "normal", 
+                "font_weight": "normal", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }, 
+            "title": {
+                "color": "#3B3B3B", 
+                "display": "inline", 
+                "font_family": "arial,helvetica,sans-serif", 
+                "font_size": "16px", 
+                "font_style": "normal", 
+                "font_weight": "bold", 
+                "line_height": "1.4em", 
+                "text_align": "left", 
+                "text_decoration": "none"
+            }
+        }
+    }, 
+    "tags": [
+        "Build up", 
+        "construction", 
+        "Excavator", 
+        "building", 
+        "Workers"
+    ], 
+    "url": "http://www.behance.net/gallery/18416995/Build-Up-Typography"
+}
