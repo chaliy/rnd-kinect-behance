@@ -1,3 +1,3 @@
-﻿(function () {
-    var app = angular.module('App', ['Server', 'ProjectLikes', 'Word', 'Skeleton', 'Interaction']);
-})();
+'use strict';
+
+angular.module('App', ['Server', 'ProjectLikes', 'Main', 'Skeleton', 'Interaction']);

@@ -1,45 +1,44 @@
-﻿(function () {
-    angular
-        .module('ProjectLikes', ['LocalStorageModule', 'Server'])
-        .config(['localStorageServiceProvider', function(localStorageServiceProvider){
-            localStorageServiceProvider.setPrefix('project.likes');
-        }])
-        .factory('projectlikes', ['$interval', '$log', '$rootScope', 'server', 'localStorageService',
-            function ($interval, $log, $rootScope, server, localStorageService) {
+'use strict';
 
-                var keyFn = function (pId) {
-                    return 'count.' + pId;
-                };
+angular
+    .module('ProjectLikes', ['LocalStorageModule', 'Server'])
+    .config(['localStorageServiceProvider', function(localStorageServiceProvider){
+        localStorageServiceProvider.setPrefix('project.likes');
+    }])
+    .factory('projectlikes', ['$interval', '$log', '$rootScope', 'server', 'localStorageService',
+        function ($interval, $log, $rootScope, server, localStorageService) {
 
-                var getProjectLikes = function(projectId) {
-                    return localStorageService.get(keyFn(projectId)) || 0;
-                };
+            var keyFn = function (pId) {
+                return 'count.' + pId;
+            };
 
-                var setProjectLikes = function (projectId, likesCount) {
-                    localStorageService.set(keyFn(projectId), likesCount);
+            var getProjectLikes = function(projectId) {
+                return localStorageService.get(keyFn(projectId)) || 0;
+            };
 
-                    angular.forEach($rootScope.projects, function (p) {
-                        if (p.id == projectId) {
-                            p.like = likesCount;
-                        }
-                    });
-                    $rootScope.$digest();
-                };
+            var setProjectLikes = function (projectId, likesCount) {
+                localStorageService.set(keyFn(projectId), likesCount);
 
-                var instance = angular.extend(EventEmitter, {
-                    getProjectLikes: getProjectLikes,
-                    preRegisterProjectLikes: function (projectId) {
-                        setProjectLikes(projectId, getProjectLikes(projectId) + 1);
+                angular.forEach($rootScope.projects, function (p) {
+                    if (p.id == projectId) {
+                        p.like = likesCount;
                     }
                 });
+                $rootScope.$digest();
+            };
 
-                server.on('projectlikecountchanged', function (e) {
-                    setProjectLikes(e.projectId, e.likeCount);
-                });
+            var instance = angular.extend(EventEmitter, {
+                getProjectLikes: getProjectLikes,
+                preRegisterProjectLikes: function (projectId) {
+                    setProjectLikes(projectId, getProjectLikes(projectId) + 1);
+                }
+            });
 
-                server.send('BroadcastAllProjectLikes', {});
+            server.on('projectlikecountchanged', function (e) {
+                setProjectLikes(e.projectId, e.likeCount);
+            });
 
-                return instance;
-            }]);
+            server.send('BroadcastAllProjectLikes', {});
 
-})();
+            return instance;
+        }]);

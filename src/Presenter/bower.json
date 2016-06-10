@@ -23,6 +23,6 @@
     "angular-animate": "^1.5.6",
     "angular-route": "^1.5.6",
     "angular-sanitize": "^1.5.6",
-    "jasmine-core": "jasmine#^2.4.1"
+    "jasmine-core": "jasmine#^2.4.1"    
   }
 }
