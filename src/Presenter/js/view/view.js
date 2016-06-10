@@ -2,13 +2,13 @@
 
 angular
     .module('View', ['Server','ngRoute'])
-    .config(function ($routeProvider, $locationProvider) {
+    .config(['$routeProvider', $routeProvider => {
         $routeProvider
             .when('/view/:id', {
                 templateUrl: '/js/view/view.html',
                 controller: 'ViewCtrl'
             });
-    })
+    }])
     .controller('ViewCtrl', ['$routeParams','$scope','$rootScope', 'server', '$timeout', 'projectlikes', '$log',
         function ($routeParams, $scope, $rootScope, server, $timeout, projectlikes, $log) {
 

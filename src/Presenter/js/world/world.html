@@ -1,9 +1,12 @@
-<div id="viewport" style="perspective: 600px" >
+<div id="viewport" style="perspective: 250" >
   <div id="world" style="transition: all 2s; transform: rotateY({{ distanceX * 100|number:1}}deg)  translateZ({{ distanceZ|number:1}}px)">
       <div class="project-item" data-ng-repeat="project in projects" data-id="{{project.id}}"
-           style="transform: translateX({{project.x}}px) translateY({{project.y}}px) translateZ({{project.positionZ}}px);">
+           style="transform: translateX({{project.x}}px) translateY({{project.y}}px) translateZ({{project.z}}px);">
           <img ng-src="data/{{project.id}}/cover.png" alt="item"
                style="opacity: {{project.opacity}}; -webkit-filter: blur({{project.blur}}px)" />
       </div>
   </div>
 </div>
+
+<div class="fade-left"></div>
+<div class="fade-right"></div>
