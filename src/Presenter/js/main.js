@@ -10,8 +10,8 @@ angular
     .run(['$rootScope', 'server', 'projectlikes', '$http', '$sce', ($rootScope, server, projectlikes, $http, $sce) => {
 
       let recalculateGrid = projects => {
-        let maxPositionZ = 1500;
-        let minPositionZ = 300;
+        let maxPositionZ = 300;
+        let minPositionZ = -300;
         let likes = _.pluck(projects, 'like');
         let minLike = _.min(likes);
         let maxLike = _.max(likes);
@@ -21,14 +21,18 @@ angular
         projects.forEach(project => {
             let likeCost = (maxPositionZ - minPositionZ) / dLike;
             project.z = Math.floor(maxPositionZ - (project.like * likeCost));
-            let opacity = project.like / dLike;
+            let opacity = 1 - ((project.like - minLike) / dLike);
+            project.opacity0 = opacity;
+            if (opacity > 0.8) {
+                opacity = 1;
+            }
             if (opacity < 0.5) {
                 opacity = opacity * 1.8;
             }
             if (opacity < 0.1) {
                 opacity = 0.1;
             }
-            project.opacity = opacity;
+            project.opacity =  opacity;
             project.blur = 0;
         });
       }
@@ -70,8 +74,8 @@ angular
 
       // Apply random positions
 
-      let height = 200;
-      let width = 1200;
+      let height = 600;
+      let width = 1000;
       let rnd = max => Math.floor(Math.random() * (max - 10) + 10);
 
       projects.forEach(project => {
@@ -82,7 +86,7 @@ angular
 
       // Load likes
       projects.forEach(p => {
-        p.like = Math.floor(Math.random() * (50 - 5) + 5);
+        p.like = Math.floor(Math.random() * 150);
         //p.like = projectlikes.getProjectLikes(p.id);
       });
 
@@ -97,7 +101,6 @@ angular
 
       recalculateGrid(projects);
 
-      console.log(projects);
       $rootScope.projects = projects;
 
       // Listen to server stuff
@@ -117,6 +120,7 @@ angular
       let distance = (pos1, pos2) => {
           return Math.sqrt(Math.pow(pos1.x - pos2.x,2) + Math.pow(pos1.y - pos2.y,2) + Math.pow(pos1.z - pos2.z,2));
       };
+      
       $rootScope.distanceZ = 5;
       $rootScope.distanceX = 0;
       $rootScope.distanceY = 0;

@@ -8,8 +8,7 @@ Install tools
     npm install bower -g
     npm install http-server -g
 
-    gem install sass
-    gem install compass
+    gem install sass    
 
 # Build
 

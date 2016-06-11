@@ -45,7 +45,7 @@ angular
             $rootScope.$watch('distanceX', v => $scope.distanceX = v);
 
             $(window).mousemove(event => {
-                $scope.distanceX = event.pageX / 1000;
+                $scope.distanceX = event.pageX / 5000;
                 $scope.$digest();
             });
 
