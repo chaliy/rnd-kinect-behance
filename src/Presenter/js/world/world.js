@@ -9,8 +9,8 @@ angular
                 controller: 'WorldCtrl'
             });
     }])
-    .controller('WorldCtrl', ['$scope', '$rootScope',
-        '$location', 'server', '$timeout',
+    .controller('WorldCtrl', [
+        '$scope', '$rootScope', '$location', 'server', '$timeout',
         function ($scope, $rootScope, $location, server, $timeout) {
 
             $("#viewport")
@@ -19,12 +19,6 @@ angular
                   opacity: 1
               }, 1000);
 
-            // WTF?
-            server.on('gesturedetected', function (e) {
-                if ($rootScope.onGestureDetected) {
-                    $rootScope.onGestureDetected(e);
-                }
-            });
 
             // If person comes up to 2.8m start presenting
             // If person goes out to more then 3.5m return back to world view
@@ -43,11 +37,6 @@ angular
 
             $rootScope.$watch('projects', v => $scope.projects = v);
             $rootScope.$watch('distanceX', v => $scope.distanceX = v);
-
-            $(window).mousemove(event => {
-                $scope.distanceX = event.pageX / 5000;
-                $scope.$digest();
-            });
 
             $("#body")
               .css("opacity", '1')

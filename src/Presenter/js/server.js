@@ -4,21 +4,21 @@ angular
   .module('Server', [])
   .factory('server', ['$interval', '$log', function ($interval, $log) {
 
-      var instance = angular.extend(EventEmitter, {
+      let instance = angular.extend(EventEmitter, {
           status: 'NA',
           send: function (type, content) {
               var envelope = {
                   type: type,
                   content: content
               };
-              sm.send(angular.toJson(envelope));
+              sm.send(JSON.stringify(envelope));
           }
       });
 
-      var sm = new SocketManager("ws://localhost:8282",
+      let sm = new SocketManager("ws://localhost:8282",
           function (socket, event) {
               if (typeof event.data === 'string') {
-                  var data = angular.fromJson(event.data);
+                  let data = angular.fromJson(event.data);
                   //$log.log(data.type);
                   instance.emit(data.type.toLowerCase(), data.content);
               }
@@ -33,6 +33,7 @@ angular
 
       sm.start();
 
+      // For test purposes
       window.sendCommand = instance.send;
 
       return instance;

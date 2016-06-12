@@ -4,7 +4,7 @@ angular
     .module('View', ['Server','ngRoute'])
     .config(['$routeProvider', $routeProvider => {
         $routeProvider
-            .when('/view/:id', {
+            .when('/view', {
                 templateUrl: '/js/view/view.html',
                 controller: 'ViewCtrl'
             });
@@ -12,10 +12,7 @@ angular
     .controller('ViewCtrl', ['$routeParams','$scope','$rootScope', 'server', '$timeout', 'projectlikes', '$log',
         function ($routeParams, $scope, $rootScope, server, $timeout, projectlikes, $log) {
 
-            var eps = 0.009,
-                prevPoint = {x: 0, y:0, z:0},
-                nextPoint,
-                counter = 0;
+            let alreadyLiked = [];
 
             server.on('trackingchanged', function (e) {
                 if (e.change === 'Engadged') {
@@ -28,73 +25,51 @@ angular
                 }
             });
 
-            server.on('positionchanged', function (e) {
-                var distance = findDistanceBetweenPoints(prevPoint, e.position);
-                if (distance >= eps) {
-                    $scope.distanceZ = $rootScope.distanceZ;
-                    $scope.distanceX = $rootScope.distanceX;
-                    $scope.distanceY = $rootScope.distanceY;
-                    $scope.$digest();
-                }
-                prevPoint = e.position;
-            });
+            $rootScope.$watch("distanceX", v => $scope.distanceX);
 
-            var findDistanceBetweenPoints = function(pos1, pos2){
-                return Math.sqrt(Math.pow(pos1.x - pos2.x,2) + Math.pow(pos1.y - pos2.y,2) + Math.pow(pos1.z - pos2.z,2));
-            };
+            let lastIndex = $rootScope.projects.length - 1;
+            let currentIndex = Math.floor(Math.random() * lastIndex);
 
-            $scope.pkey = Math.floor(Math.random() * (29 - 1) + 1);
-            var l = $rootScope.projects.length - 1;
+            let updateProjects = () => {
+              let projects = $rootScope.projects;
+              $scope.projectLeft = projects[(currentIndex < 1) ? lastIndex : currentIndex - 1];
+              $scope.projectCenter = projects[currentIndex];
+              $scope.projectRight = projects[(currentIndex >= lastIndex) ? 0 : currentIndex + 1];
+            }
 
-            $scope.swepeLeft = function(){
-                $scope.pkey = $scope.pkey - 1;
+            let swipeToRight = () => {
+              if (currentIndex > 0) {
+                currentIndex--;
+                updateProjects();
+              }
+            }
 
-                if($scope.pkey < 0){
-                    $scope.pkey = l;
-                }
+            let swipeToLeft = () => {
+              if (currentIndex < lastIndex) {
+                currentIndex++;
+                updateProjects();
+              }
+            }
 
-            };
-            $scope.swepeRight = function(){
-                $scope.pkey = $scope.pkey + 1;
+            // Startup
+            updateProjects();
 
-                if($scope.pkey > l){
-                    $scope.pkey = 0;
-                }
-            };
-            $scope.$watch("pkey", function (newval) {
+            let items = $(".project-item[data-id='" + $rootScope.projects[currentIndex].id + "']");
 
-                if ($scope.pkey < 1) {
-                    $scope.projectLeft = $rootScope.projects[l];
-                } else {
-                    $scope.projectLeft = $rootScope.projects[$scope.pkey - 1];
-                }
-                $scope.projectCenter = $rootScope.projects[$scope.pkey];
-
-                if ($scope.pkey >= l) {
-                    $scope.projectRight = $rootScope.projects[0];
-                } else {
-                    $scope.projectRight = $rootScope.projects[$scope.pkey + 1];
-                }
-            });
-
-
-            var viewport = $("#viewport");
-                items = $(".project-item[data-id='" + $rootScope.projects[$scope.pkey].id + "']");
-
-            viewport.animate({
+            $("#viewport").animate({
                 opacity: 0
-            }, 1000, function() {
+            }, 1000, () => {
                 $('#body').addClass('go-go');
                 items.removeClass("project-item-active");
             });
 
-
-            $("#body").css("opacity", 0);
-            $("#body").animate({
-                opacity: 1
-            }, 1000, function() {
-                $('#body').addClass('go-go');
-            });
+            $("#body")
+              .css("opacity", 0)
+              .animate({
+                  opacity: 1
+              }, 1000, () => {
+                  $('#body').addClass('go-go');
+              });
 
             $(function() {
                 var liked, onbottom,
@@ -114,8 +89,6 @@ angular
                     } else {
                         $(this).find('.header').removeClass('fade-out');
                     }
-
-                    var heightContent = (workCentralContent.offset().top * (-1)) + 257;
 
                     // if scrolled to the bottom
                     if ($(this).scrollTop() + $(this).innerHeight() + 200 >= this.scrollHeight) {
@@ -144,44 +117,6 @@ angular
                     workBody.removeClass('press');
                 }
 
-
-                // scroll again on bottom
-                var mouseScrolls = 0,
-                    dragDone = true,
-                    disableScroll = false;
-
-                workAct.on('mousewheel', function(e) {
-
-                    if (onbottom) {
-                        mouseScrolls++;
-
-                        if (mouseScrolls >= 3 && dragDone) {
-
-                            workBody.addClass('too-much');
-                            workCentralContent.css({
-                                'transform' : 'translateY(-50px)'
-                            });
-
-                            dragDone = false;
-                            disableScroll = true;
-
-
-                                workBody.removeClass('too-much');
-                                $('.work.central .content').css({
-                                    'transition-duration' : ''
-                                });
-                                mouseScrolls = 0;
-                                dragDone = true;
-                                disableScroll = false;
-
-                        }
-
-                        if (disableScroll) {
-                            e.preventDefault();
-                        }
-                    }
-                });
-
                 // liked
                 $('.like-icon').on('click', function() {
 
@@ -203,11 +138,15 @@ angular
                     var xs = width / 4.0;
                     var ys = height / 4.0;
 
-                    return { "x": (point.x * xs) + width / 2, "y": (point.y * ys) + height / 2 };
+                    return {
+                      x: (point.x * xs) + width / 2,
+                      y: (point.y * ys) + height / 2
+                    };
                 }
+
                 var lastPoint,
                     start = true;
-                setTimeout(function(){
+                $timeout(function(){
                     server.on('interactionchanged', function (e) {
 
                             var heightContent = (workCentralContent.offset().top * (-1)) + 257,
@@ -220,12 +159,8 @@ angular
                                     if (lastPoint != null) {
                                         var d = (point.y - lastPoint.y) * 4;
 
-                                       // var swipeLeftRight = (point.x - lastPoint.x) * 4;
-
-
                                         if(start) {
                                             scrollY = scrollY + d;
-                                            //swipeLeftRight = swipeLeftRight + d;
                                         }
 
                                         if (scrollY < 0){
@@ -262,12 +197,11 @@ angular
                 }, 3000);
 
 
-                var alreadyLiked = [];
 
-                $rootScope.onGestureDetected = function (e) {
+                server.on('gesturedetected', (e) => {
                     switch (e.name) {
                         case 'Like':
-                            var projectId = $rootScope.projects[$scope.pkey].id;
+                            var projectId = $rootScope.projects[lastIndex].id;
                             if (alreadyLiked.indexOf(projectId) >= 0) {
                             } else {
                                 alreadyLiked.push(projectId);
@@ -298,20 +232,14 @@ angular
                             workCentral.animate({ scrollTop: 0 }, 300);
 
                             // refresh classes
-                            setTimeout(function () {
+                            $timeout(() => {
                                 workCentral.removeClass('used');
                                 workCentral.removeClass('active').hide();
-                                $scope.swepeRight();
-                                $scope.$apply();
+                                swipeToLeft();
                             }, 500);
 
-                            setTimeout(function () {
-                                $scope.swepeRight();
-                                $scope.$apply();
-                            }, 700);
-
                             // replay active animation
-                            setTimeout(function () {
+                            $timeout(() => {
                                 workCentral.addClass('active').show();
                                 workNext.removeClass('next-ready');
 
@@ -319,7 +247,7 @@ angular
                                 workBody.removeClass('go-prev');
                             }, 700);
 
-                            setTimeout(function () {
+                            $timeout(() => {
                                 workBody.removeClass('go-back');
                             }, 1000);
 
@@ -336,18 +264,14 @@ angular
                             workCentral.animate({ scrollTop: 0 }, 300);
 
                             // refresh classes before .active start replaying on 600s
-                            setTimeout(function () {
+                            $timeout(() => {
                                 workCentral.removeClass('used');
                                 workCentral.removeClass('active').hide();
-                            }, 700);
-
-                            setTimeout(function () {
-                                $scope.swepeLeft();
-                                $scope.$apply();
-                            }, 700);
+                                  swipeToRight();
+                            }, 500);
 
                             // replay active animation
-                            setTimeout(function () {
+                            $timeout(() => {
                                 workCentral.addClass('active').show();
                                 workPrev.removeClass('prev-ready');
 
@@ -355,17 +279,13 @@ angular
                                 $('#body').removeClass('go-next');
                             }, 700);
 
-                            setTimeout(function () {
+                            $timeout(() => {
                                 // refresh pseudo cover
                                 $('#body').removeClass('go-forward');
                             }, 1000);
+
                             break;
                     }
-                    $scope.$digest();
-                };
-
-                $scope.$on("$destroy", function () {
-                    $rootScope.onGestureDetected = null;
                 });
              });
         }]);

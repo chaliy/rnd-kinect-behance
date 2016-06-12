@@ -11,8 +11,8 @@ angular
 
       let recalculateGrid = projects => {
         let maxPositionZ = 300;
-        let minPositionZ = -300;
-        let likes = _.pluck(projects, 'like');
+        let minPositionZ = -1500;
+        let likes = _.map(projects, 'like');
         let minLike = _.min(likes);
         let maxLike = _.max(likes);
         let dLike = (maxLike - minLike);
@@ -86,7 +86,7 @@ angular
 
       // Load likes
       projects.forEach(p => {
-        p.like = Math.floor(Math.random() * 150);
+        p.like = Math.floor(Math.random() * 80);
         //p.like = projectlikes.getProjectLikes(p.id);
       });
 
@@ -120,7 +120,7 @@ angular
       let distance = (pos1, pos2) => {
           return Math.sqrt(Math.pow(pos1.x - pos2.x,2) + Math.pow(pos1.y - pos2.y,2) + Math.pow(pos1.z - pos2.z,2));
       };
-      
+
       $rootScope.distanceZ = 5;
       $rootScope.distanceX = 0;
       $rootScope.distanceY = 0;
@@ -134,5 +134,51 @@ angular
           }
           prevPoint = e.position;
       });
+
+      // Test hacks
+      $(window).mousemove(e => {
+          $rootScope.distanceX = e.pageX / 5000;
+      });
+
+      // // Emulate right hand
+      // $(window).mousemove(e => {
+      //     e.preventDefault();
+      //     e.cancelBubble = true;
+      //     if (e.buttons === 1){
+      //       let width = $(document).width();
+      //       let height = $(document).height();
+      //       // let xs = width / 4.0;
+      //       // let ys = height / 4.0;
+      //
+      //       let x = e.pageX;
+      //       let y = e.pageY;
+      //
+      //       // Move center
+      //       x = x
+      //
+      //       server.emit('interactionchanged', {
+      //           right: {
+      //             isGripped: true,
+      //             x:
+      //           }
+      //       });
+      //     }
+      // });
+
+      window.distanceX = x => {
+        $rootScope.distanceX = x;
+      }
+
+      window.swipeToLeft = () => {
+        server.emit('gesturedetected', {
+            name: 'SwipeToLeft'
+        });
+      }
+
+      window.swipeToRight = () => {
+        server.emit('gesturedetected', {
+            name: 'SwipeToRight'
+        });
+      }
 
     }]);
