@@ -10,7 +10,9 @@ module.exports = {
             'react',
             'react-dom',
             'react-router',
-            'babel-polyfill'            
+            'babel-polyfill',
+            'chart.js',
+            'react-chartjs'            
         ]
     },
     output: {

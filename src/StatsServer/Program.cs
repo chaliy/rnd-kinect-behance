@@ -50,6 +50,13 @@
                         }
                     });
 
+                manager.CommandReceived
+                    .OfType<LoadFakeLikes>()
+                    .Subscribe(cmd =>
+                    {
+                        ProjectLikesStorage.LoadFakeLikes(cmd.ClientId);                        
+                    });
+
                 while (!console.IsCancelRequested)
                 {
                     Thread.Sleep(TimeSpan.FromSeconds(1));

@@ -53,6 +53,7 @@
       <Link>Properties\CommonAssemblyInfo.cs</Link>
     </Compile>
     <Compile Include="Commands\BroadcastAllProjectLikes.cs" />
+    <Compile Include="Commands\LoadFakeLikes.cs" />
     <Compile Include="Commands\RaiseProjectLike.cs" />
     <Compile Include="Commands\RecordProjectLike.cs" />
     <Compile Include="ContractMarker.cs" />
