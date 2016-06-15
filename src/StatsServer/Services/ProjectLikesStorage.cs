@@ -37,6 +37,20 @@
 
         public static ProjectLikes[] AllLikes()
         {
+            //return new ProjectLikes[]
+            //{
+            //    new ProjectLikes
+            //    {
+            //        ProjectId = "w3434",
+            //        LikesCount = 150
+            //    },
+            //    new ProjectLikes
+            //    {
+            //        ProjectId = "wer3",
+            //        LikesCount = 45
+            //    }
+            //};
+
             Ensure();
             return Db.Run(c =>
             {

@@ -14,6 +14,7 @@
             var console = new ConsoleManager(args);
             var rnd = new Random();
 
+            using (new ApiManager())
             using (var manager = new ServerManager())
             {
                 manager.Start();

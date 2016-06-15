@@ -1,6 +1,5 @@
 ﻿namespace Eleks.KinectBehance.KinectGlue.Emitters.HeuristicGestures
-{
-    using Microsoft.Kinect;
+{   
     using System;
     using System.Collections.Generic;
     using System.Linq;
